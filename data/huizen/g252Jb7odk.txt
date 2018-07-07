@@ -1,0 +1,11 @@
+id: g252Jb7odk
+published: 1
+naam: ravelijn.png
+prijs: 250
+rx: 83
+ry: 134
+lx: 2452
+ly: 1414
+w: 201
+h: 135
+city: 1

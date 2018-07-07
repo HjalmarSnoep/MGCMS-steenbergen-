@@ -1,0 +1,11 @@
+id: hwI0S95kdb
+published: 1
+naam: Reuzenrad
+prijs: 75
+rx: 98
+ry: 304
+lx: 0
+ly: 0
+w: 221
+h: 306
+city: 7

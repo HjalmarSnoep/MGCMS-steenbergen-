@@ -1,0 +1,11 @@
+id: KI8GOav4eQ
+published: 1
+naam: brug.png
+prijs: 250
+rx: 284
+ry: 214
+lx: 393
+ly: 1469
+w: 576
+h: 296
+city: 3

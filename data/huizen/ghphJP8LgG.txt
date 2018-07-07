@@ -1,0 +1,11 @@
+id: ghphJP8LgG
+published: 1
+naam: bsmerijntje.png
+prijs: 250
+rx: 141
+ry: 71
+lx: 1445
+ly: 951
+w: 221
+h: 72
+city: 3

@@ -1,0 +1,11 @@
+id: GSHDf9V04y
+published: 1
+naam: molenassenburg.png
+prijs: 250
+rx: 71
+ry: 203
+lx: 1408
+ly: 1820
+w: 122
+h: 206
+city: 3

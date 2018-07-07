@@ -1,0 +1,11 @@
+id: kRf9yto99C
+published: 1
+naam: amdejonghuis.png
+prijs: 250
+rx: 47
+ry: 75
+lx: 1937
+ly: 1126
+w: 74
+h: 82
+city: 3

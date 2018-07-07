@@ -1,0 +1,11 @@
+id: ksbdTeCv8S
+published: 1
+naam: mariaregina.png
+prijs: 250
+rx: 75
+ry: 143
+lx: 3635
+ly: 739
+w: 176
+h: 144
+city: 1

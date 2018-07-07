@@ -1,0 +1,11 @@
+id: fpE6Ln91ts
+published: 1
+naam: hervormdekerk.png
+prijs: 250
+rx: 104
+ry: 216
+lx: 3391
+ly: 1331
+w: 181
+h: 218
+city: 1

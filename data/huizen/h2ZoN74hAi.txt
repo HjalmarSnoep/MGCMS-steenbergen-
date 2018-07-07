@@ -1,0 +1,11 @@
+id: h2ZoN74hAi
+published: 1
+naam: holle roffel
+prijs: 250
+rx: 58
+ry: 171
+lx: 1176
+ly: 1008
+w: 163
+h: 168
+city: 4

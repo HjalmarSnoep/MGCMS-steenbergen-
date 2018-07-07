@@ -1,0 +1,11 @@
+id: NASI9PK5ZD
+published: 1
+naam: gummarusschool
+prijs: 250
+rx: 151
+ry: 96
+lx: 1845
+ly: 1534
+w: 291
+h: 100
+city: 1

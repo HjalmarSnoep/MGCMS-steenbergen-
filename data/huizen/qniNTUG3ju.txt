@@ -1,0 +1,11 @@
+id: qniNTUG3ju
+published: 1
+naam: Manege
+prijs: 125
+rx: 157
+ry: 237
+lx: 0
+ly: 0
+w: 353
+h: 244
+city: 7

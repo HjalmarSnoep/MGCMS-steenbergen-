@@ -1,0 +1,11 @@
+id: GnFgx8PYd8
+published: 1
+naam: knotwilg meermin
+prijs: 250
+rx: 174
+ry: 199
+lx: 2793
+ly: 1780
+w: 351
+h: 203
+city: 1

@@ -1,0 +1,11 @@
+id: iXdSaKKx4W
+published: 1
+naam: dorpshuis dinteloord
+prijs: 250
+rx: 84
+ry: 127
+lx: 1774
+ly: 1673
+w: 124
+h: 124
+city: 5
