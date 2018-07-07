@@ -1,0 +1,42 @@
+ @import url(http://fonts.googleapis.com/css?family=Luckiest+Guy);
+ /*-----------------------------------------
+  Style specific for this game.
+  -----------------------------------------
+  */
+	/* webfonts, we need the eot for IE 8! */
+	
+	
+	body, html{
+	/* background-image: url('img/background.jpg'); */
+		font-family: Tahoma, Verdana, Segoe, sans-serif;
+	}
+	/* standard text button */
+	.btn-content{
+		display: inline-block;
+		vertical-align: middle;
+	}
+	.btn {
+/*		border: 1px solid #aaaaaa;*/
+		display: inline-block;
+		color: #fff;
+		cursor: pointer;
+		font-family: arial,sans-serif;
+		font-weight: bold;
+		position: relative;
+		text-align: center;
+		}
+		
+	.btn:hover{
+		background-color: rgba(255,255,255,0.25); 
+	}
+	
+	h2	{
+ 		font-size: 130%;  
+ 		margin-top: 10%;  
+ 		margin-bottom: 1%;  
+		color: rgb(153, 204, 255);
+	}
+	em	{
+		font-size: 110%;  
+	}
+	

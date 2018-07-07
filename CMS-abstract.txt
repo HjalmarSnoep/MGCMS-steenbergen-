@@ -1,0 +1,33 @@
+Data grouping.
+
+A (game) project can be made in the CMS
+A project MUST have at least one owner.
+
+The project OWNER can allow collaboration in different forms.
+ -PULL collaboration (ask a specific question, contest it..)
+	 -create a behaviourplay-pen
+	 -create an data group slot
+	     -a data groups slot, must contain a minimum of 3 texts, 1 picture, one sound.. and or.....
+              and can have version..
+
+ -PUSH collaboration (suggestion box)
+	 -elevator pitch (picture/text / movie)
+	 -suggestion-box (with subjects).
+	 -assets / sound / images / animation etc..
+
+	 -code-lifts core development, lib development, behaviours.
+-General collabortation like debugging/testing.
+ 
+The collaborator can ALWAYS try out his/her collaborations in the local cookie.
+But can also PUSH collaboration.
+	GAME DESIGN (general suggestions)
+	Request Feature
+	  the collaborator can then send the owner a message with a plea (elevator pitch)
+	  to add a feature.
+	  This can be accompanied by an asset and or code to try out.
+	DOCS:
+		Review
+			A user can submit a review.. The collaborator can hide the text.
+		Bugs/Testing
+			Platform, expected behaviour, behaviour, screenshot.
+	
