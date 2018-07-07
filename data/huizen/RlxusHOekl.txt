@@ -1,0 +1,11 @@
+id: RlxusHOekl
+published: 1
+naam: maria regina
+prijs: 250
+rx: 75
+ry: 141
+lx: 3606
+ly: 831
+w: 204
+h: 143
+city: 1

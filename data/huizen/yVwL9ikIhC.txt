@@ -1,0 +1,11 @@
+id: yVwL9ikIhC
+published: 1
+naam: Stadion
+prijs: 150
+rx: 21601388549804688
+ry: 3077916564941406
+lx: 0
+ly: 0
+w: 287
+h: 221
+city: 7

@@ -1,0 +1,11 @@
+id: TD09YImj78
+published: 1
+naam: IJscokar
+prijs: 20
+rx: 18
+ry: 38
+lx: 0
+ly: 0
+w: 48
+h: 42
+city: 7

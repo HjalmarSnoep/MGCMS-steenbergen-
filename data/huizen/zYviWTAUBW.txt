@@ -1,0 +1,11 @@
+id: zYviWTAUBW
+published: 1
+naam: kerk2
+prijs: 250
+rx: 66
+ry: 141
+lx: 1676
+ly: 1620
+w: 122
+h: 141
+city: 5

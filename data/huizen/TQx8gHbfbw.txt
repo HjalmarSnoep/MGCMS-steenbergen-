@@ -1,0 +1,11 @@
+id: TQx8gHbfbw
+published: 1
+naam: Zwemparadijs
+prijs: 100
+rx: 345
+ry: 339
+lx: 0
+ly: 0
+w: 422
+h: 340
+city: 7

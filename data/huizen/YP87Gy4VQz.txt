@@ -1,0 +1,11 @@
+id: YP87Gy4VQz
+published: 1
+naam: Cinema
+prijs: 20
+rx: 77
+ry: 123
+lx: 0
+ly: 0
+w: 151
+h: 127
+city: 7

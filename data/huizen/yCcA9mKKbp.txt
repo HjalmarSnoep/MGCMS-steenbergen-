@@ -1,0 +1,11 @@
+id: yCcA9mKKbp
+published: 1
+naam: nieuweveste.png
+prijs: 250
+rx: 164
+ry: 121
+lx: 2547
+ly: 1285
+w: 293
+h: 125
+city: 1

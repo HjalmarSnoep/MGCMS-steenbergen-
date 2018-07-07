@@ -1,0 +1,11 @@
+id: ZF5A4ixOB0
+published: 1
+naam: protkerk.png
+prijs: 250
+rx: 48
+ry: 144
+lx: 2041
+ly: 1132
+w: 104
+h: 147
+city: 3

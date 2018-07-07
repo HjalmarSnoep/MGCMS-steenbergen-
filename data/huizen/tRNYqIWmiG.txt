@@ -1,0 +1,11 @@
+id: 
+published: 
+rx: 0
+ry: 0
+lx: 0
+ly: 0
+w: 240
+h: 114
+naam: new_huis.png
+prijs: 250
+city: 0

@@ -1,0 +1,11 @@
+id: WHSq2pCTf7
+published: 1
+naam: gemeentehuis.png
+prijs: 250
+rx: 39
+ry: 117
+lx: 3436
+ly: 865
+w: 136
+h: 119
+city: 1

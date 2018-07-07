@@ -1,0 +1,11 @@
+id: yjH2uN1wsE
+published: 1
+naam: johdoperkerk.png
+prijs: 250
+rx: 165
+ry: 211
+lx: 1834
+ly: 1141
+w: 221
+h: 216
+city: 3

@@ -1,0 +1,11 @@
+id: tMKjw65LFk
+published: 1
+naam: Corneliuskerk
+prijs: 250
+rx: 61
+ry: 143
+lx: 741
+ly: 705
+w: 170
+h: 179
+city: 6

@@ -1,0 +1,11 @@
+id: Xro5ZEfj8T
+published: 1
+naam: Boomhut
+prijs: 50
+rx: 91
+ry: 175
+lx: 0
+ly: 0
+w: 161
+h: 173
+city: 7
