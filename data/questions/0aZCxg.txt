@@ -1,0 +1,18 @@
+title: PNEM
+published: 1
+body: Wat bracht de PNEM in 1930 naar Nieuw-Vossemeer?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 3
+media: BZ6HXGU08f
+A: Elektriciteit
+B: Drinkwater
+C: Gas
+D: Riolering
+hint: Tot 1930 kregen de Nieuw-Vossemeerse kinderen regelmatig van hun ouders te horen
+right: &#039;Doe dat licht uit!!!&#039; Krijg jij dat ook regelmatig van je vader en moeder te horen? Tot 1930 werd dat in Nieuw-Vossemeer nooit geroepen. Tot die tijd was er namelijk helemaal geen elektriciteit in het dorp. Het licht kwam &#039;s avonds van kaarsen en olielampen. Er waren wel lantaarnpalen, maar die brandden op olie die iedere avond door de nachtwaker werd aangestoken. Aan het begin van de twintigste eeuw kwam de elektriciteit op gang als bron voor verlichting en energie. In 1930 bracht de PNEM, de Provinciale Noord-Brabantse Elektriciteitsmaatschappij, elektriciteit naar Nieuw-Vossemeer. Al was het toen nog alleen voor het dorp zelf. De buitengebieden zoals Heense Molen, Notendaal, Kade en Paardenhoek kwamen pas later aan de beurt.
+wrong: 
+author: dasja
+answer: A
