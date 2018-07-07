@@ -1,0 +1,11 @@
+id: AZJeZYqh9Y
+published: 1
+naam: Achtbaan
+prijs: 150
+rx: 125
+ry: 220
+lx: 0
+ly: 0
+w: 266
+h: 221
+city: 7

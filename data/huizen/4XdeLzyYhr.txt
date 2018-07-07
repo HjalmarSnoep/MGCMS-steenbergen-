@@ -1,0 +1,11 @@
+id: 4XdeLzyYhr
+published: 1
+naam: gummarusschool.png
+prijs: 250
+rx: 99
+ry: 98
+lx: 1577
+ly: 1478
+w: 197
+h: 99
+city: 1

@@ -1,0 +1,11 @@
+id: 2Sfke32qOk
+published: 1
+naam: kerk4.png
+prijs: 0
+rx: 70
+ry: 141
+lx: 1403
+ly: 1671
+w: 163
+h: 149
+city: 5

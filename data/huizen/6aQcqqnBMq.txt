@@ -1,0 +1,11 @@
+id: 6aQcqqnBMq
+published: 1
+naam: kerk3.png
+prijs: 0
+rx: 61
+ry: 165
+lx: 1551
+ly: 1423
+w: 136
+h: 175
+city: 5

@@ -1,0 +1,11 @@
+id: Aqkv5IPmxS
+published: 1
+naam: Snoepwinkel
+prijs: 60
+rx: 43
+ry: 106
+lx: 0
+ly: 0
+w: 81
+h: 109
+city: 7

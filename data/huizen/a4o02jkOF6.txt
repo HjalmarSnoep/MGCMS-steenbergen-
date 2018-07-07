@@ -1,0 +1,11 @@
+id: a4o02jkOF6
+published: 1
+naam: Piusx
+prijs: 250
+rx: 82
+ry: 92
+lx: 0
+ly: 0
+w: 141
+h: 93
+city: 6

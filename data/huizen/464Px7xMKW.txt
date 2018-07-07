@@ -1,0 +1,11 @@
+id: 464Px7xMKW
+published: 1
+naam: monumentklok
+prijs: 250
+rx: 34
+ry: 61
+lx: 2420
+ly: 1082
+w: 69
+h: 69
+city: 6

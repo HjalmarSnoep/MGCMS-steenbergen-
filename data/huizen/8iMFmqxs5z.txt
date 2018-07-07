@@ -1,0 +1,11 @@
+id: 8iMFmqxs5z
+published: 1
+naam: de zonneberg
+prijs: 250
+rx: 106
+ry: 98
+lx: 1321
+ly: 730
+w: 244
+h: 98
+city: 4

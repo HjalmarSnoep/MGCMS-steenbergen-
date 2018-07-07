@@ -1,0 +1,11 @@
+id: 2NxYrm5XZ8
+published: 1
+naam: watertoren.png
+prijs: 250
+rx: 73
+ry: 286
+lx: 3797
+ly: 1627
+w: 242
+h: 315
+city: 1

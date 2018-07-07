@@ -1,0 +1,11 @@
+id: 7nuiAoxcTF
+published: 1
+naam: stadhuis.png
+prijs: 250
+rx: 112
+ry: 148
+lx: 3091
+ly: 1128
+w: 146
+h: 149
+city: 1

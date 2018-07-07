@@ -1,0 +1,11 @@
+id: clSvaJfH7t
+published: 1
+naam: aquadintel.png
+prijs: 0
+rx: 121
+ry: 117
+lx: 1028
+ly: 2042
+w: 252
+h: 133
+city: 5

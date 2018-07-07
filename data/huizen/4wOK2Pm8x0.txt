@@ -1,0 +1,11 @@
+id: 4wOK2Pm8x0
+published: 1
+naam: villabax.png
+prijs: 250
+rx: 75
+ry: 97
+lx: 3084
+ly: 925
+w: 144
+h: 101
+city: 1

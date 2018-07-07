@@ -1,0 +1,11 @@
+id: 9Ao6grEe0U
+published: 1
+naam: molendevos.png
+prijs: 0
+rx: 60
+ry: 201
+lx: 1436
+ly: 1047
+w: 154
+h: 205
+city: 2

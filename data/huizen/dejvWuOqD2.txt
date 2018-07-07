@@ -1,0 +1,11 @@
+id: dejvWuOqD2
+published: 1
+naam: piusX
+prijs: 250
+rx: 91
+ry: 98
+lx: 668
+ly: 702
+w: 160
+h: 92
+city: 6

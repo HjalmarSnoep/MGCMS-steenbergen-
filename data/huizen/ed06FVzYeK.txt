@@ -1,0 +1,11 @@
+id: ed06FVzYeK
+published: 1
+naam: stellamaris.png
+prijs: 250
+rx: 130
+ry: 334
+lx: 288
+ly: 908
+w: 370
+h: 341
+city: 6
