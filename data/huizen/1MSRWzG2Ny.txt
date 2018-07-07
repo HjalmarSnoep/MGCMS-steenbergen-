@@ -1,0 +1,11 @@
+id: 1MSRWzG2Ny
+published: 1
+naam: gummaruskerk.png
+prijs: 250
+rx: 127
+ry: 336
+lx: 3282
+ly: 1118
+w: 253
+h: 344
+city: 1
