@@ -1,0 +1,5 @@
+RewriteEngine On    # Turn on the rewriting engine
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)$ build_js.php?lib=$1
+
+

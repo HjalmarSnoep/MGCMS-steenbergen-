@@ -1,0 +1,63 @@
+ @import url(http://fonts.googleapis.com/css?family=Luckiest+Guy);
+ /*-----------------------------------------
+  Style specific for this MG CMS.
+  -----------------------------------------
+  */
+	/* webfonts, we need the eot for IE 8! */
+	
+	
+	body, html{
+	/* background-image: url('img/background.jpg'); */
+	}
+		
+	/* standard text button */
+	.btn-content{
+		display: inline-block;
+		vertical-align: middle;
+	}
+	.btn {
+		text-shadow: 0 -1px 0 rgba(0,0,0,0.25); 
+		background-color: #451d4c; 
+		background-image: -moz-linear-gradient(top, #451d4c, #2c193a);
+		background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#451d4c), to(#2c193a));
+		background-image: -webkit-linear-gradient(top, #451d4c, #2c193a);
+		background-image: -o-linear-gradient(top, #451d4c, #2c193a);
+		background-image: linear-gradient(to bottom, #451d4c, #2c193a);
+		background-repeat: repeat-x;
+		filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff451d4c', endColorstr='#ff2c193a', GradientType=0);
+		border-color: #451d4c #451d4c #2c193a;
+		border-color: rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);
+		filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+		border: 1px solid #2c193a;
+		display: inline-block;
+		color: #fff;
+		cursor: pointer;
+		border-radius: 3px;
+		box-shadow: 0 1px 2px 0 #888;
+		font-family: arial,sans-serif;
+		font-weight: bold;
+		position: relative;
+		text-align: center;
+		text-shadow: 0 -1px #555;
+		}
+		
+	.btn:hover{
+		color:#fff;
+		background-color: #944dbe; 
+		background-image: -moz-linear-gradient(top,  #944dbe, #451d4c);
+		background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#944dbe), to(#451d4c));
+		background-image: -webkit-linear-gradient(top, #944dbe, 451d4c);
+		background-image: -o-linear-gradient(top, #944dbe, 451d4c);
+		background-image: linear-gradient(to bottom,  #944dbe, 451d4c);
+		filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff944dbe', endColorstr='#ff451d4c', GradientType=0);
+	}
+	
+	h2	{
+ 		font-size: 130%;  
+ 		margin-top: 10%;  
+ 		margin-bottom: 1%;  
+		color: rgb(153, 204, 255);
+	}
+	em	{
+		font-size: 110%;  
+	}
