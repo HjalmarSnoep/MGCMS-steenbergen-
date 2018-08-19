@@ -1,0 +1,18 @@
+title: iNUNDEREN
+published: 1
+body: De grillige watergangen in de polder, ook wel kreken genoemd, werden vroeger gebruikt om het land onder water te zetten (inunderen). Waarom deden ze dat?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 4
+media: VZrptI3RBT
+A: Om het land nat te houden
+B: Om de vijand tegen te houden
+C: Om makkelijk vissen te vangen
+D: Om overtollig water te bergen
+hint: De Spanjaarden hebben hier in het verleden nogal eens natte voeten opgelopen.
+right: In de periode 1627 tot 1832 werd de West-Brabantse Waterlinie aangelegd. Deze diende ter verdediging van Holland en Zeeland tegen de Spanjaarden, Fransen en Belgen. Wanneer de vijand te dichtbij kwamen zette men de sluizen open en liet de kreken vol water lopen. Daardoor liep de aanval behoorlijk in het water. Ter hoogte van de Blauwe Sluis lag in 1628 een eenvoudige schans die later is vervangen door een batterij, ook een verdedigingswerk. Deze batterij is echter niet meer zichtbaar.
+wrong: 
+author: dasja
+answer: B

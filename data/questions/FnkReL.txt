@@ -1,0 +1,18 @@
+title: Uitbreidingsplan
+published: 1
+body: Wat hoorde in 1953/1954 niet bij het uitbreidingsplan van Nieuw-Vossemeer?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 3
+media: Igr5jQNLPg
+A: Klooster
+B: Blusvijver
+C: Houten woningen
+D: Eendenkooi
+hint: Nade Watersnoodramp was er vooral behoefte aan woningen voor mens en dier. Houten woningen werden geschonken door onder meer Noorwegen.
+right: Na de watersnoodramp van 1953 werd er een uitbreidingsplan opgesteld voor Nieuw-Vossemeer. Dat was nodig want veel mensen waren hun huis kwijtgeraakt tijdens de Ramp. Ook was het hoog tijd om het dorp te vernieuwen. In het uitbreidingsplan kwamen allereerst de houten woningen die geschonken waren door Noorwegen en Oostenrijk, ook kwamen er woningwetwoningen. De hele wijk werd rond een grote brand- of blusvijver gebouwd. Hieruit zou de brandweer water kunnen putten wanneer er een brand ontstond. Die kans was groter dan normaal omdat er zoveel houten huizen stonden. In de vijver werden goudvissen uitgezet en een drijvende eendenkooi in geplaatst. Die verdwenen in de loop der tijd. Sinds 2013 kunnen de Vossemeerse eendjes weer in hun eigen drijvende bungalow terecht.
+wrong: 
+author: dasja
+answer: A

@@ -1,0 +1,18 @@
+title: Brabantse wal
+published: 1
+body: Wat is het belangrijkste kenmerk van de Brabantse Wal
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 6
+media: 8jI11lOy1S
+A: Hoogteverschil in het landschap
+B: Moerasgebieden
+C: Woestijnverstuivingen
+D: Uitgestrekte bossen
+hint: Vanaf Woensdrecht race je zo naar de Welberg.
+right: In de gemeente Steenbergen liggen de uitlopers van de Brabantse Wal. Het zijn hoogtes in het landschap. De Welberg en het centrum van Steenbergen zijn daar voorbeelden van. Het zijn geen hoge bergen, maar ze liggen we degelijk hoger dan de rest van het landschap. Let er maar eens op als je op de fiets van &#039;t Cromwiel naar de Markt rijdt. Of als je vanaf de Kapelaan Kockstraat in Steenbergen naar sportpark &#039;t Zandbaantje aan de Hoogstraat rijdt. Je moet dan toch even een beetje extra trappen.
+wrong: 
+author: dasja
+answer: A

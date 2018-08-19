@@ -1,0 +1,18 @@
+title: Limonadefabriek
+published: 1
+body: Hoe heette de Dinteloordse limonadefabriek?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 5
+media: pPZ3TFglQK
+A: Prinsprik
+B: Dintelcola
+C: Troka
+D: Suikerbruis
+hint: De heren Troost en Kats richtten de fabriek op.
+right: De fabriek heette Troka. Dit was een samenvoeging van de namen Troost en Kats. Dit waren de oprichters van de limonadefabriek. Er waren toen nog geen schroefdoppen op de flessen. De limonade zat in zogenaamde beugelflesjes die je nu nog wel eens ziet bij sommige biermerken. Op ieder flesje Troka-limonade stond de slagzin
+wrong: 
+author: dasja
+answer: C

@@ -1,0 +1,18 @@
+title: RKBS
+published: 1
+body: In Kruisland gaan bijna alle kinderen naar basisschool RKBS De Zonneberg. Waar staan de letters RKBS voor?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 4
+media: ropOnGwWmz
+A: Regionale Kruislandse Basis School
+B: Rekenen, Kunst, Boeken, Schrijven
+C: Rijks Kruislandse Boeren School
+D: Rooms Katholieke Basis School
+hint: Zoals veel scholen in Brabant vindt ook de Zonneberg zijn oorsprong in de kerk.
+right: De Zonnebergschool is een Room-Katholieke Basisschool (RKBS) waarzo&#039;n 200 leerlingen onderwijs volgen. Het merendeel van de leerlingen komt uit gezinnen die al jarenlang in het dorp Kruisland wonen. Er werken 11 leerkrachten die het onderwijs verzorgen voor 8 groepen.
+wrong: 
+author: dasja
+answer: D

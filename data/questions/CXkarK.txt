@@ -1,0 +1,18 @@
+title: Dorpsquiz
+published: 1
+body: Welk team won de eerste Nieuw-Vossemeerse Dorpsquiz in 2014?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 3
+media: d7zNn71nLw
+A: Team A.M. de Jongpark
+B: Familie Gijzen
+C: Team Nooitgedacht
+D: &#039;t Laatste Moment
+hint: De wisselbeker voor het winnende team wordt tentoongesteld in het A.M. de Jongmuseum. Dat sloot mooi aan bij de naam van de eerste winnaar.
+right: In 2014 organiseerde de Heemkundekring Ambachtsheerlijkheid in Nieuw-Vossemeer de allereerste Dorpsquiz. De vragen en opdrachten gingen over politiek, religie, verenigingsleven, scholen, dialect en nog veel meer. Een beetje zoals dit spel dus. Ook moesten er groepsopdrachten gedaan worden. De avond werd een groot succes. Maar liefst tien groepen streden in de Vossenburcht om de Majoor Burkebeker en de eeuwige roem. De beker wordt het hele jaar door tentoon gesteld in het A.M. de Jongmuseum. Het was dan ook wel toepasselijk dat de eerste winnaar van de beker het team A.M. de Jongpark was. Op de voet gevolg door de familie Van Gaans en &#039;t Laatste Moment.
+wrong: 
+author: dasja
+answer: A

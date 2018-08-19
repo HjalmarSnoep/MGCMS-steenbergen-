@@ -1,0 +1,18 @@
+title: Kleding
+published: 1
+body: Waar gingen de bewoners voor 1900 naar toe voor hun kleding?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 3
+media: ZgsW8fxEjo
+A: Ze gingen naar de kleermaker op het dorp
+B: Dat bestelden ze ook toen al online
+C: Ze gingen naar een kledingwinkel in de stad
+D: Ze gingen nergens naartoe; ze maakten alle kleding zelf
+hint: Vroeger hadden de mensen lang niet zoveel geld en gingen heel zuinig om met de spullen die ze hadden. Wat kapot ging, werd gemaakt.
+right: Tegenwoordig koop je kleding en als het kapot is gooi je het weg. Ben je er uitgegroeid dan gaat het in de kledingcontainer of naar iemand die je kent. Vroeger ging dat heel anders. Mensen hadden lang niet zoveel geld en gingen heel zuinig om met de spullen die ze hadden. Wat kapot ging, werd gemaakt. Wat te klein was, werd groter gemaakt. Veel van het werk deden de vrouwen maar regelmatig moest de kleermaker er aan te pas komen. Met hier en daar een ingezet lapje kon de broek, schort of jurk nog best wel een poosje mee. Maar de kleermaker maakte ook nieuwe pakken en jurken. Het is grappig dat alle kleermakers mannen waren, terwijl in de gezinnen het altijd de vrouwen waren die kleren maakten of repareerden. Na 1900 verdwijnt het beroep van kleermaker.
+wrong: 
+author: dasja
+answer: A

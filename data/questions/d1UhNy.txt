@@ -1,0 +1,18 @@
+title: Gebouw
+published: 1
+body: Het gebouw op de foto staat aan de Welbergsedijk in Welberg. Wat was het?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 6
+media: Emo7EMrTQ0
+A: Schooltje
+B: Smidse
+C: Kerk
+D: Schoenmaker
+hint: Er stond een paard in de gang.
+right: Aan de Welbergsedijk 22 staat een oude smederij/woonhuis. De smederij vond je aan de voorkant van het gebouwtje. Aan de achterkant liggen de woonvertrekken met bedsteden. Het is gebouwd in 1861 en zeer zeldzaam in zijn soort. Vooral omdat het een goed voorbeeld is van een smederij op het platteland in de 19e eeuw. Je moet je voorstellen dat de Welberg in die tijd nog maar uit een paar huizen bestond. De smederij was er echt voor de boeren in de omgeving. Zij kwamen naar de smid om hun paarden te laten beslaan. Paarden waren er in die tijd heel veel voor het werk op het platteland want tractoren en combines waren er nog niet. Het gebouwtje is ook uniek vanwege de bouwstijl en de wijze waarop het gebouwd is. Het is een officieel Rijksmonument maar helaas wel zwaar in verval geraakt. In de voorgevel is een gedenksteen geplaatst met opschrift
+wrong: 
+author: dasja
+answer: B

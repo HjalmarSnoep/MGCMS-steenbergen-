@@ -1,0 +1,18 @@
+title: Historische gebeurtenis
+published: 1
+body: Door welke historische gebeurtenis in de 20e eeuw veranderde deNieuw-Vossemeerse leefwereld ingrijpend?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 3
+media: KXa6h7p45q
+A: Watersnoodramp van 1953
+B: De komst van de mobiele telefoon
+C: De Tweede Wereldoorlog
+D: De moord op president John F. Kennedy van Amerika
+hint: De wegen in en rond het dorp moest opnieuw aangelegd worden. Ze werden beter en talrijker dan voorheen waardoor het dorp gemakkelijk te bereiken was.
+right: De leefwereld van Nieuw-Vossemeer veranderde enorm als gevolg van de Watersnoodramp van 1953. Er was zoveel verwoest dat het dorp voor een groot deel opnieuw opgebouwd moest worden. In de jaren die volgden na de Ramp werd Nieuw-Vossemeer snel groter. De wegen in en rond het dorp werden opnieuw aangelegd, waardoor het dorp gemakkelijk te bereiken was. Was Nieuw-Vossemeer tot 1953 nog vooral op zichzelf aangewezen; nu ging het mee met de rest van de wereld. Het was meer dan voorheen echt een deel van de Brabantse en Nederlandse bevolking en samenleving.
+wrong: 
+author: dasja
+answer: A

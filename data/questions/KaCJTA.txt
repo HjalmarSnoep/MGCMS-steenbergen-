@@ -1,0 +1,18 @@
+title: Zwaaigat
+published: 1
+body: Waarvoor diende het zwaaigat in de haven?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 5
+media: AAozAaH0qe
+A: Om te keren
+B: Om te laden
+C: Om te zwaaien naar de achterblijvers op de kade
+D: Om te schuilen voor een storm
+hint: Je kan er je kont niet zwaaien klinkt wel een beetje vreemd.
+right: Het zwaaigat diende om de schepen te laten keren, als ze bijvoorbeeld bieten hadden geladen en weer terug moesten varen naar de suikerfabriek.
+wrong: 
+author: dasja
+answer: A

@@ -1,0 +1,18 @@
+title: Hertenkamp
+published: 1
+body: Waar is in Dinteloord het hertenkamp?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 5
+media: hG5C49S4Az
+A: Op het Raadhuisplein
+B: Naast het voetbalveld
+C: Bij de school
+D: In het park
+hint: Je kunt er ook heerlijk wandelen.
+right: In Dinteloord is het hertenkamp in het park naast het verzorgingscentrum De Nieuwe Haven. Voor de ouderen, maar ook voor kinderen is het leuk om een kijkje te nemen bij de hertjes die erg gewend zijn aan de mensen.
+wrong: 
+author: dasja
+answer: D

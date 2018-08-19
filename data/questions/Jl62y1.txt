@@ -1,0 +1,18 @@
+title: Een belangrijk moment
+published: 1
+body: Wat gebeurde er met Steenbergen in 1272?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 1
+media: dJiDvVzfY8
+A: Het ging ten onder in een grote brand
+B: Het werd uitgeroepen tot de groenste gemeente van Nederland
+C: De Olympische Spelen werden er gehouden
+D: Het werd een stad
+hint: Den Haag is het niet.
+right: Den Haag is een dorp en Steenbergen een stad. Het klinkt een beetje raar, maar het is wel waar. Den Haag is qua grootte wel een stad maar heeft nooit stadsrechten gekregen en Steenbergen wel. Dat gebeurde in 1272 door Arnoud van Leuven, de Heer van Breda. Vandaar dat we een Van Leuvenstraat in Steenbergen hebben (achter de Jumbo). Toen Steenbergen eenmaal die rechten had mocht zij een rechtssysteem hebben en later ook tol heffen op de rivieren de Vliet en de Striene. Dat laatste riviertje bestaat trouwens niet meer, maar is nog wel de reden dat Steenbergen in carnavalstijd Strienestad heet.
+wrong: 
+author: dasja
+answer: D

@@ -1,0 +1,18 @@
+title: zout - zoet
+published: 1
+body: Toen het Volkerak van de zee werd afgesloten door de Philipsdam werd het zoute water langzaam zoet. Voor welke vissen betekende dit het einde in het Volkerak?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 2
+media: BqOaxnq7jg
+A: Snoek en voorn
+B: Brasem en karper
+C: Bot en schar
+D: Haring en ansjovis
+hint: E&eacute;n van de vissen ving je er vroeger letterlijk. Nu vang je ze er spreekwoordelijk.
+right: Bot en schar zijn vissen van het zoute water. Sinds de afsluiting van het Volkerak in april 1987 zal je daar dus tevergeefs naar vissen. Zoetwatervissen zoals snoek, brasem, karper en voorn zijn er voor in de plaats gekomen. De Heense bevolking ging vroeger vaak vissen op bot. Vooral in de kreken van de Heense slikken. Vandaar dat de grootste kreek in het gebied de Botkreek heet.
+wrong: 
+author: dasja
+answer: C

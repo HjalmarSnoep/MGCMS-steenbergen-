@@ -1,0 +1,18 @@
+title: aquaduct
+published: 1
+body: Waar ligt het eerste aquaduct van de gemeente Steenbergen?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 6
+media: 
+A: Over de Vliet bij Dinteloord
+B: Onder de Vliet bij Steenbergen
+C: Onder de Eendracht bij Nieuw-Vossemeer
+D: Onder de Boomvaart bij Welberg
+hint: Oudland aan Zee.
+right: Wanner je langs het gedeelte van de Boomvaart tussen ongeveer de Canadezenweg en de Leguijt loopt, dan zie je dat het water op een groot gedeelte hoger staat dan de weg. Dat komt doordat het water vanuit de polder onder de Boomvaart doorgaat. De ene waterloop gaat dus over de andere heen
+wrong: 
+author: dasja
+answer: D

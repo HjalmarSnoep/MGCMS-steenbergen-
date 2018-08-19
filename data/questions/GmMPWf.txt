@@ -1,0 +1,18 @@
+title: Canadese graven
+published: 1
+body: Waar liggen de Canadese soldaten die tijdens de Tweede Wereldoorlog in Welberg zijn gesneuveld, begraven?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 6
+media: 1WndIKfLM9
+A: In Canada
+B: Op het kerkhof van de Welberg
+C: Op het kerkhof in Steenbergen
+D: Op het Oorlogskerkhof in Bergen op Zoom
+hint: Rijen en rijen witte kruizen.
+right: 56 van de 57 gesneuvelde Canadezen liggen in het Canadian War Cemetry, het oorlogskerkhof, in Bergen op Zoom (&eacute;&eacute;n soldaat is nooit gevonden). Na de bevrijding van Bergen op Zoom, maakten de Canadezen op Plein 13 in deze stad een verzamelplaats voor slachtoffers. Bergen op Zoom was op dat moment de plek waar de soldaten hun ziekenhuis hadden. De gemeente Bergen op Zoom heeft vervolgens veel moeite gedaan om de regering in Canada te overtuigen dat er een begraafplaats moest komen. De mensen uit Bergen op Zoom en omstreken wilden deze begraafplaats graag dichtbij om hun dankbaarheid aan de gesneuvelden en familieleden te kunnen blijven tonen.
+wrong: 
+author: dasja
+answer: D

@@ -1,0 +1,18 @@
+title: Keur
+published: 1
+body: De naam Steenbergen wordt voor het eerst genoemd in een document uit 1272. Dit document heet &#039;de oude keur&#039;. Wat is dat?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 1
+media: NDzkoalSoL
+A: Een koopakte voor een huis dat &iacute;t Steen heette
+B: De menukaart van een restaurant dat Steenbergen heette
+C: Oprichtingsdocument van bejaardenhuis &#039;In de Oude Keur
+D: De regels van de stad Steenbergen
+hint: 
+right: Een keur is eigenlijk een document waarmee een plaats officieel een stad genoemd mag worden. Steenbergen kreeg dit in 1272. In de keur staat precies wat je wel en niet mag als stad. Er stond bijvoorbeeld in wat inwoners en bezoekers van de stad wel en niet mochten doen. En welke straf ze kregen als ze zich daar niet aan hielden. Er stond ook in hoe het bestuur van de stad eruit moest zien en welke rechten de stad heeft. Bijvoorbeeld het recht om een jaarmarkt te houden. Op de foto zie je trouwens niet de oude keur maar een soortgelijk document uit 1308.
+wrong: 
+author: dasja
+answer: D

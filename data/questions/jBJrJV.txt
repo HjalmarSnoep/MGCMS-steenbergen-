@@ -1,0 +1,18 @@
+title: IJzeren brug
+published: 1
+body: In 1947 werd er over de Vliet tussen Kruisland en Oud Gastel een brug gelegd. Hoe noemt men zo&#039;n ijzeren brug?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 4
+media: 3ohLt1k6KZ
+A: Baileybrug
+B: De IJzeren brug
+C: Rommelbrug
+D: De Hoge Brug
+hint: De bedenker van de brug was een Brit die voor zijn plezier modelbruggen bouwde. Zo bedacht hij ook deze brug die zijn naam kreeg.
+right: In oktober 1947 opende Rijkswaterstaat een Baileybrug, samengesteld uit allerlei materiaal dat de geallieerden hadden achtergelaten. De brug was vrij hoog en vooral erg smal. Hij had een houten wegdek dat enorm rammelde als er gemotoriseerd verkeer overheen ging. Omdat de brug zo smal was, kon men elkaar niet passeren en door de hoogte kon men een tegenligger niet op tijd zien aankomen. Dat leidde af en toe tot heftige taferelen, waaraan pas een einde kwam toen het op- en afrijden geregeld werd met verkeerslichten. In 1983 werd de brug vervangen door een betonnen brug, de Commissaris van der Hartenbrug.
+wrong: 
+author: dasja
+answer: A

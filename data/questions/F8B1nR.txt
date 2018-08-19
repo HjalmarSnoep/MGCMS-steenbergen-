@@ -1,0 +1,18 @@
+title: Gebouw
+published: 1
+body: Welke functie vervulde het Steenbergse gebouw eerst?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 1
+media: RZI3l4sf8I
+A: Een postkantoor
+B: Een restaurant
+C: Een ouderensoos
+D: Een kasteel
+hint: Tegenwoordig zie je dit soort gebouwen bijna niet meer. Dat regel je allemaal thuis.
+right: Vroeger was hier het post- en telegraafkantoor gevestigd. En met vroeger bedoelen we dan 1895. Dus dat is een aardig tijdje geleden. Het gebouw is verzonnen door de architect C. van Genk. Doordat er naast &#039;postzaken&#039; ook telegrammen werden verzonden en de eerste telefoon op het postkantoor werd ge&iuml;nstalleerd, had het postkantoor een belangrijke maatschappelijke en communicatieve functie. Het gebouw heeft nog steeds een maatschappelijke functie maar is al heel lang geen postkantoor meer. Het was jarenlang een ouderensoos en is nu alweer een hele poos een restaurant. De naam &#039;In de Oude Stempel&#039; verwijst nog naar de tijd dat het een postkantoor was.
+wrong: 
+author: dasja
+answer: A

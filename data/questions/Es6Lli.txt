@@ -1,0 +1,18 @@
+title: Koningsboom
+published: 1
+body: Ter gelegenheid waarvan is de Koningsboom in het Dinteloordse park geplant?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 5
+media: QFgwDDTaNS
+A: Omdat Koning Willem Alexander zijn 50e verjaardag vierde
+B: Omdat Prins Willem Alexander en Maxima trouwden
+C: Omdat Willem Alexander tot koning gekroond werd
+D: Omdat Prins Willem Alexander geboren werd
+hint: Vanaf die dag mocht Willem Alexander de troonrede doen.
+right: De cultuurhistorische vereniging Nyen Aenwas Van Nassau heeft, samen met de Dinteloordse schoolkinderen een koningslinde geplant naast het hertenkamp in Dinteloord. Dit gebeurde in 2013, toen Willem Alexander als koning werd ingehuldigd.
+wrong: 
+author: dasja
+answer: C

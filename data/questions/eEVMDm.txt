@@ -1,0 +1,18 @@
+title: Bierbrouwerij
+published: 1
+body: Hoe heette de bierbrouwerij aan de Berenstraat in Steenbergen?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 1
+media: 3Qp5S7IDnq
+A: Berenbierbrouwerij
+B: Het Wit Kruis
+C: De Blauwe Knoop
+D: Het Witte Kraagje
+hint: Het bier is genoemd naar de molen waar ooit het mout voor het bier gemalen werd. Als je aan de wieken van de molen denkt, kun je de link waarschijnlijk wel maken.
+right: Al voordat Steenbergen een stad werd, werd er bier gebrouwen. De bekendste brouwerij van Steenbergen was 'Het Wit Kruis'. Die werd in 1877 overgenomen door de familie Veraart. In 1928 stopt de familie met brouwen en gaat zich dan vooral bezighouden met het bottelen van bier en het maken van limonade, gazeuse en mineraalwater. Dit gaat door tot 1948 en het wordt uiteindelijk een groothandel. Ook is er inmiddels en slijterij naast het bedrijf gebouwd. In 1954 wordt het bedrijf gesplitst in een groothandel in bier, limonade en gedistilleerd en de detailhandel (slijterij). In 1996 worden Wim en Ria Veraart de nieuwe eigenaren van de slijterij. Zij verhuizen naar de Oostdam waar een nieuwe winkel komt. De naam'Het Wit Kruis'blijft echter bestaan.
+wrong: 
+author: hjalmar
+answer: B

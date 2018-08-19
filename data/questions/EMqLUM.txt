@@ -1,0 +1,18 @@
+title: Villa
+published: 1
+body: Wat was de eerste naam van deze Steenbergse villa?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 1
+media: kYMXb1hNoe
+A: Villa Buuron
+B: Villa Bakx
+C: Villa Moors
+D: Villa Kakelbont
+hint: De boer die dit huis bouwde hield vast van slagroomsoezen met een chocolade laagje.
+right: Aan de rand van het centrum van Steenbergen, op de hoek van de Westdam en de Lindenburghlaan, staat een villa uit 1895. Het is een ontwerp van de architect C.P. van Genk. De villa werd gebouwd in opdracht van J.A.M. Moors, een agrari&euml;r die hier een boerenbedrijf had. Het werd daarom de Villa Moors genoemd. Het luxe woonhuis kwam in de plaats van een oude boerderij. Rond de villa was een siertuin met mooie, grote bomen. In 1958 verkocht Moors het huis waarna het verschillende eigenaren had. De naam van de villa veranderde met hen mee. Zo heeft er jarenlang een sanitairhandel in gezeten van de familie Bakx. Toen werd het de Villa Bakx genoemd. Nu is de villa van de familie Buuron dus is het de Villa Buuron. In 2014 is deze familie begonnen met een grote verbouwing van de villa. Alle lelijke bijgebouwen die er in de loop van de tijd bij waren gekomen werden gesloopt en het huis zelf gerestaureerd. Een hele verbetering.
+wrong: 
+author: dasja
+answer: C

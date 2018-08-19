@@ -1,0 +1,18 @@
+title: Einde voorspoed
+published: 1
+body: Waardoor kwam er in de 16e eeuw een einde aan de rijke tijd van Steenbergen?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 1
+media: PcC4iJmEHQ
+A: Er kwam een economische crisis
+B: Door de Tachtigjarige Oorlog
+C: De schatkistbewaarder ging er met het geld vandoor
+D: De Pest brak uit
+hint: Hadden we hier het buskruit maar uitgevonden, dan hadden we misschien nog een kans gehad.
+right: Dankzij de zoutwinning in de polders en dankzij de handel die vanuit de haven gedreven werd, groeide en bloeide Steenbergen vanaf 1272 dat het een lieve lust was. Maar toen begon de Tachtigjarige Oorlog (1568-1648) en kwam aan dit alles een einde. De oorlog was nog maar vier jaar aan de gang toen het al raak was. In 1572 werd Steenbergen voor de eerste keer geplunderd. Door de Watergeuzen (een soort van zeerovers) die dit deden in opdracht van Willem van Oranje. Het zou niet de laatste keer zijn dat Steenbergen onder vuur lag. Steenbergen is bijna voortdurend het toneel van zware gevechten, met verschrikkelijke gevolgen voor de bevolking. Aan het begin van de 17e eeuw is de stad bijna helemaal verwoest.
+wrong: 
+author: dasja
+answer: B

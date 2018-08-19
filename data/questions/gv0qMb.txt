@@ -1,0 +1,18 @@
+title: Oude ambachten
+published: 1
+body: Welk twee oude ambachten waren voor de Nieuw-Vossemeerse boeren erg belangrijk?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 3
+media: uXaL8agS43
+A: Bakker en slager
+B: Kantklosser en klompenmaker
+C: Glasblazer en koperslager
+D: Wagenmaker en smid
+hint: Die ambachten die ervoor zorgden dat het werk op de boerderij van toen door kon gaan waren het belangrijkst. Er waren nog geen tractoren maar wel paarden en wagens.
+right: Die ambachten die ervoor zorgden dat het werk op de boerderij van toen door kon gaan, waren het belangrijkst. Er waren nog geen tractoren maar wel paarden en wagens. De smid en de wagenmaker waren dus erg belangrijk. De wagenmaker zorgde ervoor dat de wielen van de boerenkarren werden gemaakt. De ijzeren banden werden eerst verhit en daarna met koud water overgoten. Zodoende klemden zij luid sissend om de wielen. Een heel spektakel!De smid, met name de hoefsmid, was voor de vele paarden van groot belang. De hoefijzers zijn te vergelijken met de werkschoenen voor paarden. Zonder goed schoeisel, geen goed werk. Jarenlang stond in de Voorstraat tegenover het huis en werkplaats van de smid de hoefstal waarin het paard moest staan om beslagen te worden. Op de foto zien we het huis van de laatste hoefsmid van Nieuw-Vossemeer, Harry Baselier.Daarvoor de hoefstal of, met een sjiek woord, travalje waar het paard in werd gezet.
+wrong: 
+author: dasja
+answer: D

@@ -1,0 +1,18 @@
+title: Kleine Kerkstraat
+published: 1
+body: In Steenbergen kennen we de Kleine Kerkstraat. Waarom heet die straat zo?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 1
+media: UpxGMQBTjg
+A: Omdat er een kapelletje staat
+B: Omdat er maar weinig gelovige mensen woonden
+C: Omdat er in de 18e eeuw een schuilkerk stond
+D: Omdat er al een Grote Kerkstraat was
+hint: Je moest wel even zoeken want hij was verstopt.
+right: In 1707 gaf drossaard Van Hogendorp toestemming om een schuilkerk te bouwen. Een drossaard zou tegenwoordig een burgemeester zijn. Een schuilkerk was een kerk waarin de katholieken bij elkaar kwamen om hun geloof te belijden. Dat mocht toen alleen maar onzichtbaar omdat het protestante geloof als enige echte geloof werd gezien door de machthebbers. De kerk werd gebouwd aan de Vleeschhouwerstraat, waar nu de Kleine Kerkstraat is. Van de straat af kon je die kerk niet zien
+wrong: 
+author: dasja
+answer: C

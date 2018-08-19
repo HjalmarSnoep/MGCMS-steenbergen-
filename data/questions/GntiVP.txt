@@ -1,0 +1,18 @@
+title: Bijnaam voetballers
+published: 1
+body: Wat is de bijnaam van de voetballers van v.v. Steenbergen?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 1
+media: 0gulnJxhpT
+A: De Blauwwitten
+B: De Oranjewitten
+C: De Bietboeren
+D: De leeuwen van Strienestad
+hint: De smurfen zouden zo mee kunnen doen.
+right: Op 18 maart 1933 konden voetballiefhebbers voor het eerst een balletje trappen onder de vlag van W.V.S. (Wapen van Steenbergen). In datzelfde jaar kon dat ook al bij collega DIA. In 1940 fuseerden de beide voetbalclubs in de r.k.v.v. Steenbergen die toen al &#039;de Blauwwitten&#039; genoemd werden. In 1967 ging de club spelen op haar huidige locatie aan de Seringenlaan. In 1982 werd de sportkantine geopend, van fundering tot dak gebouwd door vrijwilligers. Er waren steeds meer mensen, die de vereniging een warm hart toedroegen, wat in hetzelfde jaar leidde tot de oprichting van de &#039;Supportersvereniging&#039;. Een volledig zelfstandige vereniging, die tot op heden nog steeds op haar geheel eigen wijze een steentje bijdraagt aan het welzijn van voetbalvereniging Steenbergen.
+wrong: 
+author: dasja
+answer: A

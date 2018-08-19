@@ -1,0 +1,18 @@
+title: Schot
+published: 1
+body: In het Strienestadse carnavalsgevolg draagt één figuur een geweer. Waar schiet hij op?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 1
+media: fWPJOCSGkQ
+A: De Flodder
+B: Mussen
+C: Krabben
+D: De bok
+hint: Ter besluit van het Strienestadse carnavalsfeest wordt er ieder jaar één verbrand.
+right: Het verhaal van de Mussenkoning stamt uit 1800. Steenbergen ging toen gebukt onder een zware mussenplaag. De daken van de rieten huizen, de gewassen op het land en het fruit aan de bomen werden opgevreten door duizenden mussen. Er was een Mussengilde dat de taak had om de dieren te schieten. Voor ieder mussenkopje kregen de jagers een stuiver. Eén lid van het gilde was erg goed in wat hij deed. Hij vond een speciale manier uit om met een klem en aas de mussen te lokken en te vangen. Hij kreeg de titel Mussenkoning. Omdat het zo goed werkte, maakte de Mussenkoning er zijn beroep van om zijn uitvinding te verkopen aan de boeren. Al snel had hij nergens anders meer tijd voor. Ook niet voor het uitmesten van de stal van zijn trouwe ezel. Vermoedelijk is de dikke laag mest in de stal gaan broeien en is er brand ontstaan. De woning van de Mussenkoning brandde tot de grond toe af en ook de schutter zelf is daar waarschijnlijk bij om het leven gekomen. Vreemd genoeg zijn na het overlijden van de Mussenkoning ook de mussen uit Steenbergen verdwenen.
+wrong: 
+author: hjalmar
+answer: B

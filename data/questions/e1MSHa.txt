@@ -1,0 +1,18 @@
+title: Bamis
+published: 1
+body: Wat gebeurde er tijdens de Bamis?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 6
+media: L8aBHYZ4dr
+A: Het ging regenen
+B: Er werd chinees besteld
+C: Het varken werd geslacht
+D: Men ging naar de kerk
+hint: En daarna aan het spit of in de pekel.
+right: De Bamis is een verwijzing naar het begin van de herfsttijd. 1 oktober is de naamdag van de Heilige Sint Bavo en gold als het begin van de herfsttijd. Wanneer de Bamis was begonnen, gingen de huisslachters op pad om de varkens te slachten. Vroeger had iedereen wel een paar varkens bij huis. Deze waren voor eigen gebruik om de winter mee door te komen. De huisslachters gingen van huis naar huis om 2 of 3 varkens te slachten. Na de slacht werden de haren van de varkens gebrand met stro en moest het vlees een poosje hangen om te besterven. Uiteindelijk werden de stukken van het varken in zout ingelegd (gepekeld) zodat ze de hele winter goed bleven.
+wrong: 
+author: dasja
+answer: C

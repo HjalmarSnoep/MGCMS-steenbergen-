@@ -1,0 +1,18 @@
+title: watertoren
+published: 1
+body: Dinteloord had vroeger een watertoren. Waar stond die?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 5
+media: ym12TyhlCr
+A: Aan de haven
+B: Aan de Molendijk
+C: Op de Markt
+D: Aan de kreek
+hint: Misschien stond er ook wel een watermolen?
+right: 
+wrong: 
+author: dasja
+answer: B

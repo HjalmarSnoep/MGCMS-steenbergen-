@@ -1,0 +1,18 @@
+title: Jonge soldaten
+published: 1
+body: Waarom zijn de Canadese soldaten die in Welberg stierven tijdens WO II bijna allemaal even oud?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 6
+media: 6VOYjRvKqm
+A: Ze gaven zich na school vrijwillig op
+B: Vanwege de dienstplicht in hun land
+C: De jongeren moesten altijd voorop lopen
+D: Toeval
+hint: Kun je je voorstellen dat je ervoor kiest om je leven op het spel te zetten voor een ander land?
+right: De meeste soldaten waren tussen de 18 en 22 toen ze stierven. Het waren bijna allemaal erg jonge jongens die net van school kwamen en vrijwillig naar Europa kwamen om te vechten. Ze hadden geen idee wat ze aan zouden treffen en kenden Nederland helemaal niet. Het leger heeft graag jonge jongens, want die zijn erg fit en onbezorgd. Oudere mannen en vrouwen met kinderen willen liever niet hun leven op het spel zetten.
+wrong: 
+author: dasja
+answer: A

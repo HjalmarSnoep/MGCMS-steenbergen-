@@ -1,0 +1,18 @@
+title: Bloemrijke akkerranden
+published: 1
+body: Voor wie zijn bloemrijke akkerranden goed?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 6
+media: 5sFSObSWEV
+A: Voor bloemisten
+B: Voor toeristen
+C: Voor hooikoortspati&euml;nten
+D: Voor plant, dier en mens
+hint: We kunnen niet zonder elkaar.
+right: Bloemrijke akkerranden zijn belangrijk voor plant en dier. En dus voor de mens. Door de randen van akkers in te zaaien met verschillende soorten bloemen, trek je allerlei insecten daar naartoe. Bijvoorbeeld bijen. Met de bij gaat het niet zo erg goed, onder meer doordat er steeds minder verschillende bloemen in Nederland voorkomen. En als het met de bij niet goed gaat, dan zit de mens ook snel met een probleem. We hebben een bij nu eenmaal nodig om te bestuiven. Lang wilden veel boeren niks weten van het inzaaien van een bloemrijke akkerrand langs hun grond. Ze vonden het een hoop werk en rotzooi. Ze waren bang dat er allemaal onkruid tussen hun gewas zou komen wat ze weer zouden moeten bestrijden. Maar bloemen kunnen boeren ook juist helpen. Stel dat er een vervelend beestje in het gewas zit dan zou het best kunnen dat er op de bloemen juist andere insecten afkomen die die beestjes opvreten. Nog een groot voordeel van een bloemrijke akkerrand
+wrong: 
+author: dasja
+answer: D

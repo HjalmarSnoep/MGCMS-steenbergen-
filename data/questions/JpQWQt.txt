@@ -1,0 +1,18 @@
+title: Hobby
+published: 1
+body: De familie Schrauwen van het gelijknamige autobedrijf heeft een bijzondere hobby. Welke?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 4
+media: Iq94VIDnDF
+A: Postzegels verzamelen
+B: Wielrennen
+C: Vrijwillige brandweermannen
+D: Oldtimers restaureren
+hint: Je kunt wel zeggen dat ze van hun werk hun hobby hebben gemaakt.
+right: Overdag repareren ze moderne auto&#039;s maar na sluiting legt de familie Schrauwen zich toe op de restauratie van oldtimers, oude auto&#039;s. De Schrauwens rijden en organiseren ook tochten speciaal voor oldtimers. Op hun website zijn foto&#039;s te vinden van de auto&#039;s die aan deze tochten meerijden onder de naam rijdend museum. Ze hebben zelfs een oude brandweerwagen die vaak gebruikt wordt tijdens brandweerdagen in het hele land.
+wrong: 
+author: dasja
+answer: D

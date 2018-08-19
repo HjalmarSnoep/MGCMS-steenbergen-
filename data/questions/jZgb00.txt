@@ -1,0 +1,18 @@
+title: Landschap
+published: 1
+body: Hoe zag het landschap rondom Kruisland eruit voordat het werd ingepolderd?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 4
+media: XOka9wX3Gj
+A: Een duingebied
+B: Een zandvlakte
+C: Een ruige, nattewildernis
+D: Zee
+hint: De foto is een aardige gelijkenis met het Kruisland van toen.
+right: Voordat het gebied rondom Kruisland in 1497 werd ingepolderd, bestond het uit een ruige wildernis met veengebieden. Doordat het gebied in verbinding stond met het open water was er ook getijde en stond het gebied regelmatig onder water. De veenlaag ontstond doordat klei opslibde met het water.
+wrong: 
+author: dasja
+answer: C

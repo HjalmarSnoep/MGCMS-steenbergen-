@@ -1,0 +1,18 @@
+title: Fort Henricus
+published: 1
+body: Waarom werd Fort Henricus gebouwd?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 1
+media: C1m5IIb99V
+A: Leuk voor de toeristen
+B: Als waterbouwkundig werk
+C: Ter verdediging van de stad Steenbergen
+D: Om de lepralijders in quarantaine te zetten
+hint: Duizend bommen en granaten
+right: Een groot gedeelte van de Tachtigjarige Oorlog (1568-1648) werd Steenbergen door vriend en vijand veroverd, geplunderd en verwoest. Negen keer werd de stad wisselend door de Spaanse en de Staatse troepen ingenomen. De stad en haar bevolking hebben hier erg onder te lijden gehad. Vooral in het begin van de 17e eeuw zijn er grote verwoestingen, hongersnoden en epidemie&euml;n geweest. Nog voor die oorlog achter de rug was, wist Steenbergen &eacute;&eacute;n ding heel zeker
+wrong: 
+author: dasja
+answer: C

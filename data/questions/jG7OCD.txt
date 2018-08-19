@@ -1,0 +1,18 @@
+title: &#039;de Steen&#039; krijgen
+published: 1
+body: In de Middeleeuwen kon je voor straf &#039;de Steen&#039; krijgen. Wat had je dan gedaan?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 1
+media: AKPzhKidvd
+A: Geroddeld
+B: Winkeldiefstal gepleegd
+C: Een moord gepleegd
+D: Paard en wagen verkeerd geparkeerd
+hint: Als die straf vandaag weer ingevoerd zou worden, zouden er morgen heel veel vrouwen een steentje bij kunnen dragen.
+right: De straffen waren in de Middeleeuwen veel strenger dan nu. Een heel goed voorbeeld daarvan is de straf voor roddelen en kwaadspreken. Mannen kregen daarvoor een geldboete, maar vrouwen kwamen er niet zo makkelijk vanaf. Zij moesten voor straf &#039;de steen dragen&#039;. Dat betekende dat de roddelaarster door de stad moest lopen met twee schandstenen over haar schouders. Zichtbaar voor iedereen en dus werd zij al snel achterna gezeten door een joelende menigte. Dit schandsteendragen is eeuwenlang een hele gebruikelijke straf geweest. Op de foto zie je een paar schandstenen uit Oud-Vossemeer.
+wrong: 
+author: dasja
+answer: A

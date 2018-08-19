@@ -1,0 +1,18 @@
+title: Brandweer
+published: 1
+body: In 1826 kreeg Kruisland een aantal spullen van de gemeente Steenbergen om branden te bestrijden. Wat kreeg men van de gemeente Steenbergen?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 4
+media: xjWNbLXZZq
+A: Een nieuwe brandweerwagen
+B: Een afgedankte handspuit en 30 brandemmers
+C: Tonnen om water in te doen
+D: Een ladder om hoge branden te bestrijden
+hint: Het lijkt tegenwoordig niet veel bijzonders, maar de brandweermannen konden er in die tijd best mee uit de voeten. Ook al waren het dan tweedehandsjes.
+right: In 1826 krijgt Kruisland een afgedankte Steenbergse handspuit die, samen met dertig brandemmers, een plaatsje onder de toren van de hervormde kerk aan de Markt krijgt. Aan de handspuit zaten meters slang gemaakt van leer en linnen. Door water via deze slangnaar de handspuit te pompen kon de brandweer een brand beter bestrijden dan met alleen brandemmers. Het blussen van een brand met de brandemmers ging als volgt
+wrong: 
+author: dasja
+answer: B

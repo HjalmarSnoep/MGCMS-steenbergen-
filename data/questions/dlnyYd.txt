@@ -1,0 +1,18 @@
+title: Producten
+published: 1
+body: Welk product was in de 19e eeuw een van de belangrijkste producten voor Nieuw-Vossemeer?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 3
+media: QuPMcbnJQf
+A: Meekrap
+B: Klompen
+C: Suikerklontjes
+D: Vis
+hint: Veel beroepen van toen bestaan niet meer. Dat geldt ook voor de meestoven waarvan Nieuw-Vossemeer er ooit twee had.
+right: In de 19e eeuw kende Nieuw-Vossemeer een heleboel beroepen. Zo was er een molenaar, een wagenmaker, een herbergier, een metselaar, een nachtwaker, een kleermaker, een timmerman, een gerechtsbode, een meesterschilder, een koopman, een beurtschipper op Rotterdam, een opzichter van het schoolhuis, een opzichter van de klok en het uurwerk op het kerkje van het dorp. Zoals je ziet bestaan de meeste beroepen tegenwoordig niet meer. Dat geldt ook voor meestoven. Nieuw-Vossemeer had in die tijd een meestoof, &#039;De Vos&#039;, gelegen aan het eind van de Hoogendijk in de Boerengorspolder. Een meestoof is een installatie waar de bijwortels van de meekrap worden gedroogd en verwerkt. De wortels werden gerooid en in de meestoof gedroogd en bewerkt totdat er alleen nog poeder over was. Dat poeder werd gebruikt als rode verfstof in de laken- en stoffenindustrie. Naast de boerenbedrijven was de meekrapproductie van economisch belang voor het dorp.
+wrong: 
+author: dasja
+answer: A

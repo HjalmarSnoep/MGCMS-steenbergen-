@@ -1,0 +1,18 @@
+title: Nieuw-Vossemeerse Vlag
+published: 1
+body: Welke vlag is de Nieuw-Vossemeerse vlag?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 3
+media: Km3hsN7K2D
+A: Vlag 1
+B: Vlag 2
+C: Vlag 3
+D: Vlag 4
+hint: Een wapen zoals dat van Nieuw-Vossemeer heet een &lt;i&gt;&#039;sprekend wapen&#039;&lt;/i&gt;. De afbeelding verwijst namelijk direct naar de naam van de gemeente.
+right: Van oudsher speelt een vos een hoofdrol in het wapen van de Ambachtsheerlijkheid Nieuw-Vossemeer. In het wapen zie je een vos die boven golvend water uitsteekt. Of zoals de Hoge Raad van Adel het omschreef toen zij Nieuw-Vossemeer op 16 juli 1817 een eigen wapen toekende
+wrong: 
+author: dasja
+answer: B

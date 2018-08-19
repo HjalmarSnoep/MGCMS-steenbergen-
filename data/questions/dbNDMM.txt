@@ -1,0 +1,18 @@
+title: Grazers
+published: 1
+body: Welke grazers lopen in de Dintelse Gorzen?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 5
+media: gB1wOCKfHW
+A: Oostenrijkse Berggeiten
+B: Oegandese koeien
+C: Texeler schapen
+D: Schotse Hooglanders
+hint: Misschien dragen ze in hun thuisland wel een kilt.
+right: In het gebied graast een aantal kuddes Schotse hooglanders. Een runderras dat oorspronkelijk uit Schotland komt. De dieren zijn herkenbaar door hun lange haren en grote horens. Daardoor zien ze er zowel ruig als aaibaar uit. Overigens zijn ze niet gevaarlijk, maar aaien is ook geen goed idee. Zeker niet als er jongen in de buurt zijn! Op de Dintelse gorzen lopen ook nog een paar kuddes verwilderde shetlandpony&#039;s. Daarnaast voelen veel vogels zich er thuis, zoals ganzen, zilverreigers en lepelaars. Maar ook jagers, zoals de blauwe kiekendief en de buizerd.
+wrong: 
+author: dasja
+answer: D

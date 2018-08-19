@@ -1,0 +1,18 @@
+title: Stella Maris
+published: 1
+body: In de Welberg wonen arbeidsmigranten in Stella Maris. Wat betekent die naam?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 6
+media: EzJi6kPIwj
+A: Sterre der Zee
+B: Zeemeermin
+C: Merknaam van een bier
+D: Het is Pools voor Hotel
+hint: Het had gekund, maar het is toch geen verwijzing naar de tijd dat Steenbergen nog aan zee lag.
+right: Stella Maris is Latijn en betekent letterlijk Sterre der Zee. Dat lijkt een beetje vreemd voor een gebouw op de Welberg. Maar Sterre der Zee is een verwijzing naar Maria, de moeder van Jezus. Het wordt helemaal duidelijk wanneer je weet dat het gebouw eigenlijk een klooster is. De paters Assumptionisten kwamen in 1959 naar Welberg waar zij het klooster Stella Maris betrokken. Het klooster moest een noviciaat worden, een plek waar nieuwe paters opgeleid werden. Maar op het moment dat het gebouw klaar was, liep het aantal nieuwe kloosterlingen dusdanig terug dat het al in 1963 leeg kwam te staan. In de decennia daarna heeft het dienst gedaan als dag- en woonvoorziening voor verstandelijk beperkten (1968-1998) en als asielzoekerscentrum (1998-2003). Daarna heeft het jaren leeggestaan en raakte het gebouw en de omliggende tuinen in verval. Uiteindelijk werd het gekocht door een uitzendorganisatie die er sinds 2011 arbeidsmigranten in huisvest. Het hele complex werd piekfijn opgeknapt en er werd een stuk aangebouwd.
+wrong: 
+author: dasja
+answer: A

@@ -1,0 +1,18 @@
+title: Meekrap
+published: 1
+body: Een belangrijke bron van inkomsten in Dinteloord was de meekrapteelt. Wat kun je met meekrap?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 5
+media: LzvisXhdme
+A: Suiker winnen
+B: Veevoeder maken
+C: Verfpoeder maken
+D: Meekrap-stamppot maken
+hint: Koningin Maxima weet het
+right: De meekrapwortels werden geteeld om er een rode kleurstof uit te bereiden. De wortels werden gedroogd, gedorst, gestampt en gemalen tot meekrappoeder, dat in eiken vaten werd verpakt. De verfpoeder werd verkocht aan wolververijen en textieldrukkerijen.
+wrong: 
+author: dasja
+answer: C

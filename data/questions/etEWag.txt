@@ -1,0 +1,18 @@
+title: Schuur
+published: 1
+body: In de Engelseweg in Kruisland staat een boerderij waarvan de schuur een kenmerkende vorm heeft. Hoe heet zo&#039;n schuur?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 4
+media: hxE3yMXXLj
+A: Vlaamse Schuur
+B: Engelse Schuur
+C: Duitse Schuur
+D: Franse Schuur
+hint: Er worden vooral aardappelen voor de patates fritekes in opgeslagen.
+right: Aan de Engelseweg staat een boerderij, waarbij de woning en de schuur los van elkaar staan. Het type schuur wordt Vlaamse Schuur genoemd. De schuur staat parallel aan de weg en heeft gepotdekselde planken aan de gevel.
+wrong: 
+author: dasja
+answer: A

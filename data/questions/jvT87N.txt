@@ -1,0 +1,18 @@
+title: Anti Big Pig
+published: 1
+body: In de jaren &#039;90 werd Anti Big Pig opgericht. Een actiegroep die als doel had om de vestiging van een aantal bedrijven tegen te houden. Wat voor soort bedrijven zijn dit?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 4
+media: qR0Wm3euRv
+A: Maneges
+B: Kippenboerderij
+C: Kinderboerderij
+D: Varkenshouderij
+hint: De vertaling van Anti Big Pig zegt alles.
+right: 
+wrong: 
+author: dasja
+answer: D

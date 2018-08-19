@@ -1,0 +1,18 @@
+title: Kerk
+published: 1
+body: In 1831 werd er midden op de Markt in Steenbergen een kerk gebouwd. Hoe heette die kerk?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 1
+media: BZG4nZwkYB
+A: De St. Jacobskerk
+B: De Grote Kerk
+C: De Nieuwe Kerk
+D: De Gummaruskerk
+hint: Afgekort kun je er ook potloodstrepen mee van papier vegen.
+right: In 1831 werd midden op de Markt de eerst Gummaruskerk gebouwd. Die was zeventig jaar later te klein en dus besloot men een nieuwe te bouwen. De oude kerk werd op 13 oktober 1902 afgebroken. In de tussentijd was men al volop begonnen met de bouw van de nieuwe kerk er recht achter. Het is een ontwerp van de beroemde architect Pierre Cuijpers. In 1903 was de nieuwe&#039;Gum&#039; klaar. Aan het eind van de Tweede Wereldoorlog, op 30 oktober 1944, werdhij echter verwoest door de Duitse bezetter terwijl die Steenbergen verliet. Er werd gelijk begonnen met het herstel maar dat was een hele klus. Zeker zo net na de oorlog toen er nog wel meer op te knappen viel. Gelukkig kon in 1949 de kerstnacht weer gevierd worden in de kerk. In 1960 werd ook de toren herbouwd en kon je de St. Gummaruskerk weer vanuit de verte zien liggen.
+wrong: 
+author: dasja
+answer: D

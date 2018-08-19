@@ -1,0 +1,18 @@
+title: Geadopteerd Monument
+published: 1
+body: Welke basisschool adopteerde het monument van Gibson &amp; Warwick in het stadspark?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 6
+media: hbu9mEW2kp
+A: Pius X
+B: Maria Regina
+C: Gummarus
+D: De Nieuwe Veste
+hint: Het is nog wel even een wandelingetje vanuit de Welberg.
+right: Basisschool Pius X uit Welberg heeft het monument in het park ruim 20 jaar geleden geadopteerd. Het monument bestaat uit een propeller geplaatst op een meer dan twee meter hoge granieten zuil. Het is opgericht ter nagedachtenis aan Guy Gibson en zijn 22-jarige navigator Jim Warwick, die op 19 september 1944 net buiten Steenbergen neerstortten. Ieder jaar op die dag gaat de bovenbouw van de Pius X naar het monument en houden zij daar een herdenkingsdienst ter ere van de vliegeniers èn de Tweede Wereldoorlog. Gibson en Warwick liggen begraven op de Rooms-Katholieke begraafplaats aan de Nassaulaan te Steenbergen.
+wrong: 
+author: hjalmar
+answer: A

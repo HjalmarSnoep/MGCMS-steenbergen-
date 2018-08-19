@@ -1,0 +1,18 @@
+title: Welke woorden mis je?
+published: 1
+body: Ik woon .. .. Welberg?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 6
+media: USqBVLmgjp
+A: Aan de
+B: In de
+C: Op de
+D: Na de
+hint: Je woont er wel op stand.
+right: De oudste spelling van Welberg is Welberghe. Die naam stamt uit 1356. Nederland was toen nog niet ingepolderd en wij lagen hier toen nog dichtbij de zee. De zee had het land aangetast en uit het landschap stak een &#039;berg&#039; omhoog. Waarschijnlijk is het eerste deel van de naam een verwijzing naar het water (wel = een bron). Het kan ook zijn dat het een verwijzing is naar een zoetwaterbron die vroeger door de mensen werd gebruik om hun water te halen. Op de foto zie je een gerestaureerde waterput die aan de rand van de Welberg ligt. De &#039;berg&#039; van de Welberg spreekt voor zich, namelijk een verhoging in het landschap (berghe). Misschien is dat ook wel de reden dat de Welbergenaren nooit zeggen dat ze &#039;in&#039; Welberg wonen, maar &#039;op de&#039; Welberg. Het lidwoord de wordt altijd aan Welberg verbonden. Je gaat niet op de fiets naar Welberg, maar naar &#039;de Welberg&#039;. Tijdens de carnaval heet de Welberg, D&#039;n Raldal.
+wrong: 
+author: dasja
+answer: C

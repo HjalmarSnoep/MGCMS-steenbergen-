@@ -1,0 +1,18 @@
+title: Raadhuisplein
+published: 1
+body: Wat was het Raadhuisplein in Dinteloord vroeger?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 5
+media: MiZf4kEKKc
+A: Een openluchttheater
+B: Een park
+C: Een veemarkt
+D: Water
+hint: Nu kun je er parkeren, vroeger had je er kunnen aanleggen.
+right: Het Raadhuisplein was vroeger een verlengde van de Kreek. De huizen die hier langs stonden gebruikten het water voor de was en het regenwater liep hierop uit. In het midden was een bruggetje. Later werd een deel van de Kreek gedempt.
+wrong: 
+author: dasja
+answer: D

@@ -1,0 +1,18 @@
+title: Type Boedrerij
+published: 1
+body: Welk type boerderijen kom je tegen wanneer je vanuit Kruisland richting Wouw gaat?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 4
+media: cKAKXVzsji
+A: Stoeterij (paarden)
+B: Onbewoonde
+C: Veehouderijen
+D: Zorgboerderijen
+hint: Je moet het niet al te wollig maken, maar je moet het ook niet zwart-wit zien
+right: Het gebied dat ten zuiden van Kruisland ligt, richting Wouw, bestaat uit zandgronden. Dit gebied was vroeger al eerder in gebruik genomen door boeren met onder andere koeien. De boeren lieten het vee grazen in de weilanden op de zandgronden. Een groot deel van deze veehouderijen boert nog steeds in het gebied, maar een aantal boerderijen wordt inmiddels bewoond door burgers, soms met paarden.
+wrong: 
+author: dasja
+answer: C

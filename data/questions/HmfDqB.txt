@@ -1,0 +1,18 @@
+title: heense huis
+published: 1
+body: Wat was er tot 1980 te vinden in het Heense huis op de foto?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 2
+media: 4RfGkUh6h2
+A: Een gezin met twaalf kinderen
+B: Een schuurkerk
+C: Een winkeltje
+D: Een kleuterschool
+hint: Ze stonden regelmatig in de hof. Daar plukten ze alle bloempjes af en maakten het veel te grof.
+right: Tegenover de kerk in De Heen staat een huis dat een beetje naar achteren is gebouwd. Tot 1980 was er een kleuterschool in gehuisvest. Daarna verhuisden de kleuters naar de Fatimaschool. De basisschool en de kleuterschool werden toen samen &eacute;&eacute;n nieuwe basisschool. Het gebouw werd verkocht en is sinds die tijd &#039;gewoon&#039; een woonhuis.
+wrong: 
+author: dasja
+answer: D

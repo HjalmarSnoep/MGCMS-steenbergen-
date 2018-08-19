@@ -1,0 +1,18 @@
+title: Herindeling
+published: 1
+body: In welk jaar werd Dinteloord bij Steenbergen gevoegd?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 5
+media: jWxrcWqoyb
+A: In 2005
+B: In 1997
+C: In 1605
+D: Dat is nooit gebeurd
+hint: Dinteloord, gesticht in 1605, zou dat jaar haar 392e verjaardag vieren.
+right: De gemeentelijke herindeling was op 1 januari 1997. Toen zijn Steenbergen, Dinteloord, Kruisland, Nieuw-Vossemeer, de Heen en Welberg samengevoegd tot de gemeente Steenbergen. Dinteloord was toen geen zelfstandige gemeente meer.
+wrong: 
+author: dasja
+answer: B

@@ -1,0 +1,18 @@
+title: Mechanisatie
+published: 1
+body: Hoe ging het met de boeren na de mechanisatie van de landbouw?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 3
+media: aHqEYH0zcZ
+A: Ze gingen over op andere takken van het boerenbedrijf
+B: Ze stopten met de boerderij en gingen het klooster in
+C: Ze gaven het op en gingen in een fabriek werken
+D: Er veranderde helemaal niets
+hint: &#039;De pluk&#039;, zoals de oogst ook wel genoemd wordt, wordt vooral door vrouwen en schoolgaande jeugd uitgevoerd.
+right: Van de landbouw schakelde men geleidelijk over op andere bedrijfstakken. Zo kreeg vanaf de jaren vijftig van de vorige eeuw ook de fruitteelt meer aandacht. Voor de oogst van het fruit was wel weer mankracht nodig. &#039;De pluk&#039;, zoals de oogst ook wel genoemd wordt, werd vooral door vrouwen en schoolgaande jeugd uitgevoerd. Ook de melkveehouderij is sinds de zestiger en zeventiger jaren sterk toegenomen. Door de moderne melkapparatuur en ligboxstallen kan &eacute;&eacute;n boer momenteel wel honderd of meer koeien houden. Zelfs de melkrobot is er al. De mechanisatie heeft het werk op het boerenbedrijf dus gemakkelijker gemaakt. Maar sinds de vorige eeuw zijn er aan de andere kant talloze regels gekomen waar een boerenbedrijf aan moet voldoen. Dit maakt er de bedrijfsvoering er niet gemakkelijker op.
+wrong: 
+author: dasja
+answer: A

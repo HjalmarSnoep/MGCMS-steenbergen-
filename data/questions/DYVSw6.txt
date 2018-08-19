@@ -1,0 +1,18 @@
+title: Woning dassenberg
+published: 1
+body: Op landgoed Dassenberg staat, pal langs de Halsterseweg, een woning. Waarvoor diende die woning vroeger onder meer?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 6
+media: QOlbEv2Rwe
+A: Schuurkerk
+B: Dokterswoning
+C: Tramhalte
+D: Winkeltje
+hint: Je kon er ook een kaartje kopen.
+right: Op landgoed Dassenberg staan een grote villa en een koetshuis die aan het eind van de 19e eeuw gebouwd werden door de familie Spruyt uit Belgie. Die gebouwen kun je niet zien vanaf de weg, maar de Mariakapel en de woning aan de Halsterseweg ken je vast wel. Dat huis diende vroeger ook als tramhalte.
+wrong: 
+author: dasja
+answer: C

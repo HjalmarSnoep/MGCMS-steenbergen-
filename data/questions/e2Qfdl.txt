@@ -1,0 +1,18 @@
+title: Wapen van dinteloord
+published: 1
+body: Hoe noem je de kruizen in het wapen van Dinteloord?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 5
+media: DqvFLwFoBG
+A: Liggende kruizen
+B: Spoorwegovergangkruizen
+C: Wapenkruizen
+D: Andreaskruizen
+hint: E&eacute;n van de twaalf.
+right: De drie kruizen zijn Andreaskruizen. Genoemd naar &eacute;&eacute;n van Jezus&#039; apostelen, Andreas, die aan zo&#039;n kruis gestorven zou zijn. Het dorpswapen van Dinteloord dateert uit 1606, dus al vanaf het eerste begin van het ontstaan van Dinteloord. De schepenbank (zo noemden ze vroeger burgemeester en wethouders) ging gebruik maken van een wapenschild, gedragen door een engel. Veel later, rond 1817 werd het wapen blauw van kleur en kreeg de engel een korte tuniek met korte mouwen en een penning in de linkerhand. Vanaf oktober 1997 is het wapen weer zoals het was. De engel draagt weer een lang en ruim hangend gewaad en de schildkleur is rood.
+wrong: 
+author: dasja
+answer: D

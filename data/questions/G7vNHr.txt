@@ -1,0 +1,18 @@
+title: Gebouw
+published: 1
+body: Wat was het Dinteloordse gebouw op de foto vroeger?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 5
+media: 0os75ESozw
+A: Gemeentehuis en gevangenis
+B: Bank en politiebureau
+C: Bakker en slager
+D: Bank en gevangenis
+hint: Je kon er geringd en geboeid worden.
+right: Dit gebouw was het gemeentehuis tot aan de gemeentelijke herindeling, toen Dinteloord bij Steenbergen kwam. Vroeger was het ook een politiebureau, want Dinteloord had toen een eigen politiekorps. Aan de achterkant van het oude gemeentehuis was een nieuw gedeelte aangebouwd, maar dat is gesloopt en nu is daar de bibliotheek en het Dorpshuis.
+wrong: 
+author: dasja
+answer: A

@@ -1,0 +1,18 @@
+title: Nog een fabriek
+published: 1
+body: Noem, naast de Suikerfabriek, nog een grote fabriek die in Dinteloord is gekomen
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 5
+media: mGgYBOY3oP
+A: Vlasfabriek
+B: Conservenfabriek
+C: Autofabriek
+D: Wolkenfabriek
+hint: Misschien dat je wel eens onder een laken van dit gewas hebt gelegen.
+right: De vlasfabriek stond bij de Vliet. Er werkten in het begin heel veel mensen. Later werd het werk steeds meer door machines gedaan, waardoor er minder mensen nodig waren. Vlas wordt geteeld om zijn vezel. De lange vlasvezels worden geschikt gemaakt voor het spinnen van fijne garens. Het vlasgaren wordt geweven tot doek en na bleking geeft dit gebleekt linnen. In Dinteloord zijn nog steeds twee wijken genoemd naar de vlasverwerking. Vlasserij I en II.
+wrong: 
+author: dasja
+answer: A

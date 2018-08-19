@@ -1,0 +1,18 @@
+title: Eerste burgemeester
+published: 1
+body: Wie was de eerste burgemeester van Nieuw-Vossemeer?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 3
+media: 9nsoa4jIQg
+A: Burgemeester Martelmans
+B: Burgemeester Remery
+C: Burgemeester Vos
+D: Burgemeester Catshoek
+hint: In Nieuw-Vossemeer is er nog steeds een straat die vernoemd is naar deze eerste burgemeester. Bewoners van deze straat kijken uit op de Rietkreek.
+right: Samuel Abraham Catshoek was de eerste burgemeester van Nieuw-Vossemeer. Hij werd op 1 november 1810 benoemd. De burgemeester heette toen nog de schout. Catshoek was op 23 juni 1765 geboren in Oud-Vossemeer en daar bleef hij wonen. Ook toen hij burgemeester werd van Nieuw-Vossemeer. Tegenwoordig mag dat niet meer. In die tijd was de burgemeester ook nog degene die de belastingen ontving en de penningmeester was van een gemeente. Ook dat mag nu niet meer. Catshoek bleef burgemeester tot eind 1824. Hij is nooit getrouwd.De burgemeester op de foto is Johannes Adrianus Martelmans. Hij was burgemeester van Nieuw-Vossemeer van 1880 tot 1908.
+wrong: 
+author: dasja
+answer: D

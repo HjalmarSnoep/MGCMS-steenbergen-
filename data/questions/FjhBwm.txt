@@ -1,0 +1,18 @@
+title: Watersnoodramp
+published: 1
+body: Op 1 februari 1953 was de Watersnoodramp. Waar vielen de meeste slachtoffers in Dinteloord?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 5
+media: qDd5XYJcuy
+A: In het centrum van Dinteloord
+B: Er vielen geen slachtoffers in Dinteloord
+C: In de polders rond Dinteloord
+D: Op de dijken van Dinteloord
+hint: Vanaf het Volkerak stroomde het water met vernietigende kracht over de akkerlanden
+right: Bij de Watersnoodramp van 1 februari 1953 vielen in de gemeente Dinteloord zeven slachtoffers. Vooral in de polder zijn veel huizen vernield door het krachtige water. Er is ook veel vee verdronken en verschillende polders stonden onder water. Dit is een foto van de haven.
+wrong: 
+author: dasja
+answer: C

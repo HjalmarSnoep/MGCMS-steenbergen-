@@ -1,0 +1,18 @@
+title: Braderie
+published: 1
+body: Welke stichting organiseert jaarlijks de Nieuw-Vossemeerse Merijntje Gijzenbraderie?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 3
+media: iScj7044lz
+A: Stichting Culturele Producties
+B: Stichting Merijntje Gijzenbraderie
+C: Stichting Ontspanning voor Nieuw-Vossemeer
+D: Leefbaar Nieuw-Vossemeer
+hint: In 1985 nam een nieuwe groep mensen de organisatie van de braderie over. Zij hadden en hebben cultuur in Nieuw-Vossemeer hoog in het vaandel staan.
+right: Sinds 1985 wordt de Nieuw-Vossemeerse braderie georganiseerd door de Stichting Culturele Producties. Degene die tot die tijd de braderie organiseerden stopten ermee. Het werd overgenomen door een groepje mensen die er een stichting van maakten om de zaken goed te kunnen regelen. Samen proberen ze er elk jaar weer een gezellig dorpsfeest van te maken. Dat kan alleen dankzij de hulp van heel veel vrijwilligers. Mensen die belangeloos komen helpen met opbouwen, tappen, de kinderhoek verzorgen enzovoort. De kosten voor de braderie worden gedragen door sponsors.
+wrong: 
+author: dasja
+answer: A

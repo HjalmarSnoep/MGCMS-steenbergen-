@@ -1,0 +1,18 @@
+title: Volleybalvereniging
+published: 1
+body: Uit welke vereniging is de volleybalvereniging ontstaan?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 5
+media: QwTZrq5xm6
+A: VV Dinteloord
+B: Golfclub Dintelsas
+C: BV Dinteloord
+D: Uit DSV
+hint: Voverdi is een echte Dinteloordse Sport Vereniging.
+right: Volleybalvereniging Voverdi is ontstaan via DSV (Dinteloordse Sport Vereniging). Jongeren die in die tijd naar de middelbare school gingen, wilden graag een partijtje volleyballen na schooltijd. Dat deden ze op school ook tijdens de gymlessen. In 1957 werd er een gymnastieklokaal geopend en toen kregen ze de kans. Er werd een onderafdeling volleybal bij DSV opgericht. Vanaf 1978 is de vereniging zelfstandig verder gegaan onder de naam Voverdi (Volleybal Vereniging Dinteloord).
+wrong: 
+author: dasja
+answer: D

@@ -1,0 +1,18 @@
+title: Schenkeldijk
+published: 1
+body: Voor welke gebeurtenis is de Schenkeldijk belangrijk geweest?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 2
+media: H5xA5TNDSF
+A: De Watersnoodramp
+B: De Slag op &#039;t Slaak
+C: De Tweede Wereldoorlog
+D: De gemeentelijke herindeling
+hint: De dijk deed waar de dijk voor gemaakt is.
+right: De stormvloed in de nacht van 31 januari op 1 februari 1953 veroorzaakte een ramp die zijn weerga in Nederland niet kende. Op enkele kilometers van De Heen, in Nieuw-Vossemeer en omliggende polders, kwamen tientallen mensen om het leven. Doorslaggevend voor De Heen was het behoud van de Schenkeldijk. Door snel ingrijpen van de inwoners kon het woeste water tot stilstand worden gebracht. De extra bescherming met zandzakken heeft ervoor gezorgd dat deze dijk niet is doorgebroken. De Heen bleef gespaard en lag als een eilandje in de zee. Op last van de overheid moesten de bewoners toch het dorp verlaten. De gezinnen met kinderen gingen naar Steenbergen, maar veel mannen bleven achter. Lang heeft de evacuatie niet geduurd want op woensdag 4 februari kon iedereen weer terugkeren. Het gevaar was geweken.
+wrong: 
+author: dasja
+answer: A

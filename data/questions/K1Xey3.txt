@@ -1,0 +1,18 @@
+title: twee meerminnen
+published: 0
+body: Naast het gemeentewapen van Steenbergen staan twee meerminnen. Deze herinneren aan een Middeleeuwse legende (een soort sprookje). Volgens die legende
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 1
+media: VIp7LYc8Dm
+A: Beschermden de meerminnen Steenbergen tegen vijanden
+B: Brachten de meerminnen vis naar Steenbergen
+C: Legden de meerminnen half Steenbergen in de as
+D: Redden de meerminnen een Steenbergse visser van de verdrinkingsdood
+hint: Volgens dezelfde legende zorgden de zeemeerminnen dat het Zeeuwse plaatsje Reimerswaal door een vloedgolf van de kaart verdween.
+right: Het verhaal speelt zich af in de middeleeuwen. Twee zeemeerminnen zwommen langs het Zeeuwse Reimerswaal. Ze kregen honger en vroegen de inwoners om eten en drinken. Die dachten er niet over om hun voedsel te delen en stuurden de meerminnen zonder pardon weg. Een slecht idee, zo bleek even later. De boze dames spraken een vloek uit over Reimerswaal waardoor het dorp met &eacute;&eacute;n grote golf van de kaart werd geveegd. Nog steeds hongerig en behoorlijk sacherijnig zwommen de zeemeerminnen verder en gingen via de rivier &#039;De Striene&#039; de stad Steenbergen binnen. Hier kregen zij een slokje water en een korstje brood. Genoeg om hun lege magen te laten stoppen met rommelen, maar meer ook niet. De meerminnen besloten de helft van Steenbergen te sparen maar legden de andere helft met een grote brand in de as. Pas in Bergen op Zoom kregen de meerminnen een goed maal en bedankten de stad met de belofte van het eeuwige bestaan.
+wrong: 
+author: dasja
+answer: C

@@ -1,0 +1,18 @@
+title: Brabantse wal
+published: 1
+body: In de gemeente Steenbergen liggen de uitlopers van de Brabantse Wal. Waar is de Wal het laagst?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 6
+media: eRqYd4Zyx2
+A: Op de Welberg
+B: Bij Ossendrecht
+C: Bij Bergen op Zoom
+D: Bij Putte
+hint: Is het wel &#039;n berg?
+right: De Brabantse Wal is een opvallende verhoging in het landschap in West-Brabant. Het meest opvallend in het landschap van de Brabantse Wal is de steilrand, een abrupte overgang van de hoger gelegen zandgronden naar de lager gelegen zeekleipolders. Deze rand slingert van Ossendrecht tot de Markt van Steenbergen. De steilrand is waarschijnlijk ontstaan door erosie (slijtage) veroorzaakt door de rivier de Schelde en door de zee. Hij bereikt hoogten van ongeveer 20 meter boven NAP. Het hoogste punt op de Brabantse Wal is de Hoogenberg bij Putte (+39,1 m NAP). Het laagste punt is het Oudland bij Welberg (- 1,5 m NAP).De Brabantse Wal ligt in de gemeenten Woensdrecht, Bergen op Zoom en Steenbergen. Zij werken op toeristisch gebied samen in VVV Brabantse Wal. En met succes want steeds meer mensen komen genieten van natuur en alle recreatie die dit mooie gebied te bieden heeft.
+wrong: 
+author: dasja
+answer: A

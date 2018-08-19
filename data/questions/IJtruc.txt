@@ -1,0 +1,18 @@
+title: watergang
+published: 1
+body: Hoe worden de watergangen in de gorzen en de slikken genoemd?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 2
+media: OnQjyjWDx8
+A: Sloten
+B: Kreken
+C: Goten
+D: Vaarten
+hint: &#039;k Reken er op dat je dat weet.
+right: De natuurgebieden de Dintelse Gorzen en de Heense Slikken zijn schitterende natuurgebieden. Dwars er doorheen lopen watergangen die ook wel kreken worden genoemd. Ze zijn belangrijk voor de planten en de dieren in het gebied. Vroeger (v&oacute;&oacute;r 1989) wisselde de waterstand in de kregen door eb en vloed. Nu is dat niet meer het geval. Dat wil niet zeggen dat er nooit meer water in staat want bij zware regenval staan ze helemaal vol. Het is hartstikke spannend om er dan een wandeling te gaan maken. Wel uitkijken anders heb je een nat pak.
+wrong: 
+author: dasja
+answer: B

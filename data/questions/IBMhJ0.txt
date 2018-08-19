@@ -1,0 +1,16 @@
+title: Komfoor
+body: Dit is een komfoor uit de 17e eeuw. Waarvoor werd hij gebruikt?
+points: 0
+bricks: 0
+cat: 1
+city: 1
+media: pQboBWYC7d
+A: Als een comfortabel hamsterhuisje.
+B: Als lamp.
+C: Om &rsquo;s nachts op te plassen.
+D: Om eten in een schaal warm te houden.
+hint: De komfoor is gemaakt van aardewerk dat tegen hitte kan.
+right: Een komfoor werd gebruikt om eten warm te houden. De komfoor is gemaakt van aardewerk dat tegen hitte kan. Onderin de komfoor gingen gloeiende stukjes houtskool uit de open haard. Dankzij de gaten aan de zijkant kwam er zuurstof bij die kooltjes waardoor ze bleven gloeien. De schaal met eten werd op de drie pootjes aan de bovenkant van de komfoor gezet. Door de warmte van de kooltjes, bleef het gerecht in de schaal lekker warm. In de 17e eeuw werd de komfoor gebruikt in alle kernen. Dat blijkt uit het feit dat tijdens opgravingen in heel Steenbergen komfoor-stukjes teruggevonden zijn. De komfoor op de foto is gevonden in Steenbergen.
+wrong: 
+author: dasja
+answer: D

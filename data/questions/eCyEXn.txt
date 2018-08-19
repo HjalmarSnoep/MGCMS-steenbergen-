@@ -1,0 +1,18 @@
+title: Nieuwe Straat
+published: 1
+body: Noem een nieuwe straat in het Dinteloordse kassengebied
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 5
+media: 6k6mwRZj0e
+A: Symbiose
+B: Suikerstraat
+C: Bietjeweg
+D: Glasbak
+hint: Voordeel door samenwerking.
+right: De nieuwewegen zijn aangelegd toen het Agro- &amp; Foodcluster en het kassengebied kwam. De naamgevers verwijzen hiermee naar de manier waarop bedrijven en telers hier met elkaar samenwerken waardoor een duurzame samenleving ontstaat. De Symbiose is er daar één van.
+wrong: 
+author: hjalmar
+answer: A

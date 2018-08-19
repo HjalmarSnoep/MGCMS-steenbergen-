@@ -1,0 +1,18 @@
+title: Prodimex
+published: 1
+body: Hoe kwam Prodimex op De Heense Molen in opspraak?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 3
+media: RElhphD9bQ
+A: Stankoverlast en een vergunning die niet klopt
+B: Omdat iedereen die er werkte in tranen uitbarstte
+C: Geluidsoverlast
+D: Omwonenden vonden het een lelijk bedrijf
+hint: Er wonen niet zoveel mensen op de Heense Molen, maar degene die er wonen hadden wel veel last van de fabriek.
+right: Op de Heense Molen staat de zilveruienfabriek Prodimex. Er wonen niet zoveel mensen op de Heense Molen, maar degene die er wonen hadden wel veel last van de fabriek. In de jaren tachtig kwam het bedrijf in opspraak omdat de omwonenden klaagden over de stank. Ook klopte er het een en ander niet aan de vergunning van het bedrijf. Sinds 2014 worden er geen uien meer verwerkt in de Heense Molen. Ze worden alleen nog maar opgeslagen in een koeling.
+wrong: 
+author: dasja
+answer: A

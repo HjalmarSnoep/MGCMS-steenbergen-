@@ -1,0 +1,18 @@
+title: Natte natuur
+published: 1
+body: Natuurgebied het Oudland bij Welberg moet natter worden. Het plan hierachter heet de Natte Natuur..?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 6
+media: Cs2EsgkQLU
+A: Lijk
+B: Parel
+C: Muur
+D: Club
+hint: Je treft ze vaker aan in oesters dan in de Welberg.
+right: Het Oudland ligt op de Naad van Brabant, het overgangsgebied van zand naar klei dat van het zuidwesten naar het noordoosten van de provincie loopt. Het grondwater dat van de zandgronden afloopt heet kwelwater. Als het grondwater op de Naad tegen het dichte en moeilijk doordringbare klei aanbotst, komt het naar boven. Daardoor ontstaan er in het Oudland natte gebieden waar waardevolle planten voorkomen zoals bijvoorbeeld de waterviolier. Het Oudland is ook de plek waar de alpenwatersalamander veel voorkomt omdat hij het erg naar zijn zin heeft in de vochtige bossen van het Oudland. Door allerlei oorzaken is het Oudland steeds droger geworden wat alle bijzondere planten en dieren in het gebied niet ten goede kwam. Daarom is er rond 2010 een plan ontwikkeld waardoor het gebied weer natter moet worden.
+wrong: 
+author: dasja
+answer: B

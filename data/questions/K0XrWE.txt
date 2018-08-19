@@ -1,0 +1,18 @@
+title: In de weg
+published: 1
+body: Wat lag er tot 1871 op de weg van de Welberg naar Steenbergen waardoor er geen rechtstreekse verbinding was?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 6
+media: t7VJWmaqTM
+A: Koeien en paarden
+B: Een meer
+C: Een kerk en een molen
+D: Bolwerken en een gracht
+hint: Kenmerken voor een vestingstad zijn een muur met verdedigingswerken en een kunstmatig water eromheen.
+right: Tot 1871 moest je een kleine omweg maken om van Welberg naar Steenbergen of andersom te komen. Tussen de Blauwstraat en de Wipstraat lagen namelijk enkele bolwerken. Een bolwerk is een uitbouw in een verdedigingsmuur. Ook lag er een gracht. In 1871 werden de bolwerken gesloopt en de gracht gedempt. De nieuwe weg die daardoor ontstond werd Wouwsestraat gedoopt. Zodoende ontstond er een lange weg die nog steeds loopt van de Markt in Steenbergen tot achterop de Boomdijk op de Welberg.
+wrong: 
+author: dasja
+answer: D

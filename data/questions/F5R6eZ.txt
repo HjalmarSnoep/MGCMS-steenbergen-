@@ -1,0 +1,18 @@
+title: Welbergse jeugdwerk
+published: 1
+body: Hoe werden de jongste deelnemers aan het Welbergse jeugdwerk genoemd?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 6
+media: 09tJQDx60k
+A: Brugrakkers
+B: Zonnekinderen
+C: Raldalrakkers
+D: Maanstraaltjes
+hint: Ook als het regent.
+right: Tot 1936 was er in de Welberg alleen jeugdwerk voor kinderen van 12 jaar en ouder. Vanaf 1936 wordt er ook voor de jongere kinderen wat geregeld. Het doel is niet alleen om lol te hebben, maar ook om &#039;op te voeden tot een overtuigd godsdienstig leven&#039;. Alle activiteiten vinden plaats in het Patronaat van de Welberg (op de foto). De kinderen die deelnemen worden Zonnekinderen genoemd. In mei 1942 komt het meisjesjeugdwerk als gevolg van de oorlog ten einde.
+wrong: 
+author: dasja
+answer: B

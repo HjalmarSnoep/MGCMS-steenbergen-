@@ -1,0 +1,18 @@
+title: feest
+published: 1
+body: Op 5 mei 1980 vierden de bewoners van De Heen feest. Waarom?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 2
+media: w3jPrIhYlc
+A: Men vierde bevrijdingsfeest
+B: Er was toestemming gegeven om veel huizen in De Heen te bouwen
+C: Voetbalclub Val Aan was kampioen geworden
+D: Het dorp vierde zijn 400-jarig bestaan
+hint: Een paar jaar later zouden er veel meer inwoners zijn die meededen aan de dorpsfeesten.
+right: Jarenlang had de werkgroep Leefbaarheid De Heen ervoor gevochten en in 1980 kreeg zij het voor elkaar
+wrong: 
+author: dasja
+answer: B

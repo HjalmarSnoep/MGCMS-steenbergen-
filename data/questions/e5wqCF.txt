@@ -1,0 +1,18 @@
+title: 400 jarig bestaan
+published: 1
+body: In welk jaar werd het 400-jarig bestaan van Dinteloord gevierd?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 5
+media: A1dYtJWS9b
+A: In 1995
+B: In 1990
+C: In 2005
+D: In 2015
+hint: Dinteloord bestond in 1615 al 10 jaar.
+right: In 2005 werd het 400-jarig bestaan van Dinteloord gevierd. Het hele jaar door waren er feesten waar veel mensen verkleed naar toe kwamen. Er was een boerendag, een gezamenlijke maaltijd op het Raadhuisplein, een gezamenlijke kerkdienst, een openluchtconcert, spelletjesdag en een historische optocht waarin de geschiedenis werd uitgebeeld van Dinteloord vanaf de beginjaren. In het dorp hingen vlaggen van 400 jaar Dinteloord.
+wrong: 
+author: dasja
+answer: C

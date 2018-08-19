@@ -1,0 +1,18 @@
+title: Watersnoodramp
+published: 1
+body: Hoeveel Nieuw-Vossemeerders overleefden de Watersnoodramp van 1953 niet?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 3
+media: 0jlSEqgN7P
+A: 40
+B: 34
+C: 16
+D: 50
+hint: De slachtoffers van de Watersnoodramp werden tijdelijk begraven op de katholieke en protestantse begraafplaatsen van Steenbergen. Later werden 34 van hen herbegraven in Nieuw-Vossemeer. Voor de overige 16 bleef de laatste rustplaats in Steenbergen.
+right: Nieuw-Vossemeer werd zwaar getroffen door de Watersnoodramp van 1953. Maar liefst 50 inwoners kwamen om. Twee van hen verdronken toen zij hun dorpsgenoten probeerden te waarschuwen voor het aanstormende water. De meeste slachtoffers vielen aan de Pelsendijk en verder aan de Kaai, Kortendijk, de Paardenhoek, Rolaf en Moorseweg. De slachtoffers van de Watersnoodramp werden tijdelijk begraven op de katholieke en protestantse begraafplaatsen van Steenbergen. Later werden de meesten van hen herbegraven in Nieuw-Vossemeer. Drie slachtoffers werden pas later gevonden; het laatste slachtoffer zelfs pas in 1954. Na de ramp zijn de bewoners van Nieuw-Vossemeer ge&euml;vacueerd want in het dorp viel niet meer te wonen. Zij gingen onder meer naar Steenbergen maar ook veel verder weg. Het duurde maanden voordat het dorp weer leefbaar was voor gezinnen. De vrouwen en kinderen verbleven in die tijd in opvanghuizen of bij gastgezinnen. De mannen zorgden er met elkaar voor dat het puin werd geruimd en er weer geleefd kon worden.
+wrong: 
+author: dasja
+answer: D

@@ -1,0 +1,18 @@
+title: Jan van Haaften
+published: 1
+body: In Dinteloord vind je het Jan van Haaftenpad. Maar wat deed Jan van Haaften?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 5
+media: boi9GHalFe
+A: Een onderwijzer
+B: Een burgemeester
+C: Een dominee
+D: Een sasmeester
+hint: Hij was er zelf nogal mee in zijn nopjes, zeg maar gerust dat hij ermee in zijn ? was.
+right: Jan van Haaften was tussen 1809 en 1829 een van de meest vooraanstaande figuren in Dinteloord. Hij was sasmeester en zijn grafsteen bij de Hervormde kerk is nog steeds aanwezig. Naast deze kerk is het Van Haaftenpad naar hem genoemd.
+wrong: 
+author: dasja
+answer: D

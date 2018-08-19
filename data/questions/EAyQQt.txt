@@ -1,0 +1,18 @@
+title: Sc Welberg
+published: 1
+body: In welk jaar werd Sc Welberg opgericht?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 6
+media: rI8CYNC4g6
+A: 1928
+B: 1945
+C: 1989
+D: 2013
+hint: Een jaar daarvoor had de Welberg nog geschud op zijn grondvesten en was voetbal wel het laatste waar men aan dacht.
+right: De Tweede Wereldoorlog was nog maar een half jaar achter de rug of op de Welberg werd er al een voetbalvereniging opgericht. Dat gebeurde op 24 november 1945 in zaal Koch aan de Kapelaan Kockstraat in Welberg (die straat heette toen trouwens nog Wipstraat). Er was ook een bestuurslid van VV Steenbergen aanwezig die het beter leek dat de Welberg bij Steenbergen kwam omdat ze toch nooit groot genoeg zouden worden. Dat is dus wel heel anders uitgepakt. Aan het eind van de vergadering besloten ze dat de naam, SDO (Samenspel Door Overwinning) een goede was voor de club. Maar dat mocht niet van de voetbalbond en daarom is het Sc Welberg geworden.
+wrong: 
+author: dasja
+answer: B

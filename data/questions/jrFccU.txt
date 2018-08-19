@@ -1,0 +1,18 @@
+title: Krant
+published: 1
+body: Hoe heette de krant die Kruislander Edwin Maas op jonge leeftijd uitgaf?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 4
+media: uyWGlurHb2
+A: De Steenbergse Courant
+B: Leut-umkrant
+C: &#039;t Pompke
+D: BN/De Stem
+hint: Deze leutige krant verscheen maar &eacute;&eacute;n keer per jaar.
+right: Kruislander Edwin Maas begon op jonge leeftijd met het uitgeven van de carnavalskrant
+wrong: 
+author: dasja
+answer: B

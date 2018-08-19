@@ -1,0 +1,18 @@
+title: Meekrapstoof
+published: 1
+body: Waar stond in Dinteloord de meekrapstoof?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 5
+media: limTNkZB52
+A: Aan de Kade
+B: Aan de Vlasserij
+C: Aan de Oostgroeneweg
+D: Aan de Stoofdijk
+hint: De naam van de straat verraadt het al.
+right: In een meekrapstoof werden de wortels van de meekrap gedroogd en verwerkt om er uiteindelijk kleurstof uit te kunnen winnen. De meekrapstoof in Dinteloord stond aan de Stoofdijk (bij de pijl). De meekrapwortels werden in de herfst verwerkt. De boeren hadden samen een stoof, omdat het veel te duur was om er zelf een te bouwen.
+wrong: 
+author: dasja
+answer: D

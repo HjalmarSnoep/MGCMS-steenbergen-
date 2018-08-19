@@ -1,0 +1,18 @@
+title: Molens
+published: 1
+body: Welke functie hadden de molens in Dinteloord?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 5
+media: N6GFXc5bFl
+A: Watermolen
+B: Draaimolen
+C: Korenmolen
+D: Oliemolen
+hint: Na de molenaar was de bakker aan de beurt.
+right: In Dinteloord stonden vroeger twee molens. Aan de Molendijk stond een korenmolen, maar daar zijn geen foto&#039;s van bewaard gebleven. De andere molen, ook een korenmolen, stond boven aan de Havenweg. Deze is nu ook afgebroken. Dat gebeurde na het bombardement op Dinteloord op 4 november 1944. De molen bestond toen alleen nog maar uit een romp, maar die werd vol getroffen door een bom.
+wrong: 
+author: dasja
+answer: C

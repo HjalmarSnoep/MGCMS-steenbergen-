@@ -1,0 +1,18 @@
+title: Actie
+published: 1
+body: Hoe vaak zijn de soldaten die tijdens de Eerste Wereldoorlog bij het Benedensas gelegerd waren hier in actie gekomen?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 2
+media: j9Kxj3bjaU
+A: E&eacute;n keer
+B: Drie keer per week
+C: Nul keer
+D: Ontelbare keren
+hint: Nederland verklaarde zich aan het begin van de Eerste Wereldoorlog neutraal en dat is aardig gelukt.
+right: In het verleden speelden water een grote rol in de verdediging van de Nederlanden. Wanneer de vijand in aantocht was, gingen de sluizen bij bijvoorbeeld De Heen open waardoor de omringende polders volliepen met water. Zodoende werd de opruk van de vijand gestopt. Sluizencomplexen werden daarom altijd goed verdedigd. Zo ook het sluizencomplex bij het Benedensas. Vanaf 1831 werd het beschermd door een aantal &#039;batterijen&#039;, waar artilleriewapens werden opgesteld. Ook in de Eerste Wereldoorlog speelde het complex nog een rol. Als de Duitsers zouden komen danzouden de polders van De Heen direct onder water gezet worden. Er waren dus ook voortdurend soldaten gelegerd bij het Benedensas. Die hadden daar weinig te doen want in de vier jaren die deze oorlog duurde, was er geen enkele militaire actie in Nederland. En dus ook niet bij het Benedensas.
+wrong: 
+author: dasja
+answer: C

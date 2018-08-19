@@ -1,0 +1,18 @@
+title: Herindeling
+published: 1
+body: In welk jaar werd Nieuw-Vossemeer deel van de nieuwe gemeente Steenbergen?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 3
+media: P33vaJ9jp9
+A: 1998
+B: 1809
+C: 1997
+D: 2007
+hint: In 1809 werd Nieuw-Vossemeer een zelfstandige gemeente. Na 188 jaar kwam daar weer een einde aan.
+right: Op 1 januari 1997 vond er een herindeling plaats. De oude gemeenten Nieuw-Vossemeer, Steenbergen en Dinteloord gingen op in &eacute;&eacute;n nieuwe gemeente. De gemeente Steenbergen bestaat sinds die tijd uit de kernen Steenbergen, Welberg, Kruisland, De Heen, Nieuw-Vossemeer en Dinteloord. Daarmee kwam er een einde aan de zelfstandige gemeente Nieuw-Vossemeer. Ber Lukkassen was de laatste burgemeester van die gemeente.Men was toen wel bang dat de belangen van Nieuw-Vossemeer niet zo goed meer behartigd zouden worden. Daarom, en om de betrokkenheid van de Nieuw-Vossemeerse bevolking bij het nieuwe gemeentebestuur te bevorderen, werd er datzelfde jaar een dorpsraad opgericht. Hierin zitten Nieuw-Vossemeerders die gevraagd en ongevraagd advies geven aan het gemeentebestuur over onderwerpen die hun dorp aangaan. Ook doen zij hun best voor een goede communicatie tussen bewoners en gemeente.
+wrong: 
+author: dasja
+answer: C

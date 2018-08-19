@@ -1,0 +1,18 @@
+title: Krabbenbos
+published: 1
+body: Zitten er nu krabben in het Welbergse Krabbenbos?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 6
+media: ap0KEpwNQL
+A: Ja, het hele jaar door
+B: Nee, niet meer
+C: Alleen in de winter
+D: Alleen in de zomer
+hint: Ooit lag Welberg aan zee.
+right: Nee, maar ze zaten er mogelijk ooit wel. In 1367 werd het Oudlands Laag, een veengebied, verdeeld onder turfstekers. Die wonnen het veen en verkochten het aan de zouthandelaren. In het veen zat namelijk zout en dat was in die tijd heel veel geld waard. Het gebied dat verdeeld werd onder de turfstekers heette de Krabben. Je kent het misschien wel als het Krabbenbos aan de Krabbenweg in Welberg. Het is nu alleen moeilijk voor te stellen dat er ooit echt krabben hebben gezeten in de zoute schorren en slikken waar het Oudland vroeger uit bestond.
+wrong: 
+author: dasja
+answer: B

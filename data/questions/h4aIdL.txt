@@ -1,0 +1,18 @@
+title: Boekverfilming
+published: 1
+body: Welk boek is verfilmd aan het Benedensas tussen Dinteloord en De Heen?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 5
+media: R1INCBdgI3
+A: Dik Trom
+B: Merijntje Gijzen
+C: Pietje Bel
+D: Kruimeltje
+hint: In Nieuw-Vossemeer vind je nog een beeldje van hem.
+right: Het boek over de jonge jaren van Merijntje Gijzen van AM de Jong is hier voor een groot gedeelte gefilmd. Het gehele gebied rondom de sluizen met het voormalige bierhuis diende in die tijd als decor. Dit gebeurde begin jaren &#039;70 van de vorige eeuw.
+wrong: 
+author: dasja
+answer: B

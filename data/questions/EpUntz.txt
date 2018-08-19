@@ -1,0 +1,18 @@
+title: De oudste molen
+published: 1
+body: Waar stond de oudste molen die Nieuw-Vossemeer ooit gehad heeft?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 3
+media: NCH7vcGx6O
+A: Molendijk
+B: Veerweg
+C: Rolaf
+D: Achter de kerk
+hint: De oudste molen van Nieuw-Vossemeer stond in een van de gehuchten van Nieuw-Vossemeer.
+right: Nieuw-Vossemeer heeft vanaf zijn ontstaan altijd een molen gehad. De oudste molen stond op de dijk van de Schuddebeurspolder, de huidige Rolaf, en werd al in 1532 opgericht. Helaas overleefde de molen de Tachtigjarige Oorlog niet. In 1583 ging hij ten onder aan het oorlogsgeweld en is daarna ook niet meer opgebouwd.Op de foto zie je molen &#039;De Assumburg&#039; aan de Veerweg in Nieuw-Vossemeer.
+wrong: 
+author: dasja
+answer: C

@@ -1,0 +1,18 @@
+title: Kruislandse molens
+published: 1
+body: Ooit was Kruisland twee windmolens rijk. Waar dienden deze molens voor?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 4
+media: V0545S0R6Y
+A: Ze maalden koren
+B: Ze pompten olie omhoog
+C: Ze leverden elektriciteit
+D: Voor de sier
+hint: De aren vond je op vele akkers in de omgeving van Kruisland.
+right: Kruisland had twee windmolens. De bekendste was de molen van Hermus in de Molenweg. Deze korenmolen draaide van 1858 tot 1944. In het laatste jaar van de Tweede Wereldoorlog werd hij verwoest door oorlogsgeweld. Hij is nooit meer opgebouwd. De andere molen stond in de Roosendaalseweg en was eigendom van de familie Broos. Het was ook een korenmolen. Hij draaide van 1849 tot 1905. In de tussentijd waren er echter stoommachines gekomen die koren sneller en goedkoper konden malen. Dat betekende het einde van de molen van Broos.
+wrong: 
+author: dasja
+answer: A

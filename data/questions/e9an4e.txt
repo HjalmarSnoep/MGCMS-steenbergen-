@@ -1,0 +1,18 @@
+title: Ambachtslieden
+published: 1
+body: Welke twee ambachtslieden werkten vroeger met hout?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 3
+media: Z0cgjxvqqT
+A: Klompenmaker en borstelmaker
+B: Goudsmid en koperslager
+C: Smid en kleermaker
+D: Metselaar en timmerman
+hint: Niet iedereen kon op schoenen lopen. Dat was voor veel mensen niet te betalen.
+right: Om te beginnen was er de klompenmaker. Hij had met name eind 19e, begin 20e eeuw volop werk. Niet iedereen kon op schoenen lopen. Dat was voor veel mensen niet te betalen. Over het algemeen liep men, zeker op doordeweekse dagen, op klompen. Ook de kinderen gingen op klompen naar school. Daarnaast bestonden er borstelmakers, hoewel je die alleen tegenkwam wanneer er veel werkloosheid was. Het was een manier om wat bij te verdienen.
+wrong: 
+author: dasja
+answer: A

@@ -1,0 +1,18 @@
+title: Straatnaam
+published: 1
+body: Welke burgemeester heeft een straatnaam gekregen in Dinteloord?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 5
+media: 1mzVerezVO
+A: Burgemeester Schout
+B: Burgemeester Van Campen
+C: Burgemeester Van Wijk
+D: Burgemeester Pop
+hint: Zouden er in deze straat alleen poppenhuizen staan?
+right: De enige Dinteloordse burgemeester die er ooit een straatnaam kreeg, was burgemeester Mr. Herman Pop. De straat was van net na de Wereldoorlog maar is sinds het begin van deze eeuw helemaal vernieuwd. De zoon van burgemeester Pop, Jaap Pop (ook een burgemeester), heeft in 2006 de eerste sleutel overhandigd aan een van de nieuwe bewoners.
+wrong: 
+author: dasja
+answer: D

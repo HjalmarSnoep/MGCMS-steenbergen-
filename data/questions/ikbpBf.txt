@@ -1,0 +1,18 @@
+title: Andere naam
+published: 1
+body: Waar verandert de naam van rivier de Mark in de Dintel?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 5
+media: g1POrG0W7R
+A: Bij Standdaarbuiten
+B: Bij Stampersgat
+C: Bij Dinteloord
+D: Bij Breda
+hint: Veel mensen denken dat het Stampersgat is maar het goede antwoord stond erbuiten.
+right: Officieel gaat de Mark bij Standdaarbuiten over in de Dintel. Maar in de volksmond heet het binnenwater pas vanaf Stampersgat Dintel. Dat is de de plaats waar het Mark-Vlietkanaal erin uitkomt. Vervolgens stroomt het riviertje langs Dinteloord, waar het uitkomt via het Volkerak in het Hollands Diep.
+wrong: 
+author: dasja
+answer: A
