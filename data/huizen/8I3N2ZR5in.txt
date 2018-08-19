@@ -1,0 +1,12 @@
+id: 8I3N2ZR5in
+published: 1
+city: 7
+ly: 0
+naam: Dolfinarium
+prijs: 150
+unlock: 25370
+lx: 0
+rx: 17501388549804688
+ry: 2370138702392578
+w: 492
+h: 253

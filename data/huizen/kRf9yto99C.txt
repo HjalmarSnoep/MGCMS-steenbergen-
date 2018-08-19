@@ -1,11 +1,12 @@
 id: kRf9yto99C
 published: 1
+city: 3
+ly: 1138
 naam: amdejonghuis.png
 prijs: 250
+unlock: -1
+lx: 1914
 rx: 47
 ry: 75
-lx: 1937
-ly: 1126
 w: 74
 h: 82
-city: 3

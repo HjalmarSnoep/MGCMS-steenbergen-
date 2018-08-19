@@ -1,0 +1,12 @@
+id: m8JxiuJpOl
+published: 1
+city: 7
+ly: 0
+naam: Uitkijktoren
+prijs: 180
+unlock: 49570
+lx: 0
+rx: 6901388549804688
+ry: 39523609924316406
+w: 129
+h: 628

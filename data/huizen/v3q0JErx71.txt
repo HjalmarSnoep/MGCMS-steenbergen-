@@ -1,11 +1,12 @@
 id: v3q0JErx71
 published: 1
+city: 7
+ly: 0
 naam: Wolkenkrabber
 prijs: 200
+unlock: 55580
+lx: 0
 rx: 56013885498046875
 ry: 3950138854980469
-lx: 0
-ly: 0
 w: 118
 h: 589
-city: 7

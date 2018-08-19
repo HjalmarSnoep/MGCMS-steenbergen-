@@ -1,11 +1,12 @@
 id: h2ZoN74hAi
 published: 1
+city: 4
+ly: 1008
 naam: holle roffel
 prijs: 250
+unlock: -1
+lx: 1176
 rx: 58
 ry: 171
-lx: 1176
-ly: 1008
 w: 163
 h: 168
-city: 4

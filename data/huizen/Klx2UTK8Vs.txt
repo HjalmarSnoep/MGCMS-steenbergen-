@@ -1,0 +1,12 @@
+id: Klx2UTK8Vs
+published: 1
+city: 7
+ly: 0
+naam: Snoepwinkel
+prijs: 50
+unlock: 6110
+lx: 0
+rx: 9501388549804688
+ry: 1280138702392578
+w: 216
+h: 153

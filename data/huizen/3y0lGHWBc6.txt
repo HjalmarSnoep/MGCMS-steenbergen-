@@ -1,0 +1,12 @@
+id: 3y0lGHWBc6
+published: 1
+city: 6
+ly: 736
+naam: Corneliuskerk
+prijs: 250
+unlock: -1
+lx: 780
+rx: 63013885498046875
+ry: 1680138702392578
+w: 170
+h: 179

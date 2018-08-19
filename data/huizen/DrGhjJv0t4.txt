@@ -1,0 +1,12 @@
+id: DrGhjJv0t4
+published: 1
+city: 7
+ly: 0
+naam: Kiosk
+prijs: 25
+unlock: 2180
+lx: 0
+rx: 34013885498046875
+ry: 6501387023925781
+w: 76
+h: 67

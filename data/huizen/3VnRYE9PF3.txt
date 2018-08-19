@@ -1,11 +1,12 @@
 id: 3VnRYE9PF3
 published: 1
+city: 3
+ly: 1054
 naam: bsmerijntje2.png
 prijs: 250
+unlock: -1
+lx: 1956
 rx: 0
 ry: 0
-lx: 1894
-ly: 909
 w: 221
 h: 81
-city: 3

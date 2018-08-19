@@ -1,11 +1,12 @@
 id: 7gyfPaZcN1
 published: 1
+city: 7
+ly: 0
 naam: Kasteel
 prijs: 100
+unlock: 13490
+lx: 0
 rx: 0
 ry: 0
-lx: 0
-ly: 0
 w: 416
 h: 415
-city: 7

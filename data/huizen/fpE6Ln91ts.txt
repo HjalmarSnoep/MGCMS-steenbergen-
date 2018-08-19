@@ -1,11 +1,12 @@
 id: fpE6Ln91ts
 published: 1
+city: 1
+ly: 1331
 naam: hervormdekerk.png
 prijs: 250
+unlock: -1
+lx: 3391
 rx: 104
 ry: 216
-lx: 3391
-ly: 1331
 w: 181
 h: 218
-city: 1

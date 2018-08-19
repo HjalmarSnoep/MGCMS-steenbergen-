@@ -1,0 +1,12 @@
+id: 3sEAUNypM2
+published: 1
+city: 7
+ly: 0
+naam: Vliegveld
+prijs: 200
+unlock: 61590
+lx: 0
+rx: 3950138854980469
+ry: 3180138702392578
+w: 600
+h: 353

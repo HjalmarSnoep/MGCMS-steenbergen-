@@ -1,0 +1,12 @@
+id: s62OnexM3A
+published: 1
+city: 7
+ly: 0
+naam: Stadion
+prijs: 150
+unlock: 38900
+lx: 0
+rx: 22601388549804688
+ry: 3090138702392578
+w: 400
+h: 312

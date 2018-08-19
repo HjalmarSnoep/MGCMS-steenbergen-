@@ -1,11 +1,12 @@
 id: 2NxYrm5XZ8
 published: 1
+city: 1
+ly: 1652
 naam: watertoren.png
 prijs: 250
+unlock: -1
+lx: 3835
 rx: 73
 ry: 286
-lx: 3797
-ly: 1627
 w: 242
 h: 315
-city: 1

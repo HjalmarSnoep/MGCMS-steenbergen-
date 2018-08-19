@@ -1,0 +1,12 @@
+id: EoPjBMtIM0
+published: 1
+city: 7
+ly: 0
+naam: Dierentuin
+prijs: 175
+unlock: 44160
+lx: 0
+rx: 13001388549804688
+ry: 3290138702392578
+w: 568
+h: 330

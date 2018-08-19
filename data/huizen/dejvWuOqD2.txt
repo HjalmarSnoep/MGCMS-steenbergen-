@@ -1,11 +1,12 @@
 id: dejvWuOqD2
 published: 1
+city: 6
+ly: 702
 naam: piusX
 prijs: 250
+unlock: -1
+lx: 668
 rx: 91
 ry: 98
-lx: 668
-ly: 702
 w: 160
 h: 92
-city: 6

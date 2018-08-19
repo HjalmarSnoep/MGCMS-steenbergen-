@@ -1,11 +1,12 @@
 id: iXdSaKKx4W
 published: 1
+city: 5
+ly: 1673
 naam: dorpshuis dinteloord
 prijs: 250
+unlock: -1
+lx: 1774
 rx: 84
 ry: 127
-lx: 1774
-ly: 1673
 w: 124
 h: 124
-city: 5

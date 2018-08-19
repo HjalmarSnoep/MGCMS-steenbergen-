@@ -1,0 +1,12 @@
+id: IdZdHKQKFJ
+published: 1
+city: 7
+ly: 0
+naam: Fontein
+prijs: 30
+unlock: 3090
+lx: 0
+rx: 42013885498046875
+ry: 7823609924316406
+w: 80
+h: 80

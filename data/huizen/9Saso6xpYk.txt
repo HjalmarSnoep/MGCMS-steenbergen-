@@ -1,0 +1,12 @@
+id: 9Saso6xpYk
+published: 1
+city: 7
+ly: 0
+naam: Zwemparadijs
+prijs: 120
+unlock: 17100
+lx: 0
+rx: 17201388549804688
+ry: 2490138702392578
+w: 327
+h: 263

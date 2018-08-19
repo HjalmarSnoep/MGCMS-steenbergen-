@@ -1,11 +1,12 @@
 id: 19vXDGmyaZ
 published: 1
+city: 7
+ly: 0
 naam: Hier-woon-ik-bord
 prijs: 0
+unlock: 10
+lx: 0
 rx: 59
 ry: 143
-lx: 0
-ly: 0
 w: 123
 h: 148
-city: 7

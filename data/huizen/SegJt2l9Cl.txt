@@ -1,0 +1,12 @@
+id: SegJt2l9Cl
+published: 1
+city: 2
+ly: 1296
+naam: kerkdeheen
+prijs: 0
+unlock: -1
+lx: 2267
+rx: 39013885498046875
+ry: 10923609924316406
+w: 177
+h: 118

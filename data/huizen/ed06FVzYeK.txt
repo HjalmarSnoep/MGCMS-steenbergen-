@@ -1,11 +1,12 @@
 id: ed06FVzYeK
 published: 1
+city: 6
+ly: 908
 naam: stellamaris.png
 prijs: 250
+unlock: -1
+lx: 288
 rx: 130
 ry: 334
-lx: 288
-ly: 908
 w: 370
 h: 341
-city: 6

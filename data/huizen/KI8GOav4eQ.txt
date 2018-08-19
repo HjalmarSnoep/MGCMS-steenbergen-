@@ -1,11 +1,12 @@
 id: KI8GOav4eQ
 published: 1
+city: 3
+ly: 1469
 naam: brug.png
 prijs: 250
+unlock: -1
+lx: 393
 rx: 284
 ry: 214
-lx: 393
-ly: 1469
 w: 576
 h: 296
-city: 3

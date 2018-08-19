@@ -1,0 +1,12 @@
+id: 9gkPz4UFPJ
+published: 1
+city: 7
+ly: 0
+naam: Manege
+prijs: 125
+unlock: 20860
+lx: 0
+rx: 18001388549804688
+ry: 2670138702392578
+w: 400
+h: 277

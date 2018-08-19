@@ -1,0 +1,12 @@
+id: 3AtPMS1da0
+published: 1
+city: 7
+ly: 0
+naam: Speelgoedwinkel
+prijs: 70
+unlock: 8220
+lx: 0
+rx: 14901388549804688
+ry: 13023609924316406
+w: 291
+h: 153

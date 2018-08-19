@@ -1,11 +1,12 @@
 id: 6aQcqqnBMq
 published: 1
+city: 5
+ly: 1423
 naam: kerk3.png
 prijs: 0
+unlock: -1
+lx: 1551
 rx: 61
 ry: 165
-lx: 1551
-ly: 1423
 w: 136
 h: 175
-city: 5

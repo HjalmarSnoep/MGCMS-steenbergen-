@@ -1,11 +1,12 @@
 id: 25ZXv8o5SS
 published: 1
+city: 5
+ly: 1580
 naam: kerk1
 prijs: 250
+unlock: -1
+lx: 1854
 rx: 186
 ry: 271
-lx: 1854
-ly: 1580
 w: 253
 h: 272
-city: 5

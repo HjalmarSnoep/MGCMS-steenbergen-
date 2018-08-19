@@ -1,11 +1,12 @@
 id: RlxusHOekl
 published: 1
+city: 1
+ly: 831
 naam: maria regina
 prijs: 250
+unlock: -1
+lx: 3606
 rx: 75
 ry: 141
-lx: 3606
-ly: 831
 w: 204
 h: 143
-city: 1
