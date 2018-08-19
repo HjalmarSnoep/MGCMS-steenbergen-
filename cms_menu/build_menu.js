@@ -3874,7 +3874,7 @@ Hybrid.styleWebview=function (o,co){
 		layout.previewframesize=80;
 		layout.previewframemargin=2;
 	
-		layout.toolbox=['vragen','media','kaart','huizen','statistieken','bugs','disclaimer'];
+		layout.toolbox=['vragen','media','kaart','huizen','extra1','extra2','statistieken','bugs','disclaimer'];
 		layout.tools={};
 		layout.tools.x=0;
 		layout.tools.y=layout.top_bar.h;
@@ -3993,6 +3993,14 @@ Hybrid.styleWebview=function (o,co){
 				break;
 				case "huizen":
 					Hybrid.setWebviewURL(itf.webview,"../cms_buildings/index.php");
+					Hybrid.styleWebview(itf.webview, {transparant:false} );
+				break;
+				case "extra1": // games
+					Hybrid.setWebviewURL(itf.webview,"../cms_games/index.php");
+					Hybrid.styleWebview(itf.webview, {transparant:false} );
+				break;
+				case "extra2": // tags
+					Hybrid.setWebviewURL(itf.webview,"../cms_tags/index.php");
 					Hybrid.styleWebview(itf.webview, {transparant:false} );
 				break;
 				case "statistieken":

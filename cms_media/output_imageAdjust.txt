@@ -1,0 +1,1 @@
+{"id":"0CtvMx6f8U","original_image_size":{"0":250,"1":303,"2":3,"3":"width=\"250\" height=\"303\"","bits":8,"mime":"image\/png"},"width":250,"height":303,"new_width":459.57095709570956,"new_height":557,"box_width":854,"box_height":557}
