@@ -1,0 +1,18 @@
+title: Monument
+published: 1
+body: Waarom is dit Dinteloordse monument er?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 5
+media: 1zxU3uoyXt
+A: Ter herdenking van de Watersnoodramp
+B: Ter herinnering aan de stichting van Dinteloord in 1605
+C: Ter herinnering aan de herindeling van 1 januari 1997
+D: Ter nagedachtenis aan de slachtoffers uit WO2
+hint: 
+right: 
+wrong: 
+author: dasja
+answer: D

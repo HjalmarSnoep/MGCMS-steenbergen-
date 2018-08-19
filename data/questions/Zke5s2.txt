@@ -1,0 +1,18 @@
+title: De Congo
+published: 1
+body: Wat was de bijnaam van de laatste baas van caf&eacute; &#039;De Congo&#039; op Notendaal?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 3
+media: AezwMDsbzu
+A: Keeke de Congo
+B: Kaatje Notendaaltje
+C: Vrouwke Hellemons
+D: Congo Kaatje
+hint: Het was een ouderwets, klein cafeetje dat in het jaar 1888 werd begonnen door Henricus Hellemons. Toen hij in 1942 overleed, nam zijn dochter Keeke het over.
+right: Vroeger waren er veel meer caf&eacute;s dan tegenwoordig. Er waren nog niet zoveel clubs en verenigingen, geen winkelcentra en lang niet iedereen had een auto. Het caf&eacute; was dus de plek waar de mensen naartoe kwamen na een lange werkdag. Iedere dorp had meerdere caf&eacute;s en zelfs een gehucht als Notendaal had er &eacute;&eacute;n. Het was een zeer bijzonder cafeetje. En erg geliefd, ook buiten het dorpje. Het lag aan de Pelsendijk in Notendaal en droeg de naam &#039;De Congo&#039;. Het was een ouderwets, klein cafeetje (ook wel een schabberdoeske genoemd) dat in het jaar 1888 werd begonnen door Henricus Hellemons. Toen hij in 1942 overleed, nam zijn dochter Keeke het over. &#039;Keeke de Congo&#039; werd 96 jaar en was tot een paar weken voor haar dood nog achter de tap te vinden. In 1996 werd het cafeetje gesloopt, maar de inboedel, zoals de toog met oude tapkraan en glazenkast hebben een plaatsje gekregen in het A.M. de Jongmuseum in Nieuw-Vossemeer. Hartstikke leuk om eens een keertje te gaan kijken!
+wrong: 
+author: dasja
+answer: A

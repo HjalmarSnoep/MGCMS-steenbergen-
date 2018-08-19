@@ -1,0 +1,18 @@
+title: kleur
+published: 1
+body: Uit de wortels van de meekrap kun je een kleurstof halen. Welke kleur kun je daar onder andere maken?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 1
+media: S3d7tajocm
+A: Geel
+B: Groen
+C: Blauw
+D: Rood
+hint: De kleur van de liefde.
+right: In de 19e eeuw werd er veel geld verdiend dankzij de meekrap. De wortels van deze plant werden gedroogd en verpulverd tot er een kleurstof overbleef. Met die kleurstof kon je heel veel kleuren maken van zwart en bruin tot rood en roze. De kleur (koninklijk) rood was het belangrijkste. Het grootste gedeelte van het verfpoeder werd verkocht aan wolververijen en textieldrukkerijen. In Steenbergen waren zeven zogenaamde meekrapstoven. Iedere stoof had meerder eigenaren. Meestal waren tien tot vijftien meekrapboeren samen eigenaar van en stoof. Rond 1870 werd er een manier gevonden om de rode kleurstof kunstmatig te maken. En dat was het einde van de meekrapcultuur. Hoewel&hellip;aan het eind van de twintigste eeuw kwam er in Steenbergen weer een bedrijf dat meekrap verwerkte tot kleurstof
+wrong: 
+author: dasja
+answer: D

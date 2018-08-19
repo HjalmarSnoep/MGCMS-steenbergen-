@@ -1,0 +1,18 @@
+title: Sluizencomplex
+published: 1
+body: Wanneer wordt het sluizencomplex bij het Benedensas nog gebruikt?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 2
+media: 51VrgzSIPb
+A: Als ons land binnengevallen wordt
+B: Als er blauwalg in het water zit
+C: Als er een jacht doorheen moet
+D: Ten tijde van langdurige droogte
+hint: Vroeger tegen de Spanjaarden, nu tegen de Cyanobacteria.
+right: Aan het Benedensas bij De Heen vindt je een belangrijk monumentaal sluizencomplex. Het staat op de tweede plaats van de monumentenlijst van waterstaatkundige werken. In de jaren &#039;60 is het complex gerestaureerd. Sinds 1987 zijn de getijden op het Volkerak en Zoommeer weggevallen, en daarmee ook de functie van de sluizen. De schutsluis wordt in de zomer nog wel gebruikt om het indringen van blauwalg op de Vliet te voorkomen.
+wrong: 
+author: dasja
+answer: B

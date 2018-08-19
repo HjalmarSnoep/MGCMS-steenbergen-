@@ -1,0 +1,18 @@
+title: Scheve toren
+published: 1
+body: Waarvoor diende deze scheve toren in Dinteloord?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 5
+media: JblbbQRIo2
+A: Als klokkentoren
+B: Als sluis
+C: Als uitzichtpunt
+D: Als vuurtoren
+hint: 
+right: De huidige Torensluis aan de kop van de kreek is gebouwd in 1773. Het was een sluis in de polder rond de Havenweg. Deze polder heet de Torenpolder. Er is maar een afbeelding bekend van de scheve toren van Dinteloord die gemaakt is in 1832 door een Noord-Nederlandse militair. Op deze tekening heeft hij een ruiter te paard voor de toren getekend.
+wrong: 
+author: dasja
+answer: B

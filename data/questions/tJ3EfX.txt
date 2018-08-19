@@ -1,0 +1,18 @@
+title: Bunkers
+published: 1
+body: Op het Heens grondgebied staan zes bunkers. Waar maken zij deel van uit?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 2
+media: M59BA6dciL
+A: Brabantse Waterlinie
+B: Landschap van Allure
+C: Brabantse Wal
+D: Atlantikwall
+hint: Het is een Duitse vinding. Dat hoor je nog terug in de naam.
+right: De bunkers in de Heense polder maken deel uit van de Atlantikwall. Dit is een verdedigingslinie die in de Tweede Wereldoorlog door de Duitsers werd aangelegd. De linie liep van Noorwegen, langs de westkust van Europa, tot in het zuiden van Frankrijk en moest bescherming bieden tegen een invasie van de geallieerden. In de Heense polder staan in totaal zes bunkers. Ze werden in 1944 gebouwd door Nederlanders die voor de Duitsers moesten werken, zogenaamde tewerkgestelden. Na de bouw werden de bunkers gecamoufleerd, &eacute;&eacute;n als huis met een rieten dak, de anderen als paardenstal en hooimijt
+wrong: 
+author: dasja
+answer: D

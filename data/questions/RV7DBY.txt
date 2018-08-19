@@ -1,0 +1,18 @@
+title: kromme elleboog
+published: 1
+body: De Kromme Elleboog in Steenbergen in vroeger tijden. Wat was er in het witte huis aan het eind van de straat gevestigd?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 1
+media: M33JGeiVK2
+A: Een school
+B: Een bank
+C: Een fysiotherapeut
+D: Een sigarenfabriek
+hint: Je noemt het ook wel een bolknak. Je bent het als je de pineut bent.
+right: De Kromme Elleboog is een van de oudste straatjes van Steenbergen. Aan de linkerkant zie je kleine arbeiderswoninkjes. Het gebouw achterin was aan het eind van de 19e eeuw een sigarenfabriek. De fabrikant was J.P. Solbach. Sigaren werden in die tijd nog helemaal met de hand gemaakt. Dat was ook nog best moeilijk. Later kwam er in het gebouw een caf&eacute; met de naam &#039;De Vierwinden&#039; .
+wrong: 
+author: dasja
+answer: D

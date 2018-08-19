@@ -1,0 +1,18 @@
+title: Verdwenen gehuchten
+published: 1
+body: Welke Nieuw-Vossemeerse gehuchten verdwenen na 1953?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 3
+media: Yk5JLjoour
+A: De Rolaf en de Schiethoek
+B: De Kortendijk en De Kaai
+C: De Pelsendijk en de Paardenhoek
+D: Notendaal en Heense Molen
+hint: Het waren met name gehuchten langs de dijk en tegen het water die de Ramp niet overleefden.
+right: Voor de Watersnoodramp stonden er tegen de Kortendijk een paar kleine arbeidershuisjes. Zij verdwenen op 1 februari 1953 allemaal in de golven. Ook aan De Kaai gingen de dijkwoningen ten onder aan het water. Jarenlang hadden zij boven op de dijk gestaan en vormden zij een schakel met Oud-Vossemeer dat aan de overkant lag. In het verleden woonden hier ook enige schippers toen transport vanuit het haventje nog gebruikelijk was.Op de foto uit de jaren vijftig zien we Jan en Pieternel Koolen van het caf&eacute; De Nachtegaal op Notendaal, een gehucht van Nieuw-Vossemeer dat nog steeds bestaat.
+wrong: 
+author: dasja
+answer: B

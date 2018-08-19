@@ -1,0 +1,18 @@
+title: Blauwe sluis
+published: 1
+body: In 1822 is er bij de Kruislandsedijk aan de Kruisbeek een sluis aangelegd. Waarom heet die de Blauwe Sluis?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 4
+media: sCCZ4upyRw
+A: De sluis was van meneer Blauw
+B: Vanwege de kleur blauw van de sluisdeuren in die tijd
+C: Er kwamen veel smurfen doorheen
+D: Omdat de sluiswachter altijd dronken was
+hint: Gelukkig is het niet de Roze Sluis want dat zou echt geen gezicht geweest zijn.
+right: Op de plek waar de Steenbergse Vliet in verbinding staat met de Cruijslandse Kreken (De Kruisbeek), lag vroeger een zogenaamde inundatiesluis. Dat betekent dat de sluis werd gebruikt om de kreken onder water zetten en de vijand zodoende op afstand te houden. Rond 1628 is ter verdediging van het gebied een redoute aangelegd ter hoogte van de Blauwe Sluis. Een redoute is een verdedigingswerk waarachter men zich kon verschansen. Dit verdedigingswerk is in de periode tussen 1751 en 1794 vervangen door een andere verdedigingswerk
+wrong: 
+author: dasja
+answer: B

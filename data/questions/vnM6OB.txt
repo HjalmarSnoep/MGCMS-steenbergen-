@@ -1,0 +1,18 @@
+title: braken
+published: 1
+body: Roten, braken en zwingelen. Bij de productie waarvan horen deze termen?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 1
+media: 0QpGXAi5YE
+A: Suiker uit bieten
+B: Zout uit turf
+C: Linnen uit vlas
+D: Kleurstof uit meekrap
+hint: Je zit al een poosje te vlassen op het goede antwoord.
+right: Aan de Dinteloordseweg in Steenbergen stond van 1920 tot 1978 een vlasfabriek. Hier werd het linnen van de vlasplant gewonnen. Dat was een ingewikkeld proces. Het linnen zit namelijk om het houten gedeelte van de stengel. Dus moest de stengel eerst een tijd weken (roten) waarna hij gebroken kon worden (braken). Daarna werden de houten gedeeltes eruit gekamd (zwingelen) en hield je het linnen over. Daar kon je dan uiteindelijk lakens of gordijnen van maken. Bovenaan de vlasstengel zit een zaadbolletje. Hieruit wordt het zaad gewonnen om weer nieuwe vlas te kunnen zaaien. Ook wordt het gebruikt als veevoeder. Tot slot kun je er lijnolie uit persen dat onder meer gebruikt wordt om verf van te maken. In de oorlog werd hetgebruikt om mee te bakken en braden.
+wrong: 
+author: dasja
+answer: C

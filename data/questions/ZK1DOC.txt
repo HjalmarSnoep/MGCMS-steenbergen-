@@ -1,0 +1,18 @@
+title: Naam
+published: 1
+body: Wat was de naam van deze fabriek toen hij in 1949 aan de Molenweg in Steenbergen opende?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 1
+media: xipevsdvoX
+A: De Enka
+B: De HKI
+C: De Zij
+D: De Akzo
+hint: 
+right: In 1949 opende aan de Molenweg de Hollandse Kunstzijde Industrie (HKI). Hier werden garens gemaakt van kunstvezels. Dat was veel goedkoper dan de natuurlijke vezel. En dat betekende vooral voor de kledingindustrie een enorm verandering. In de volksmond werd de fabriek &lsquo;De Zij&rsquo; genoemd. Later werd de HKI overgenomen door de Enka . Toen werden er garens voos autobanden gemaakt. In 2009 sloot de fabriek en later werd hij gesloopt. Het wijkje naast VMBO &rsquo;t Ravelijn is gebouwd op de plek waar vroeger &lsquo;De Zij&rsquo; stond. De namen van deze wegen herinneren nog aan die tijd. Zoals bijvoorbeeld De Twijnerij. Twijnen is het in elkaar draaien van twee of meer draden.
+wrong: Toen in Holland de Kunstzijde Industrieel vervaardigd werd, betekende dat een revolutie in de modewereld.
+author: dasja
+answer: B

@@ -1,0 +1,18 @@
+title: Meisjesschool
+published: 1
+body: Waar gingen de Welbergse meisjes tot 1932 naar school?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 6
+media: a4w6Jeaqe8
+A: Die gingen niet naar school
+B: Zij kregen thuis onderwijs
+C: Op het dorp zelf
+D: In Steenbergen
+hint: Te voet en over zandwegen was het een hele tocht.
+right: In 1932 kwam er een meisjesschool op het dorp. Deze werd geleid door de Zuster Franciscanessen (foto) die in het Klooster woonden dat links naast de kerk stond. De komst van de school was een hele opluchting voor de Welbergse meisjes die tot die tijd in Steenbergen naar school moesten. Nu is dat misschien een fluitje van een cent wanneer je over asfalt rijdt op je mooie fiets, maar dat was aan het begin van de 20e eeuw wel anders. De weg tussen Steenbergen en Welberg was onverhard en er reden geen auto&#039;s, maar paarden en wagens. De meisjes hadden zeker geen fietsen maar moesten op hun klompen het hele eind door de modder baggeren. Daar kwam dus een einde aan met de nieuwe school, de R.K. Meisjesschool Pius X. Een van de lokalen werd ingericht als kleuterschool, in die tijd nog Bewaarschool.
+wrong: 
+author: dasja
+answer: D

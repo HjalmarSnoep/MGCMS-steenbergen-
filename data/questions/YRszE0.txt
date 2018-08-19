@@ -1,0 +1,18 @@
+title: Eerste wereldoorlog
+published: 1
+body: Tijdens de Eerste Wereldoorlog (1914-1918) bleef Nederland neutraal. Wat merkte Steenbergen van de oorlog?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 1
+media: hoexPGJckc
+A: Helemaal niets
+B: Het werd plat gebombardeerd
+C: Het was moeilijker om aan eten te komen
+D: Vluchtelingen uit Belgi&euml; kwamen hier naartoe
+hint: Gelukkig waren we toen ook al gastvrij.
+right: In de nacht van 7 op 8 oktober 1914 lag Antwerpen zwaar onder vuur. Veel burgers vluchtten de grens over naar het neutrale Steenbergen. Ze kwamen te voet, met kruiwagens, trekkarren, kortom met alles wat wielen had. Naar schatting zocht een half miljoen (!) vluchtelingen onderdak in Brabant. Ze werden er veelal met open armen ontvangen. Zo ook in Steenbergen
+wrong: 
+author: dasja
+answer: D

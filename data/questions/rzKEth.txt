@@ -1,0 +1,18 @@
+title: Eerste inwoners
+published: 1
+body: Vanaf welke eeuw wonen er mensen in Steenbergen?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 1
+media: hhvp6wx5w0
+A: Dertiende eeuw
+B: Tiende eeuw
+C: Tweede eeuw
+D: Negentiende eeuw
+hint: Steenbergen was nog niet eens een stad
+right: Uit bodemvondsten door archeologen is duidelijk geworden dat er al in de 10e eeuw in Steenbergen gewoond werd. En dan vooral op hoger gelegen gedeelten in het Oudland bij wat tegenwoordig de Welberg is. Hier woonden waarschijnlijk wat boeren die vielen onder een baas die een leenman werd genoemd. Die leenman zal er wel een versterkte hoeve gehad hebben. Rond het eind van de 11e eeuw kreeg Steenbergen een &#039;portus&#039;. Dat is een kleine haven rond een burcht. Hier werd handel gedreven. De handelaren werden beschermd door de lokale heer. Natuurlijk wel tegen betaling. Langzaam groeit de bewoning in het Oudland en de havens naar elkaar toe. Er komt een gracht met daarachter een houten wand zodat men zich nog beter kon verdedigen tegen aanvallen. Een stad wordt Steenbergen pas in 1272.
+wrong: 
+author: dasja
+answer: B

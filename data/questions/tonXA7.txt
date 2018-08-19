@@ -1,0 +1,18 @@
+title: Jan Hoogendoorn
+published: 1
+body: Waar woonde Jan Hoogendoorn, oud-burgemeester van de Gemeente Steenbergen?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 4
+media: xmbo0DcaMu
+A: Steenbergen
+B: De Heen
+C: Nieuw-Vossemeer
+D: Kruisland
+hint: Voordat hij burgemeester werd was hij raadslid en wethouder van de gemeente Roosendaal. Daar had hij veel kennissen en dus wilde hij wel een beetje daar in de buurt blijven wonen.
+right: Wanneer iemand burgemeester wordt van een gemeente, dan moet hij of zij daar gaan wonen. Voor de gemeente Steenbergen betekent dit dat de burgemeester al snel in Steenbergen gaat wonen. Omdat dit de grootste kern is en omdat het gemeentehuis daar staat. Dan is de burgemeester dus lekker snel op zijn of haar werk. Jan Hoogendoorn dacht daar anders over. Hij was van 2003 tot 2012 burgemeester van Steenbergen en woonde in die tijd in de kern Kruisland.
+wrong: 
+author: dasja
+answer: D

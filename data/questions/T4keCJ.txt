@@ -1,0 +1,18 @@
+title: Bloze Kriekske
+published: 1
+body: Hoe komt de kapsalon van Elly Hellemons aan de naam Bloze Kriekske?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 4
+media: GdrMYC3RKy
+A: Elly is Blozekriekse
+B: Elly had vroeger rode wangetjes
+C: Elly houdt van kersen
+D: De straat van de kapsalon heet Blozekrieksepad
+hint: Elly heeft goede herinneringen aan Merijntje.
+right: In 1973 werd de jeugdserie Merijntje Gijzen opgenomen. Elly speelde daarin de rol van Blozekriekske, het bazige vriendinnetje van Merijntje. Elly was 12 jaar toen de film opgenomen werd. Ze speelde samen met o.a. Kitty Jansen en Piet R&ouml;mer. Onderwijzer Con Slokkers van de lagere school had Elly enthousiast gemaakt om mee te doen aan de auditie voor een rol in de serie.
+wrong: 
+author: dasja
+answer: A

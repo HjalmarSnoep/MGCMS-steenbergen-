@@ -1,0 +1,18 @@
+title: Kerk Welberg
+published: 1
+body: Naar wie is de kerk op de Welberg genoemd?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 6
+media: KtWdZOitjk
+A: Cornelius
+B: Laurentius
+C: Gummarus
+D: Antonius
+hint: Zeg maar Kees.
+right: Naar de Heilige Cornelius. Hij is beschermer tegen vallende ziekten en tegen ziekte van het hoornvee. Waarom zijn naam aan de Welbergse kerk is gegeven is overigens niet bekend. De Corneliuskerk werd op 17 oktober 1928 officieel in gebruik genomen. 86 jaar later kwam daar op 15 november 2014 een einde aan. De kerk werd gesloten omdat het aantal kerkgangers heel erg was teruggelopen. Het werd te duur om de kerk open te houden. In diezelfde maand werden om die reden ook de katholieke kerken in De Heen en Dinteloord gesloten.
+wrong: 
+author: dasja
+answer: A

@@ -1,0 +1,18 @@
+title: groot bord
+published: 1
+body: n 1976 hadden de bewoners van De Heen een groot bord geplaatst bij de ingang van het dorp. Waarom?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 2
+media: rfRbrQV7wN
+A: Ter aankondiging van een toneelstuk dat in gemeenschapshuis De Stelle zou worden gehouden
+B: Uit angst dat het dorp langzaam uit zou sterven
+C: Ter aankondiging van Halloween
+D: Om bezoekers welkom te heten
+hint: Toen in 1980 toestemming kwam om nieuwe huizen te bouwen, kon het bord weg.
+right: In november 1976 hingen de vlaggen van De Heen halfstok en stond er bij de ingang van het dorp een groot bord met de tekst
+wrong: 
+author: dasja
+answer: B

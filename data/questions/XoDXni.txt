@@ -1,0 +1,18 @@
+title: aquaduct
+published: 1
+body: Hoe heet het aquaduct over de A4 dat tussen De Heen en Steenbergen ligt?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 2
+media: 8JYXQbG3ai
+A: Fort Hendrik
+B: De Waterdrager
+C: Steenbergen aan Zee
+D: Volkerak
+hint: Er worden nog geen ladingen Duitse toeristen verwacht.
+right: Op 24 november 2014 werd de snelweg A4 rond Steenbergen geopend. Om de scheepvaart tussen Steenbergen en het Volkerak open te houden werd er een aquaduct gebouwd. Het is het eerste echte aquaduct van Noord-Brabant. De naam van het bouwwerk is Steenbergen aan Zee. Veel mensen moeten daar een beetje om lachen, maar als je terugkijkt in de tijd klopt het wel. Vroeger was er namelijk een open verbinding tussen het Volkerak en de Noordzee. Met de inpoldering en nog later de aanleg van de Deltawerken kwam daar een einde aan.
+wrong: 
+author: dasja
+answer: C

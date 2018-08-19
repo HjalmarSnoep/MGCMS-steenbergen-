@@ -1,0 +1,18 @@
+title: Poorters
+published: 1
+body: Vroeger woonden er in Steenbergen poorters. Wat zijn dat?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 1
+media: 5iiBakW7d6
+A: De uitsmijters van de stad
+B: De inwoners van de stad
+C: Prostituees
+D: Mensen met de achternaam Poort
+hint: Tegenwoordig telt de gehele gemeente Steenbergen 23.400 poorters.
+right: Poorters zou je tegenwoordig inwoners noemen. Wie zich inschreef in de stad werd daarmee, tegen betaling natuurlijk, poorter. Je mocht dan binnen de muren van de vesting wonen waardoor je beter beschermd was. Ook kreeg je als poorters speciale rechten. Als je iets verkeerd deed bijvoorbeeld kon je alleen in je eigen stad berecht worden voor he misdrijf. Maar je was bijvoorbeeld ook verplicht om je stadgenoten te helpen wanneer zij in nood waren. Deed je dat niet, dan kreeg je een boete.
+wrong: 
+author: dasja
+answer: B

@@ -1,0 +1,18 @@
+title: Borstrock festival
+published: 1
+body: In welk jaar was er voor het eerst een Borstrock Festival in Nieuw-Vossemeer?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 3
+media: XOl6ROudcl
+A: 1990
+B: 2000
+C: 1555
+D: 1980
+hint: In 2014 vierde Borstrock zijn zilveren jubileum.
+right: Het Borstrock Festival begon in 1990. Dat jaar besloten twee vrienden die allebei van rockmuziek hielden, om een klein blues-/rockfestival te organiseren in hun dorp Nieuw-Vossemeer. Het idee was om dit op een klein veldje pal naast het bejaardenhuis te doen. De muziekvrienden kregen zowaar nog een vergunning van burgemeester en wethouders. Want &#039;wat leven in de brouwerij&#039; kon volgens de burgemeester &#039;geen kwaad&#039;. Die eerste editie van Borstrock ging bijna ten onder aan zijn eigen succes. In plaats van de verwachtte 100 bezoekers lagen er rond de middag al 500 rockfans op het grasveld. En die moesten met z&#039;n allen gebruik maken van &eacute;&eacute;n toilet. Ook de plastic drinkbekers waren in een mum van tijd op. Dus vroeg de organisatie aan de gasten om de bekers niet weg te gooien maar in te leveren zodat ze nog een keer gebruikt konden worden.
+wrong: 
+author: dasja
+answer: A

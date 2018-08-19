@@ -1,0 +1,18 @@
+title: Brandt CorsTius Duijkersfonds
+published: 1
+body: Op de foto zie je het graf van het echtpaar Duijkers-Tindal. De naam van meneer Duijkers vind je terug in het Brandt Corstius Duijkersfonds. waar moet je je voor inzetten als je de prijs van dit fonds wilt winnen?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 1
+media: Y6s363m60q
+A: Sport in Steenbergen
+B: Cultuur in Steenbergen
+C: Onderwijs in Steenbergen
+D: Natuur in Steenbergen
+hint: De prijs is al elf keer uitgereikt. Onder meer aan kunstenaars en muzikanten.
+right: De Brandt Corstius Duijkersprijs is een Steenbergse prijs die in 1988 werd ingesteld. Hij is bedoeld om het culturele welzijn in Steenbergen te ondersteunen. De winnaars zijn dus altijd personen die zich bijzonder inzetten voor het culturele leven. Het kunstenaarsechtpaar Rina en Martin Valkhoff uit De Heen won de prijs in 2014 omdat zij zich erg ingezet hadden voor de viering van het 400-jarig bestaan van De Heen. De prijs is al elf keer toegekend. Het cultuurfonds stamt uit 1903 en werd opgericht na opheffing van de Nutsspaarbank. Toenmalig directeur Hendrik Willem Duijkers en dominee Melchior Brandt Corstius, beiden regent (bestuurder) van het Nederlands Hervormd weeshuis, hebben het opgericht. Duijkers ligt begraven op de begraafplaats van de Nederlands Hervormde Kerk. Op het gezamenlijke graf van hem en zijn vrouw Johanna Cornelia Tindal staat een monument. Een afgebroken zuil, symbool voor de dood, met daaromheen een lauwerkrans, symbool voor het eeuwig leven na de dood.
+wrong: 
+author: dasja
+answer: B

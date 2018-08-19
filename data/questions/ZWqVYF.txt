@@ -1,0 +1,18 @@
+title: De Vos
+published: 1
+body: Wat voor werk deed molen &#039;De Vos&#039; op de Heense Molen?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 3
+media: 83o1DMK0Yc
+A: Hij maalde koren
+B: Hij maalde pulp voor de papierindustrie
+C: Hij maalde vossenbessen voor de jam
+D: Het was een watermolen
+hint: De polders van Nieuw-Vossemeer en De Heen stonden in de zomer vol koren. Dat leverde voor de molenaar veel werk op.
+right: Molen &#039;De Vos&#039; was in de negentiende en twintigste eeuw volop in bedrijf als korenmolen. De polders van Nieuw-Vossemeer en De Heen stonden in de zomer vol koren. Dat leverde voor de molenaar veel werk op.Tot begin 1960 draaide &#039;De Vos&#039; op windkracht. Toen ging hij helaas kapot en kon er alleen nog machinaal gemalen worden. De molen is nu een belangrijk cultuurhistorisch monument, maar draait en maalt nog regelmatig. Hij is te bezichtigen onder leiding van de vrijwillige molenaar. Ook leerlingen van scholen gaan op bezoek in de molen. Als jij nog niet geweest bent, is het de hoogste tijd om dat eens met je leraar of lerares te bespreken. Echt hartstikke leuk om te doen!
+wrong: 
+author: dasja
+answer: A

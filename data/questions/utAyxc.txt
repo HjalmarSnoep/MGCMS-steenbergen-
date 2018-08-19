@@ -1,0 +1,18 @@
+title: Heer van Steenbergen
+published: 1
+body: Wie is Heer van Steenbergen?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 1
+media: BFGsnmPlUY
+A: Koning Willem-Alexander
+B: De burgemeester
+C: De pastoor
+D: Prins Carnaval
+hint: &#039;s Ochtends zegt de Heer vaak tegen zijn Argentijnse Vrouw
+right: Toen Steenbergen in 1272 stadsrechten kreeg, hoorde het toe aan de heer van Breda, Arnoud van Leuven. In 1287 ging hij dood en ontstond er een heel gedoe over wie Steenbergen zou krijgen
+wrong: 
+author: dasja
+answer: A

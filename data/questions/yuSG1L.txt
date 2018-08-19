@@ -1,0 +1,18 @@
+title: Gronden
+published: 1
+body: Voor de inpoldering van 1497 waren er in het buitengebied, dat regelmatig onder water stond, toch gronden waarop mensen woonden. Hoe heette deze gronden?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 4
+media: cLBJC5A54m
+A: Terp
+B: Heuvel
+C: Berg
+D: Werf
+hint: Je hoort mensen hier nog wel eens zeggen
+right: Voor de inpoldering waren er in het buitengebied van Kruisland enkele stukken grond die hoger lagen en dus droog waren. Dat noemde men een werf. Vaak was hier een primitieve vorm van bewoning aanwezig voor een herder met schapen. Deze herders waren eigenlijk de eerste bewoners van Kruisland.
+wrong: 
+author: dasja
+answer: D

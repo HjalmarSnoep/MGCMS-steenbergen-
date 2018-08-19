@@ -1,0 +1,18 @@
+title: Wissel Testers
+published: 1
+body: In 1900 lag er in Kruisland een zogenaamde &#039;Wissel Tester&#039;. Wat was dat?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 4
+media: pLe8nFYruU
+A: Bushalte
+B: Tandarts
+C: Grenswisselkantoor
+D: Tramhalte
+hint: Altijd voorrang.
+right: De Wissel Testers was een tramhalte. Het gebied was in de periode 1892-1937 aangesloten op het openbaar vervoer in de vorm van een tramlijn. De stroomtram verbond Oudenbosch met Steenbergen, later kwam er een verbinding met Zijpe en de rest van Zeeland. Naast personen werden er goederen met de tram vervoerd, zoals graan en bieten. De tramlijn is gestopt in 1934, voor goederenvervoer in 1937.
+wrong: 
+author: dasja
+answer: D

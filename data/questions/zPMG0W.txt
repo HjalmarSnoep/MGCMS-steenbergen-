@@ -1,0 +1,18 @@
+title: Muziekvereniging
+published: 1
+body: Wat betekent Semper Crescendo?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 3
+media: TMWhSXNSWx
+A: Altijd groeiend (steeds hoger)
+B: De mooiste klanken
+C: Band Zonder Naam
+D: Pluk de dag
+hint: Al sinds de oprichting in 1921 staan de muzikanten van Semper Crescendo erom bekend dat ze steeds een beetje beter willen worden.
+right: Semper Crescendo is de naam van de Nieuw-Vossemeerse muziekvereniging. De vereniging werd in 1921 opgericht. Eindelijk, want het plan voor een fanfare bestond al twaalf jaar. Er was alleen nooit genoeg geld om het plan uit te voeren. Uiteindelijk zorgde een wethouder van toen, Petrus Swagemakers, dat dat geld er wel kwam. Dat ging op een bijzondere manier. Tijdens een toneeluitvoering van de Nieuw-Vossemeerse toneelvereniging &#039;Festina Lente&#039; stelde hij de vraag
+wrong: 
+author: dasja
+answer: A

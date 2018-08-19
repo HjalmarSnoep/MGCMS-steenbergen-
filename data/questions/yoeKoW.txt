@@ -1,0 +1,18 @@
+title: Hoog water
+published: 1
+body: In welk jaar werd de hoogste waterstand ooit gemeten bij het sluizencomplex Benedensas?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 2
+media: I2Zpv5GarY
+A: 2011
+B: 1853
+C: 1816
+D: 1953
+hint: De eerste februari van dat jaar, kennen we beter als de dag van De Ramp.
+right: De stormvloed in de nacht van 31 januari op 1 februari 1953 veroorzaakte een ramp die grote delen van Zuidwest-Nederland onder water zette. Vele honderden mensen verdronken. Het dorp De Heen en de omringende polder bleven gespaard. Zij lagen als een eilandje in de zee. Bij het sluizencomplex aan het Benedensas werd de hoogste waterstand ooit gemeten
+wrong: 
+author: dasja
+answer: D

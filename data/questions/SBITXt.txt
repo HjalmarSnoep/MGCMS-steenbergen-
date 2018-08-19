@@ -1,0 +1,18 @@
+title: Presentje
+published: 1
+body: Wat kreeg Koningin Juliana aangeboden bij haar werkbezoek na de watersnood op 21 juni 1954? Bloemen en?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 5
+media: vl0EAP4bV2
+A: Potje suiker
+B: Een kopje koffie
+C: Een boek
+D: Lepeltjes
+hint: Een voor ieder prinsesje. Anders zouden zij nog ruzie krijgen bij het eten van de pap.
+right: Twee jonge vrouwen, Gonnie Weeda en Joke Jansen mochten de koningin bij haar aankomst op Dintelsas bloemen aanbieden en lepeltjes voor de vier prinsesjes. Dat was in die tijd een heel gebruikelijk cadeau. Mensen spaarden ook vaak theelepeltjes met afbeeldingen van steden of gebeurtenissen erop. De twee Dinteloordse vrouwen kregen de eer omdat zij bij de Watersnoodramp hun ouders verloren hadden.
+wrong: 
+author: dasja
+answer: D

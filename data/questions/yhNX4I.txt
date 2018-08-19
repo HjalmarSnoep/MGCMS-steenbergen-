@@ -1,0 +1,18 @@
+title: Gemaal
+published: 1
+body: Waar gaat het water van het gemaal aan de Molendijk in Dinteloord naartoe?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 5
+media: Hqucv3qpoO
+A: Naar de Vliet
+B: Naar de haven
+C: De polder in
+D: Het dorp in
+hint: De pleziervaart wordt er niet minder leuk van.
+right: Net buiten de bebouwde kom van Dinteloord staat het gemaal aan de rechterkant. Een deel van het water uit de Oud-Prinslandse polder wordt hier geloosd op het Spui. Dit komt vervolgens in de haven uit, waarna het water zijn weg vindt via de waterloop tussen de haven en de Dintel en de Dintel. Uiteindelijk komt het in het Volkerak terecht.
+wrong: 
+author: dasja
+answer: B

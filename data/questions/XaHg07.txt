@@ -1,0 +1,18 @@
+title: De Eendracht
+published: 1
+body: Wat verdween uit het recreatieterrein De Eendracht in Nieuw-Vossemeer na de komst van het Schelde-Rijnkanaal?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 3
+media: aBD77Vonjl
+A: Jachthaven
+B: Zwembad
+C: Camping
+D: Molenmuseum
+hint: Enorme transportschepen varen tegenwoordig door het Schelde-Rijnkanaal.
+right: Na de Watersnoodramp van 1953 kwam het gebied rond molen De Assumburg in Nieuw-Vosssemeer vrij. De woningen die er stonden, waren verdwenen en werden daar ook niet meer herbouwd. De molen zelf kwam niet meer in nadat hij in 1955/1956 was gerestaureerd. Omdat er een nieuwe invulling voor het gebied gevonden moest worden, ontstond het plan om er een recreatieterrein te maken. Met een jachthaven, zwembad, camping en molenmuseum in de Assumburg.Door de aanleg van het Schelde-Rijnkanaal (toen nog rivier De Eendracht) moest de jachthaven verdwijnen. Het kanaal werd een druk bevaren route voor transportschepen en de pleziervaartuigen pasten daar niet meer bij. Ook het zwembad verdween in eerste instantie. Maar de eigenaren van camping Mattenburgh, de familie Schreurs, kocht het op en herstelden het weer in oude glorie.
+wrong: 
+author: dasja
+answer: A

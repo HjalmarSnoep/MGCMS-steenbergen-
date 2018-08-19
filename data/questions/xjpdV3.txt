@@ -1,0 +1,18 @@
+title: Houten Kozijnen
+published: 1
+body: In kruisland staat een fabriek die houten kozijnen maakt. Wat is de naam van deze fabriek?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 4
+media: nFVvFLsA2n
+A: Aannemersbedrijf Rijsdijk
+B: Timmerfabriek Jacobs
+C: De Holle Roffel
+D: Siemburg
+hint: Hamers en spijkers zijn er in overvloed
+right: De naam Jacobs Timmerfabriek is van oudsher verbonden met de chalet- en vakantiewoningbouw. Al meer dan 40 jaar ontwikkelen en produceren zij hardhouten kozijnen, ramen, deuren en hefschuifpuien.
+wrong: 
+author: dasja
+answer: B

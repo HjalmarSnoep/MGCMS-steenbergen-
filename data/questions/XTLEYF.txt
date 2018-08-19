@@ -1,0 +1,18 @@
+title: Horeca
+published: 1
+body: Van welk soort horeca had Dinteloord er zeventien?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 5
+media: RdbxSUSiRk
+A: Caf&eacute;s
+B: Restaurants
+C: Hotels
+D: Jeugdherbergen
+hint: Zing 17 keer mee
+right: Vroeger waren er in de dorpen veel caf&eacute;&#039;s. De mensen hadden nog geen auto, sterker nog er waren amper wegen. Daarom zochten ze hun plezier in hun eigen woonplaats. In Dinteloord kon je heel veel plezier hebben want er waren wel zeventien caf&eacute;&#039;s. Daarnaast waren er ook nog drie hotels.
+wrong: 
+author: dasja
+answer: A

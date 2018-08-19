@@ -1,0 +1,18 @@
+title: Visvereniging
+published: 1
+body: Hoe heet de visvereniging in Kruisland?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 4
+media: hujJno0oYc
+A: Visclub Kruisland
+B: &#039;t Loze Vissertje
+C: De Gevangen Meermin
+D: Hengelsport Vereniging De Kruisweel
+hint: Ze gooien onder meer een hengeltje uit aan de Kruisbeek en de Roode Weel.
+right: Hengelsport Vereniging De Kruisweel is een vereniging met ongeveer 300 leden. Daaronder veel jeugdleden, die hun eigen competitie hebben. Groep 7 van basisschool De Zonneberg krijgt ieder jaar uitleg over hengelsport en mag een middag met vrijwilligers van De Kruisweel gaan vissen. Groep 8 mag ook ieder jaar een middag mee naar de waterkant aan de Brugweg in Kruisland. De Kruisweel is een samenvoeging van viswateren in de omgeving
+wrong: 
+author: dasja
+answer: D

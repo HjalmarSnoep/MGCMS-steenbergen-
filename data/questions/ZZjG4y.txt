@@ -1,0 +1,18 @@
+title: Familiebedrijf
+published: 1
+body: Welk familiebedrijf in Kruisland zorgt ervoor dat jij er altijd warmpjes bij zit?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 4
+media: gV15vbDI9u
+A: Kachelshop Kruisland
+B: Rabobank
+C: Timmerfabriek Jacobs
+D: Cafetaria &#039;t Vosje
+hint: Eigen ..... is goud waard
+right: Kachelshop Kruisland, eigendom van Corn&eacute; en Frank Bellemans, verkoopt verschillende soorten kachels. Het bedrijf was eerst in handen van de familie Otte. De familie Otte heeft destijds de supermarkt van de familie Ruijten gekocht en omgebouwd tot kachelshop.
+wrong: 
+author: dasja
+answer: A

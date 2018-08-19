@@ -1,0 +1,18 @@
+title: Bruggetje
+published: 1
+body: Wat voor soort bijzondere brug verbindt de twee kanten van het Benedensas?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 2
+media: D3U6AEXehz
+A: Een rolbrug
+B: Een ophaalbrug
+C: Een ezelsbrug
+D: Een draaibrug
+hint: Dat gaat altijd heel vlotjes. Zeg maar gerust dat het op .... loopt.
+right: Bij het Benedensas kun je als fietser of als voetganger de Steenbergse Vliet oversteken met behulp van een rolbrug. De brug wordt over stalen wielen van de Heense kant naar de Dinteloordse kant over het water gerold. Vroeger gebeurde dat met de hand maar tegenwoordig is een simpele druk op de knop voldoende. Pas als de brug helemaal aan de andere kant is, gaat de slagboom omhoog en kun je oversteken.
+wrong: 
+author: dasja
+answer: A

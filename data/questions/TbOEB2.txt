@@ -1,0 +1,18 @@
+title: Kerk
+published: 1
+body: Wat voor soort kerk was de eerste Rooms-Katholieke kerk (1795) van Nieuw-Vossemeer?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 3
+media: OTGRhaN4Sc
+A: Schuilkerk
+B: Moskee
+C: Stenen kerk
+D: Schuurkerk
+hint: In 1648 werd het verboden katholiek te zijn in Nederland. Omdat veel mensen toch dit geloof aan bleven hangen werden er geheime kerkdiensten gehouden.
+right: In 1648 werd het verboden om katholiek te zijn in Nederland. Omdat veel mensen toch dit geloof aan bleven hangen, werden er geheime kerkdiensten gehouden in zogenaamde schuurkerken. Dat waren gewoon boerenschuren die ingewijd werden, zodat ze ook als kerk dienst konden doen. Pas aan het einde van de 18e eeuw werd het katholieke geloof weer toegestaan maar toch was het nog heel gebruikelijk om een nieuwe kerk in een schuur te vestigen. In september 1795 werd de eerste pastoor van Nieuw-Vossemeer, Gerardus Mens, plechtig ingehaald en benoemd. Op 11 oktober van dat jaar nam hij de schuur van Geert Verhagen aan de Achterstraat in gebruik. Hij werd als kerk ingewijd en in gebruik genomen. De nieuwe parochie werd genoemd naar de Heilige Joannes de Doper. De schuur was van planken gebouwd die aan de buitenkant zwart geteerd waren. Pastoor van Hemert liet in 1842 een nieuwe kerk bouwen aan de Achterstraat. Dat was geen overdaad want de schuurkerk was inmiddels behoorlijk in verval geraakt.
+wrong: 
+author: dasja
+answer: D

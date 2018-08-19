@@ -1,0 +1,18 @@
+title: Dassenberg
+published: 1
+body: ie was de eerste bewoner van het landgoed Dassenberg?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 6
+media: hFj0L8IIgV
+A: Een boer
+B: Een kasteelheer
+C: Een melaatse
+D: Een boswachter
+hint: Komt tegenwoordig bijna niet meer voor in Nederland.
+right: Op de grens tussen de gemeente Steenbergen en Bergen op Zoom ligt landgoed Dassenberg. Verscholen in de bossen aan de Halsterseweg en ontoegankelijk voor het publiek. Dus een beetje mysterieus. Op het landgoed lag een hoeve die al in 1263 vermeld stond. De eerste bewoner was een zieke man; een melaatse. Tegenwoordig zouden we zeggen dat die man lepra had. Omdat toen nog aangenomen werd dat lepra een besmettelijke ziekte was, zal de man daar waarschijnlijk hebben moeten wonen om te voorkomen dat hij anderen aan zou steken. Later is trouwens gebleken dat lepra helemaal niet zo besmettelijk is. Sterker nog, ze weten tot op de dag van vandaag niet hoe het overgedragen wordt.
+wrong: 
+author: dasja
+answer: C

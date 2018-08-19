@@ -1,0 +1,18 @@
+title: Jan Keller
+published: 1
+body: E&eacute;n van de personages in het carnavalsgevolg van Nieuw-Vossemeer is Jan Keller. Waar komt die naam vandaan?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 3
+media: qIVeBjzvLh
+A: Oud-burgemeester van Nieuw-Vossemeer
+B: Veldwachter uit de 19e eeuw
+C: Het is een andere naam voor Jan-met-de-Pet
+D: Een oud-schooldirecteur van basisschool Merijntje
+hint: Jan Keller moest orde en rust bewaren maar hij was niet erg goed in zijn beroep.
+right: Toen Nieuw-Vossemeer in 1809 een zelfstandige gemeente werd, ontstond er een nieuwe functie in het dorp
+wrong: 
+author: dasja
+answer: B

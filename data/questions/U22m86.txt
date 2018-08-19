@@ -1,0 +1,18 @@
+title: Frietboer
+published: 1
+body: Wat hebben de frietboeren in Kruisland nog meer in het assortiment?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 4
+media: gOEr0pqtTZ
+A: Japanse sushi
+B: Chinese gerechten
+C: Cadeauartikelen
+D: Vegetarische gerecht
+hint: Frikandel met sambal.
+right: In Kruisland zijn er twee cafetaria&#039;s die worden beheerd door Chinese families. Naast de friet hebben zij ook verschillende Chinese gerechten op de kaart staan. Op de Markt is het Centrum gevestigd en aan de Langeweg het Vosje.
+wrong: 
+author: dasja
+answer: B

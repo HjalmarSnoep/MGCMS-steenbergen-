@@ -1,0 +1,18 @@
+title: Fiets tour club
+published: 1
+body: In welk jaar is Fiets Tour Club De Vosserijders opgericht?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 3
+media: figFMBasFJ
+A: 2013
+B: 1913
+C: 2000
+D: 1988
+hint: FTC De Vosserijders is &eacute;&eacute;n van de jongste verenigingen van het dorp.
+right: Fiets Tour Club De Vosserijders is &eacute;&eacute;n van de jongste verenigingen van Nieuw-Vossemeer. De sportieve club is opgericht in de zomer van 2013. Hun thuishonk is caf&eacute;-zaal &#039;t Wagenhuis. Een jaar na oprichting hadden De Vosserijders al meer dan 40 leden.
+wrong: 
+author: dasja
+answer: A

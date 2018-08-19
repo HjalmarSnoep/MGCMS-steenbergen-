@@ -1,0 +1,18 @@
+title: &#039;t wapen van...
+published: 0
+body: Van wie is dit wapen met twee zeemeerminnen?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 1
+media: f97GyFELA6
+A: Van hengelsportvereniging &#039;Het Loze Vissertje&#039;uit Steenbergen.
+B: Van een kapsalon uit Steenbergen.
+C: Van de stad Steenbergen.
+D: Van alle zes de kernen die bij de gemeente Steenbergen horen.
+hint: Het glas-in-loodraam op de foto vind je in het oude stadhuis van Steenbergen aan de Kaaistraat.
+right: Het is het wapen van de stad Steenbergen. Dus niet van de hele gemeente. Steenbergen heeft al een eigen wapen sinds 1355 maar toen stonden de zeemeerminnen er nog niet op. Die kwamen er pas in de 17e eeuw bij. Waarom dat toen gebeurde weet niemand zeker. Het glas-in-loodraam op de foto vind je in het oude gemeentehuis van Steenbergen aan de Kaaistraat. Je weet wel, waar het beeld van de heraut, de stadsomroeper, voor staat. In 1996 was er een gemeentelijke herindeling. Tot die tijd waren Nieuw-Vossemeer en Dinteloord zelfstandige gemeenten met een eigen gemeentehuis en een eigen gemeentewapen. De stad Steenbergen vormde toen al &eacute;&eacute;n gemeente met de dorpen Kruisland, Welberg en De Heen.Welberg heeft geen eigen wapen. Kruisland heeft ook geen officieel wapen Wel een niet-officieel wapen dat de Kruislanders in 2014 zelf verzonnen hebben. De Heen heeft wel een wapen. Dat is tijdens de viering van het 400-jarig bestaan op vlaggen gedrukt die aan bijna elk huis in het dorp wapperden.
+wrong: 
+author: dasja
+answer: C

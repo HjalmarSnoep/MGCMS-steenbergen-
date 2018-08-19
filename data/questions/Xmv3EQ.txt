@@ -1,0 +1,18 @@
+title: Jeugdwerk
+published: 1
+body: Hoe gingen de meisjes in de jaren &#039;30 naar het jeugdwerk op de Welberg?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 6
+media: PoE2vKnxjT
+A: In uniform
+B: Op de fiets
+C: Te paard
+D: Samen
+hint: Bruin voor de meisjes, blauw voor de jonge vrouwen.
+right: De Katholieke Jonge Meisjes en de Katholieke Jonge Vrouwen droegen een uniform. De meisjes een bruine jurk, een beige stropdas, een bruine hoed en een insigne. Bij de jonge vrouwen was alles wat bruin was, vervangen door blauw, Als je iets deed wat de kapelaan niet leuk vond, dan kreeg je &#039;straf&#039;. Als je bijvoorbeeld naar de kermis ging in plaats van naar het jeugdwerk dan moest je je insigne twee weken inleveren. Nou, dat was heel wat voor die tijd.
+wrong: 
+author: dasja
+answer: A

@@ -1,0 +1,18 @@
+title: Speelveldje
+published: 1
+body: In welke Dinteloordse wijk ligt dit speelveldje?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 5
+media: kA5nXdiyMJ
+A: In het centrum
+B: In de Molenwijk
+C: In de Vlasserij
+D: In de Koninginnebuurt
+hint: Ze zaten er al een tijd op te vlassen.
+right: Dit speelveldje ligt in de Vlasserij. Een Dinteloordse wijk die genoemd is naar de oude vlasfabriek aan de Dinteloordseweg. Hier verwerkte men vlas om er onder meer lakens van te maken.
+wrong: 
+author: dasja
+answer: C

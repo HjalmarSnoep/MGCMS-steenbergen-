@@ -1,0 +1,18 @@
+title: drie straten
+published: 1
+body: Drie straten in Kruisland zijn vernoemd naar de stichter van het dorp. Welke drie?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 4
+media: lUvVh7VJVq
+A: Van Diepenbeekstraat, Nassaulaan, Engelse Straat
+B: Engelseweg, Engels Dorp, Graaf Engelbrechtstraat
+C: Engels Dorp, Graafsteeg, Engelbrechtpad
+D: Engelse Dropstraat, Graaf Engelbrechtstraat, Nassauhof
+hint: Hint? Hallo! De foto is al een weggevertje.
+right: De Kruislandse polder werd in 1487 drooggelegd door Engelbrecht II van Nassau. In de polder ontstond daarna een kleine nederzetting, zeg maar een dorpje. Men noemde dit Engelsdorp of Engelsberg. Niet veel later werd het Kruisland, vernoemd naar het Heilig Kruis. Toch overleefde Graaf Engelbrecht de geschiedenis en vandaag de dag zijn er nog drie straatnamen die naar hem verwijzen
+wrong: 
+author: dasja
+answer: B

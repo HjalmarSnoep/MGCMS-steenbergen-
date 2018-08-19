@@ -1,0 +1,18 @@
+title: Gebouw
+published: 1
+body: Welk Dinteloords gebouw zie je op de foto?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 5
+media: rHThpvP82C
+A: Het busstation
+B: De gevangenis
+C: De school
+D: Het postkantoor
+hint: We mailen!
+right: Dit gebouw is het postkantoor aan de Steenbergseweg. Later is het vervangen en nu heeft Dinteloord geen eigen postkantoor meer.
+wrong: 
+author: dasja
+answer: D

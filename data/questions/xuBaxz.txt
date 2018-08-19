@@ -1,0 +1,18 @@
+title: De Kostwinner
+published: 1
+body: Wat was &#039;De Kostwinner&#039; op de Welberg vroeger voor een bedrijf?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 6
+media: 1gtQByXsxo
+A: Een bank
+B: Een caf&eacute;
+C: Een gokhal
+D: Een bakkerij
+hint: Veel kostwinners lieten hier een deel van de kost achter. Tot ergernis van moeder-de-vrouw.
+right: Tegenwoordig zijn er amper meer winkels op de Welberg, maar halverwege de vorige eeuw is er allerlei bedrijvigheid. Er waren wel tien caf&eacute;&#039;s op het dorp met mooie namen als &#039;De Kostwinner&#039; en &#039;Stads-zigt&#039;. Ook waren er snoep- en kruidenierswinkeltjes, een kapper, stoffenwinkel, smederij, wagenmakerij en een slagerij. Er waren ook fietsenmakers en zelfs taxibedrijven. Bakkerij Van Broekhoven is de enige winkel die nog bestaat. Daar kon je vroeger voor 1 cent (een &#039;gulden&#039;-cent, geen &#039;euro&#039;-cent!) een ijspinneke halen. Ook waren er veel timmerwinkels waar de jeugd om vliegerlatjes ging vragen zodat zij zelf vliegers konden maken.
+wrong: 
+author: dasja
+answer: B

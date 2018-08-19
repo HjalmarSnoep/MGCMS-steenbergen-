@@ -1,0 +1,18 @@
+title: Padmos
+published: 1
+body: Ooit lag er op de Welberg een kasteel dat Padmos heette. Van wie is het gebied nu?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 6
+media: na28XeglFv
+A: Natuurorganisaties
+B: De gemeente Steenbergen
+C: De katholieke kerk
+D: Het koninklijk huis
+hint: De fundamenten van het kasteel liggen in het Oudland, een natuurgebied.
+right: In de volksmond wordt landgoed Padmos, Pallemoes genoemd. Het ligt in het Oudland, in het Krabbenbos om precies te zijn. Je ziet er trouwens bijna niets meer van, alleen nog een verhoging in het landschap. Er woonden belangrijke families uit Antwerpen, Bergen op Zoom, Steenbergen, Rotterdam en Zierikzee. De landgoederen waren altijd een beetje eng en mysterieus, vooral ook omdat zij verboden terrein waren. Tegenwoordig worden de landgoederen beheerd door Brabants Landschap en Staatsbosbeheer.
+wrong: 
+author: dasja
+answer: A

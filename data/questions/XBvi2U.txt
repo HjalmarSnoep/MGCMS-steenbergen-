@@ -1,0 +1,18 @@
+title: Dinteloordse dijk
+published: 1
+body: Hoe heet de Dinteloordse dijk waar veel huizen staan, aan het einde van de polder?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 5
+media: dPn1XIf1Py
+A: Bloemendijk
+B: Boompjesdijk
+C: Eindedijk
+D: Mariadijk
+hint: Waar de Drogendijk en Boompjes samenkomen.
+right: De Boompjesdijk. Niet alleen een dijk maar ook een levendig buurtschap. In 1840 komt dit gebied in de volkstelling voor als Mariapolder. Met 16 huizen en 204 inwoners. Dat is gemiddeld bijna 13 mensen in &eacute;&eacute;n huis. Dat was zelfs voordie tijd veel. Vroeger vond je er een bakkerij, een smid, verschillende caf&eacute;&#039;s en een schooltje. Die zijn inmiddels allemaal verdwenen. Maar de Buurtvereniging Boompjesdijk is nog springlevend en bijna alle gezinnen zijn er lid. En staan in het buurtschap ongeveer 80 huizen met. 200 inwoners.
+wrong: 
+author: dasja
+answer: B

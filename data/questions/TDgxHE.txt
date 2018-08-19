@@ -1,0 +1,18 @@
+title: Concentratiekamp
+published: 1
+body: De Steenbergenaren Jan de Pree en Kees Delhez (foto) zijn in de Tweede Oorlog gearresteerd en afgevoerd naar concentratiekampen. Wat hadden zij gedaan?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 1
+media: AYo9yVZkuQ
+A: Ze hadden de NSB-burgemeester van Steenbergen doodgeschoten
+B: Ze hadden voedselbonnen gestolen
+C: Ze hadden een verzetskrant gemaakt
+D: Ze hadden onderdak geboden aan Joodse kinderen
+hint: Vrijheid van pers was in die tijd ondenkbaar.
+right: Vrijdagmorgen 28 juli 1944. Onzeker komt de gemeentelijke bode Kees Delhez binnen bij zijn baas
+wrong: 
+author: dasja
+answer: C

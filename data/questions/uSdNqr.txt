@@ -1,0 +1,18 @@
+title: Heense Molen
+published: 1
+body: Wat voor soort molen is molen De Vos op de Heense Molen?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 2
+media: sTbQlna4yb
+A: Standerdmolen
+B: Stellingmolen
+C: Grondzeiler
+D: Windmolen
+hint: Dit type molen kan bediend worden vanaf de grond.
+right: Aan de rand van de voormalige gemeente Nieuw-Vossemeer, staat op een lichte verhoging een witte ronde stenen korenmolen uit 1714. De molen is van het type Grondzeiler. Dit type kan bediend worden vanaf de grond. Grondzeilers werden vooral gebouwd in poldergebieden waar de wind vrij spel had. De Heense Molen is daar een goed voorbeeld van. De molenaars (toen nog mulders genoemd) maalden er graan tussen grote stenen. Het graan werd vermalen tot meel voor de bakkers en veevoer voor de boeren. Vlakbij De Vos staat nog een mechanische maalderij met gloeikopmotor. De molen wordt sinds 1963 niet meer gebruikt, maar hij staat nog steeds in de schijnwerpers dankzij de verlichting die in 1980 rond de gerestaureerde molen is geplaatst.
+wrong: 
+author: dasja
+answer: C

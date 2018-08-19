@@ -1,0 +1,18 @@
+title: kruis
+published: 1
+body: Op de splitsing Langeweg/Dorpsweg in De Heen staat een groot kruis. Waarom staat daar?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 2
+media: jjfbnW2XZg
+A: Ter herinnering aan de Watersnoodramp van 1953
+B: Een cadeau aan pastoor Smoor die in 1939 zijn 40e jaar als priester vierde
+C: Ter herinnering aan de slachtoffers van de Tweede Wereldoorlog
+D: Ter herinnering aan de sluiting van de kerk in De Heen in 2014
+hint: Toen het beeld in 2010 gerestaureerd werd, was het al 71 jaar oud.
+right: Alle mensen van De Heen schonken het kruisbeeld aan Pastoor Smoor als cadeautje voor het feit dat hij 40 jaar priester was. Dit vierde De Heen op 30 mei 1939. Ruim een jaar later was het na een fikse storm alweer kapot. Gelukkig kon het gemaakt worden. Zeventig jaar later was het dusdanig vervallen dat er iets gedaan moest worden. Dankzij een wens in de wensboom van de Lions kon het beeld opgeknapt worden en kan het er nu weer tientallen jaren tegen.
+wrong: 
+author: dasja
+answer: B

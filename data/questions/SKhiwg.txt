@@ -1,0 +1,18 @@
+title: Wilhelminaboom
+published: 1
+body: Ter gelegenheid waarvan is de Wilhelminaboom op de Dinteloordse Kade geplant?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 5
+media: SZNtRj33HC
+A: Omdat Prinses Wilhelmina overleed
+B: Omdat Koningin Wilhelmina haar 25-jarig regeringsjubileum vierde
+C: Omdat Prinses Wilhelmina werd geboren
+D: Omdat Koningin Wilhelmina trouwde
+hint: Het was een dag met een zilveren randje.
+right: De Wilhelminaboom is in 1923 geplant ter gelegenheid van het 25-jarig (zilveren) regeringsjubileum van Koningin Wilhelmina. Onder in het plantgat werd een fles gelegd met de namen van alle schoolkinderen die bij het planten aanwezig mochten zijn. De boom is een lindeboom en staat boven aan de Kade.
+wrong: 
+author: dasja
+answer: B

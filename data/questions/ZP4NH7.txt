@@ -1,0 +1,18 @@
+title: Boerderij Cruijslandse polder
+published: 1
+body: Welke boerderij in de Cruijslandse polder herinnert ons nog aan de tijd dat zoutwinning in het gebied plaatsvond?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 4
+media: FGfNSL67tO
+A: Darinckhuijsen
+B: Haanhuijsen
+C: &#039;t Zoutvaatje
+D: De Blauwe Sluis
+hint: Darink is de naam van een veenlaag die doordrenkt is met natrium.
+right: Deze boerderij is voor de inpoldering van Kruisland opgericht en werd gebruikt om de darink te delven. In deze tijd was er nog sprake van eb en vloed en bleef er zout achter in de grond. Turf werd gewonnen en het zout werd hier uit gehaald door het te drogen en te verbranden, waarna uit het as het zout werd gepureerd.
+wrong: 
+author: dasja
+answer: A

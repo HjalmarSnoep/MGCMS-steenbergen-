@@ -1,0 +1,18 @@
+title: Vervoer
+published: 1
+body: Steenbergen, Stampersgat en Fijnaart hadden een tram. Maar hoe zat dat in Dinteloord?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 5
+media: Q7MkUm45z9
+A: Geen tram maar een bus
+B: Alles ging met de veerboot
+C: Er reed een trein
+D: Iedereen had paard en wagen
+hint: Eigenlijk is er helemaal niet zoveel veranderd.
+right: Nee, Dinteloord had geen tram. Er was niet genoeg geld voor beschikbaar. Dinteloord had wel als eerste in 1923 een busverbinding.
+wrong: 
+author: dasja
+answer: A

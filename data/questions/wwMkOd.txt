@@ -1,0 +1,18 @@
+title: Oude artikelen
+published: 1
+body: In museum de Holle Roffel zijn veel oude artikelen te vinden. Zo ook het artikel dat je op de foto ziet. Wat zijn dit?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 4
+media: XczqEAwE15
+A: Gereedschap
+B: Schoenen
+C: Drumstokken
+D: Schaatsen
+hint: Voor een Elfstedentocht draaiden ze hun hand niet om.
+right: Dit zijn schaatsen. Ze worden ook wel Friese doorlopers genoemd. Of botjes. Vroeger bond men ze onder de schoenen om zo het bevroren water over te steken.
+wrong: 
+author: dasja
+answer: D

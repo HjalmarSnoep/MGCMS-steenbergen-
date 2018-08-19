@@ -1,0 +1,18 @@
+title: de gruyter
+published: 1
+body: Op de hoek van de Markt met de Kaaistraat in Steenbergen zat vroeger grootgrutter P. de Gruyter. Wat is een grootgrutter?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 1
+media: 1w3PTJCVNP
+A: Een man met veel kinderen
+B: Een soort supermarktje
+C: Een kringloopwinkel
+D: Een restaurant
+hint: Je had er nog geen winkelwagentje nodig.
+right: Op de hoek van de Kaaistraat met de Markt was een grootgrutter, een soort supermarktje gevestigd. Het was een vestiging van Piet de Gruyter. Een hele bekende reclameleus na de Tweede Wereldoorlog kwam van De Gruyter
+wrong: 
+author: dasja
+answer: B

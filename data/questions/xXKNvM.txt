@@ -1,0 +1,18 @@
+title: Pompedurp
+published: 1
+body: Tijdens Carnaval heet Kruisland `Pompedurp`. Hoe komt men aan die naam?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 4
+media: KihH8FvGUU
+A: Door het Kruislands krantje dat men het Pompke noemt
+B: Door de dorpspomp op de markt
+C: Het is een verwijzing naar Italiaanse stad Pompeii
+D: Van een oude brandweerpomp
+hint: In Kruisland kon men vroeger allemaal naar de pomp lopen.
+right: Op de markt in Kruisland staat de dorpspomp. Van oudsher het centrum van het dorp. Hier kwamen de mensen vroeger samen om water te halen en de laatste nieuwtje uit het dorp en omgeving uit te wisselen. De pomp is enige tijd weggeweest omdat hij geen dienst meer deed nadat de waterleiding in het dorp was aangelegd. Gelukkig is de pomp in 1995 weer terug op de markt geplaatst. Op 12 februari 1977 werd voor het eerst de naam Pompedurp gebruikt tijdens de carnaval. Tegenwoordig is er een terras op de markt en worden er rond de pomp dus weer allerlei nieuwtjes uitgewisseld.
+wrong: 
+author: dasja
+answer: B

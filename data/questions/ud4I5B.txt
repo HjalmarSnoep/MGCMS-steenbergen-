@@ -1,0 +1,18 @@
+title: Jan Oorlog
+published: 1
+body: De politieagent van de Strienestadse carnaval is Jan Oorlog. Aan wie dankt hij zijn naam?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 1
+media: LJUZk2UX1V
+A: Aan een veldwachter van vroeger
+B: Aan Patatje Oorlog
+C: Het was de bijnaam van soldaten op Fort Hendrik
+D: Aan niemand, het is een verzonnen naam
+hint: Het telefoonnummer van Jan Oorlog is 1-1-2
+right: Jan Oorlog heeft zijn pak te danken aan een vroegere veldwachter, zeg maar de wijkagent, uit de streek rond Steenbergen. Of hij echt bestaan heeft, weet niemand. Jan Oorlog moet er met de carnaval voor zorgen dat alles ordelijk verloopt. Als hij op zijn fluitje blaast dan weet heel het gevolg dat het over vijf minuten vertrektijd is.
+wrong: 
+author: dasja
+answer: A

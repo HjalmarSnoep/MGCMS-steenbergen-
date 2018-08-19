@@ -1,0 +1,18 @@
+title: Bokpaal
+published: 1
+body: Deze foto van het plaatsen van een bokpaal is gemaakt bij de Welberg. Wat is een bokpaal?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 6
+media: z3tg12vq9V
+A: Een paal om de bok aan vast te zetten
+B: Een turntoestel
+C: Een bliksemafleider
+D: Een elektriciteitspaal
+hint: Ze zijn ondergronds gegaan.
+right: De houten bokpalen voorzagen vroeger het platteland van elektriciteit. Palen hielden de kabels hoog en waren soms voorzien van een lantaarnpaallamp. In de jaren zestig en zeventig verdween het elektriciteitsnetwerk onder de grond en daarmee ook &eacute;&eacute;n voor &eacute;&eacute;n alle bokpalen.
+wrong: 
+author: dasja
+answer: D

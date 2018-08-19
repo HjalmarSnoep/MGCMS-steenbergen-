@@ -1,0 +1,18 @@
+title: Patronaat
+published: 1
+body: Wat was het patronaat in Welberg vroeger?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 6
+media: PoMKA3zA4D
+A: Een meisjesschool
+B: Een kostschool
+C: Een klooster
+D: Een verenigingsgebouw
+hint: Vertier voor jong en ouder.
+right: In 1930 opende er in de Welberg een patronaat. Een plek waar alle verenigingen een plekje kregen. De jeugdgroepen, toneelgroepen, zangkoor, sportverenigingen, noem het maar op.In de oorlog namen de bezetters het gebouw in. In het najaar van 1944 werd er zwaar gevochten in en rond Welberg. De Corneliuskerk werd toen zo zwaar beschadigd dat het patronaat na de oorlog nog dienst heeft gedaan als noodkerk. En in 1953, na de Watersnoodramp, hebben er nog evacu&eacute;s in gezeten.
+wrong: 
+author: dasja
+answer: D

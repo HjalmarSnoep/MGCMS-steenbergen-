@@ -1,0 +1,18 @@
+title: Feestbrood
+published: 1
+body: Ter gelegenheid van het 525 jarig bestaan van Kruisland heeft Bakkerij de Spek een speciaal brood gemaakt. Wat is de naam van dit brood?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 4
+media: PPgsEqzEXd
+A: Het Pompedorpje
+B: Spekkertje
+C: Oud Brood
+D: Kruislandertje
+hint: 
+right: 
+wrong: 
+author: dasja
+answer: D

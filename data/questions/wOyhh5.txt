@@ -1,0 +1,18 @@
+title: Hoger gelegen zandgebied
+published: 1
+body: Ten westen van Kruisland en ten noorden van Steenbergen ligt een hoger geleden zandgebied. Wat is de naam van dit gebied?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 4
+media: Bc96Jtp4bh
+A: De Brabantse Wal
+B: De Dintelse Gorzen
+C: De Heense Gorzen
+D: De Bergse Heide
+hint: Sommige mensen noemen het ook wel het walhalla van Nederland.
+right: Ten westen van Kruisland ligt de Brabantse Wal. Dit is een hoger gelegen gebied bestaande uit zandgronden, waarop o.a. Woensdrecht, Bergen op Zoom en Steenbergen zijn gebouwd. Wanneer je over de snelweg van Bergen op Zoom naar Zeeland rijdt kun je zien dat Woensdrecht veel hoger is gelegen. De snelweg doorsnijdt de Brabantse Wal.
+wrong: 
+author: dasja
+answer: A

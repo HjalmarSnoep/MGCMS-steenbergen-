@@ -1,0 +1,18 @@
+title: Gebouw
+published: 1
+body: Wat was het Steenbergse gebouw links op de foto?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 1
+media: lSZNr9YhJy
+A: De Hema
+B: Een gemeenschapshuis
+C: Het politiebureau
+D: Een ziekenhuis
+hint: Ze hielden er de vinger aan de pols.
+right: In 1853 kwam in Steenbergen Huize Charitas, een verzorgings- en ziekenhuis. Het werd gevestigd aan de Kleine Kerkstraat in een gebouw dat tot die tijd als gendarmerie (tegenwoordig de Koninklijke Marechaussee) werd gebruikt. De zusters Franciscanessen van Charitas verzorgden er de armen, kreupelen, blinden en ouderen. Ook was het een internaat voor schipperskinderen. In 1902 kwam er zelfs een operatiezaal. De zusters vertrokken in 1905 maar het Charitas bleef. In 1918 werd het getroffen door brand. Het brandde af, maar werd wel herbouwd. Daarna werd ook de wijkverpleging hier vandaan geregeld. Eind jaren tachtig van de vorige eeuw werd het oude Charitas gesloopt. Onze Stede kwam er voor in de plaats; het verzorgingshuis aan de Rozemarijnstraat werd in 1981 geopend. Op de foto zie je links Charitas zoals dat in de Kleine Kerkstraat stond. Aan het eind van de straat zie je de Blauwstraat. Rechts was vroeger een sigarenwinkeltje.
+wrong: 
+author: dasja
+answer: D

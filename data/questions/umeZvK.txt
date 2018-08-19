@@ -1,0 +1,18 @@
+title: Social Sofa
+published: 1
+body: Waar staat deze social sofa?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 5
+media: uYMdnaLlw9
+A: In Dinteloord
+B: In Steenbergen
+C: In Welberg
+D: In De Heen
+hint: De afbeeldingen op de bank geven voldoende aanwijzingen.
+right: De social sofa is in mei 2013 onthuld. Het was een idee van de Dorpsraad. Een aantal mensen uit Dinteloord hebben een cursus gekregen om de tegeltjes te moza&iuml;eken. Er waren gemakkelijke stukken, maar de bloemen en letters maken was moeilijk. De bank weegt 1500 kilo en er zitten 17.000 tegeltjes in verwerkt. Hij staat aan de kop van de Kreek in Dinteloord, tegenover het voormalige gemeentehuis.
+wrong: 
+author: dasja
+answer: A

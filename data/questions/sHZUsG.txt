@@ -1,0 +1,18 @@
+title: Evacuatie
+published: 1
+body: Waarom werden de inwoners van Kruisland in 1953 enige tijd ge&euml;vacueerd?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 4
+media: GeHVw2RLw4
+A: Vanwege de Watersnoodramp
+B: Er werd een bom uit de Tweede Wereldoorlog gevonden
+C: Er was een aardbeving
+D: Er heerste een rattenplaag
+hint: Zo af en toe worden we er weer aan herinnerd dat ons land vroeger tot de zee behoorde.
+right: Op 1 februari 1953 werd Nederland getroffen door de Watersnoodramp. Kruisland is er betrekkelijk goed vanaf gekomen. Het dorp lag zo&#039;n beetje op de scheidingslijn, waardoor alleen in enkele polders 10 cm water stond. Toch is de situatie op een gegeven moment wel kritiek geweest. Een dijk stond op doorbreken! Het gemaal Brooymans, toen 14 jaar oud, heeft belangrijk werk gedaan en voorkwam grote schade aan de polders. Uit voorzorg is Kruisland een tijd ge&euml;vacueerd geweest.
+wrong: 
+author: dasja
+answer: A

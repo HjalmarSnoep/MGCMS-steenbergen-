@@ -1,0 +1,18 @@
+title: Decap-orgel
+published: 1
+body: Welk Kruislands bedrijf had een Decap-orgel en organiseert nog steeds iedere zondag dansmiddagen die druk bezocht worden?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 4
+media: GMnOM9AHIM
+A: Zaal Buermans
+B: De Commerce
+C: Zaal Koch
+D: De Pomp
+hint: Tijdens de dansmiddagen werden er veel pilsjes verkocht.
+right: In Zaal Koch aan de Molenstraat heeft jarenlang een Decap-orgel gestaan dat iedere zondagmiddag vele bezoekers trok voor gezellige dansmiddagen. Een Decap-orgel is een muziekmachine. Dat klinkt oneerbiedig, maar dekt de lading wel. Het orgel was niet veel groter dan een flinke boekenkast maar er ging een compleet orkest zonder muzikanten achter schuil. De ingebouwde instrumenten worden via uitgekiende chips gestuurd. Sinds het orgel verkocht is, worden de dansmiddagen met live muziek georganiseerd.
+wrong: 
+author: dasja
+answer: C

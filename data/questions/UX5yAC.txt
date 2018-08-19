@@ -1,0 +1,18 @@
+title: Klepperman
+published: 1
+body: In 1866 werd in Kruisland de eerste klepperman aangesteld. Wat is een klepperman?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 4
+media: 1xBvBUo664
+A: Politieagent
+B: Vogelverschrikker
+C: Nachtwaker
+D: Dorpsomroeper
+hint: Het aansteken van de straatlantaarns was &eacute;&eacute;n van de taken van de klepperman.
+right: De eerste nachtwaker of klepperman in Kruisland is aangesteld in 1866, na herhaald aandringen vanuit de bevolking. Antonij van Geel kreeg daartoe een offici&euml;le aanstelling van het gemeentebestuur. Tot zijn taak behoorde in 1886 het aansteken en onderhouden van de zes lantaarns op het dorp. Een klepper is een soort ratel waarmee de nachtwaker over het dorp liep. Hij gaf de tijd aan en alarmeerde de bevolking in geval van brand. Aan het begin van de 20e eeuw verdween de klepperman. Het feit dat er inmiddels elektriciteit was aangelegd in Kruisland zal daar vast iets mee te maken hebben gehad.
+wrong: 
+author: dasja
+answer: C

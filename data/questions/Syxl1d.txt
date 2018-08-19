@@ -1,0 +1,18 @@
+title: De Vaert
+published: 1
+body: Wanneer werd gemeenschapshuis De Vaert gebouwd?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 6
+media: QVODBnzMIU
+A: In 1973
+B: In 1930
+C: In 1928
+D: In 2013
+hint: Drie&euml;nveertig jaar nadat het oude Patronaat opende, vond de feestelijke opening van De Vaert plaats. Het Patronaat ging tien jaar voor het begin van de Tweede Wereldoorlog open.
+right: Het oude verenigingsgebouw &#039;t Patronaat stamde uit 1930. Hier konden allerlei verenigingen samenkomen. Er was een toneelzaal met podium, vergaderkamers, kleedkamers en eromheen lagen sportvelden. Ook waren er veel jeugdverenigingen te vinden. Het was kerkelijk jeugdwerk want dat gold voor zo&#039;n beetje alles in die tijd. Het gebouw moest veel doorstaan waaronder de Tweede Wereldoorlog. Uiteindelijk raakte het dusdanig in verval dat het gesloopt moet worden. In 1973 kreeg de Welberg een nieuw gemeenschapshuis
+wrong: 
+author: dasja
+answer: A

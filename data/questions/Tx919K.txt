@@ -1,0 +1,18 @@
+title: Put van Van Gaans
+published: 1
+body: Waarvoor diende de &#039;Put van Van Gaans&#039; in Nieuw-Vossemeer?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 3
+media: zSsmYBv9Jq
+A: Om bomen lange tijd in het water te laten liggen voor de houtzagerij
+B: Om afgewerkte machineolie in te dumpen
+C: Het water in de put werd gebruikt om machines van fabrieken te koelen
+D: Een schaapskudde bracht er de nachten in door
+hint: Het was een familiebedrijf dat werd gerund door de broers Tinus, Kees en Gerrit van Gaans. De mannen waren uit het beste hout gesneden.
+right: In 1901 werd houtzagerij Van Gaans opgericht. Het was een familiebedrijf dat werd gerund door de broers Tinus, Kees en Gerrit van Gaans. Voor de houtzagerij mochten de broers gebruikmaken van een grote waterput. Deze grensde aan de dorpskreek. Omgehakte bomen werden een lange tijd in het water gelegd voordat ze verwerkt werden tot grote planken. Toen het bedrijf in de jaren negentig van de vorige eeuw verdween, is de grote waterput gedempt. Op het terrein van de voormalige houtzagerij kwamen nieuwe huizen. Daardoor ontstonden er twee nieuwe straten
+wrong: 
+author: dasja
+answer: A

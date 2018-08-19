@@ -1,0 +1,18 @@
+title: Rookverbod
+published: 1
+body: Tegenwoordig mag je niet roken in openbare gelegenheden. In 1748 was er ook een rookverbod.Waarom?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 1
+media: oK6mmQUUF9
+A: Vanwege de volksgezondheid
+B: Vanwege de smog in de stad
+C: Je moest eerst rookbelasting betalen
+D: Vanwege het brandgevaar
+hint: Waar rook is, is ....?
+right: Tegenwoordig mag je niet meer roken in openbare gelegenheden omdat het slecht is voor de gezondheid. In 1748 maakten de bestuurders van de stad zich ook zorgen over de toename van het aantal rokers. Bazen en knechten, schippers en bedienden rookten in die tijd altijd en overal. En vooral dat overal was waar het stadsbestuur zich zorgen over maakte. Niet vanwege het gevaar voor de volksgezondheid maar vanwege het brandgevaar. Niet zo gek, want de hele stad bestond uit houten huizen en schuren met daken van stro. En toen de kerk bijna in vlammen opging vanwege een onoplettende roker moest er iets gebeuren. Wie voor de gemeente werkte kreeg een fikse boete als er gerookt werktijdens het werk. Bovendien riep het bestuur andere bazen op om hun personeel ook te straffen voor roken tijdens het werk.
+wrong: 
+author: dasja
+answer: D

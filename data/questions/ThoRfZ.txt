@@ -1,0 +1,18 @@
+title: De assumburg
+published: 1
+body: Wat bevindt zich in molen &#039;De Assumburg&#039; in Nieuw-Vossemeer?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 3
+media: uZJyQP5uiq
+A: Het Nationale Molenmuseum
+B: Bakkerij &#039;t Vosse-bolleke
+C: Een kwaadaardig kabouter
+D: Een gezin; de molen is tegenwoordig een woning
+hint: Tegenwoordig is &#039;De Assumburg&#039; een monument. De stichting Vrienden Vossemeerse Molens zorgt voor de promotie van de molen.
+right: Molen &#039;De Assumburg&#039; vind je aan de Veerweg in Nieuw-Vossemeer. Hij komt uit Assendelft in de Zaanstreek. Daar draaide hij vanaf 1780 als oliemolen. In 1898 kocht Johanna Lievense-Engelvaart hem en werd hij omgebouwd tot korenmolen. Tegenwoordig is &#039;De Assumburg&#039; een monument. In de molen vind je het Nationale Molenmuseum met vijftien modellen van molens die in Nederland voorkomen. De stichting Vrienden Vossemeerse Molens zorgt voor de promotie van de molen.Tot 1953 hebben verschillende molenaars &#039;De Assumburg&#039; draaiende gehouden. De laatste molenaar was Antonius Ooms die met zijn vrouw en drie kinderen naast de molen woonde. Hun levens eindigen tragisch in 1953. Tijdens de watersnoodramp brak de dijk vlakbij de molen. De woning van het gezin Ooms werd geheel verwoest en door de golven weggespoeld. Wonder boven wonder doorstond de molen de ramp, waarschijnlijk doordat de stroming van het water geen vat kreeg op de ronde stenen romp.
+wrong: 
+author: dasja
+answer: A

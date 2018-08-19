@@ -1,0 +1,18 @@
+title: Watergangen
+published: 1
+body: In de Kruislandse polders liggen een aantal grillige watergangen. Hoe heten deze watergangen?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 4
+media: mq3CY0cStL
+A: Beken
+B: Geulen
+C: Kreken
+D: Sloten
+hint: Het antwoord is een alliteratie met Kruislandse. Net als Haags Hopjes.
+right: De watergangen in de Kruislandse polders heten kreken. Op deze watergangen kun je kano&euml;n. In de winter kun je er overheen schaatsen. V&oacute;&oacute;r de inpoldering van Kruisland stond het gebied in directe verbinding via de Steenbergse Vliet met het open water (de zee) en waren er zelfs getijden (hoog en laag water). Het water stroomde door zogenaamde geulen. De kreken zijn de restanten van deze watergeulen. Door de inpoldering van het gebied is er geen directe verbinding met het open water mee. Er is wel een gemaal geplaatst, waarmee het water uit de kreken naar de Steenbergse Vliet kan worden gepompt.
+wrong: 
+author: dasja
+answer: C

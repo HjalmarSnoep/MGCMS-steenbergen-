@@ -1,0 +1,18 @@
+title: verenigingen
+published: 1
+body: De Heen is van oudsher een dorp met veel verenigingen. Welke van onderstaande verenigingen heeft het dorp niet gekend?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 2
+media: fATEXR13bl
+A: Tennis
+B: IJsclub
+C: Jazzballet
+D: EHBO-club
+hint: Voor die sport vist men in De Heen achter het net.
+right: Het verenigingsleven is voor de inwoners van De Heen altijd erg belangrijk geweest. Buur-kernen zoals Steenbergen en Nieuw-Vossemeer liggen nog steeds best een eindje weg. Voor de Heenenaren is het daarom belangrijk om het vertier voor jong en oud op het eigen dorp te hebben. Bovendien wonen er in De Heen veel actieve en enthousiaste mensen die hun hand niet omdraaien voor wat vrijwilligerswerk. Zodoende heeft of had De Heen onder meer een biljartclub, toneelclub, ijsclub, jazzballet, duivenclub, voetbalclub, handwerkclub, fietsclub, zangclub, badmintonclub en een EHBO-club. Alleen een tennisclub, die heeft De Heen nooit gehad.
+wrong: 
+author: dasja
+answer: A

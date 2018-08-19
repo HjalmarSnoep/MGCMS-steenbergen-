@@ -1,0 +1,18 @@
+title: Bevrijding
+published: 1
+body: Op 30 oktober 1944 kwam er eind aan de Tweede Wereldoorlog in Kruisland. Door wie werd Kruisland bevrijd?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 4
+media: bvzwYeV6AU
+A: De Amerikanen
+B: De Canadezen
+C: De Engelsen
+D: De Australi&euml;rs
+hint: De bevrijders droegen bij de bevrijding van Kruisland hun eigen vlag binnen
+right: Kruisland werd bevrijd door de Engelsen. Die dag kwamen onze bevrijders via de Roosendaalseweg ons dorp binnenrijden. Tijdens het terugtrekken van de Duitsers vielen er geen slachtoffers. Wel werden de kerken door de terugtrekkende Duitsers opgeblazen.
+wrong: 
+author: dasja
+answer: C

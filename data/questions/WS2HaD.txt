@@ -1,0 +1,18 @@
+title: Muziek stijl
+published: 1
+body: Wat voor stijl muziek speelt de Nieuw-Vossemeerse Jan van de Velde Groep?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 3
+media: WHlu2cyD3K
+A: Een geheel eigen stijl
+B: Popmuziek
+C: Palingsound
+D: Hiphop
+hint: Uniek in zijn soort.
+right: Zoals de naam al doet vermoeden, is deze muziekgroep gevormd rond zanger Jan van de Velde. Hij maakt muziek die is verbonden met zijn Zeeuwse roots en een vleugje Brabant. De groep, die sinds 2010 bestaat, heeft een basisbezetting met gitaar, viool, cello, dwarsfluit en klarinet. De Jan van de Velde-groep maakt liedjes en verhalen rond de zee, het land en vooral rond de mens die altijd centraal staat.
+wrong: 
+author: dasja
+answer: A

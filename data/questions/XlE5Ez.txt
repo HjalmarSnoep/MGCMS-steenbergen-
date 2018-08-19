@@ -1,0 +1,18 @@
+title: 
+published: 1
+body: Toen het Volkerak van de zee werd afgesloten door de Philispdam werd het zoute water langzaam zoet. Welke planten verdwenen daardoor van de schorren en de slikken bij De Heen?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 2
+media: Skv0v1bR8n
+A: brandnetel en akkerdistel
+B: duinriet en goudknopje
+C: lamsoor en zeekraal
+D: zeekomkommer en ijsbergsla
+hint: De vorm van &eacute;&eacute;n van deze planten doet denken aan het gehoororgaan van een jong schaap.
+right: De planten die zout water nodig hebben om te kunnen overleven zijn lamsoor en zeekraal. Twee plantjes die allebei eetbaar zijn. Voor deze zoute planten is bijvoorbeeld het duinriet in de plaats gekomen. Dit kleurt de gorzen en de slikken in de winter goudbruin en in de zomer prachtig groen. Ook het goudknopje is een zoetwaterplant.Het komt oorspronkelijk uit Zuid-Afrika en is door trekvogels en schepen mee naar het noorden gekomen.
+wrong: 
+author: dasja
+answer: C

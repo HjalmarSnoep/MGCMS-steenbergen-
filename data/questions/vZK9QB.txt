@@ -1,0 +1,18 @@
+title: Dorpenderby
+published: 1
+body: In 2014 deed Nieuw-Vossemeer (en nog 81 deelnemers) mee aan de Dorpenderby. Op welke plaats eindigde Nieuw-Vossemeer?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 3
+media: lB8XjbhhQd
+A: 7e
+B: 1e
+C: 5e
+D: Laatste
+hint: Geen plaatsje op het erepodium maar wel knap wanneer je 75 concurrenten achter je laat.
+right: De dorpenderby is een project van de Provincie Noord-Brabant. Alle dorpen in de provincie kunnen eraan meedoen. Ze moeten dan een project indienen dat sport en bewegen bevordert en de leefbaarheid in het dorp. In Nieuw-Vossemeer hadden ze al een ijsbaan en een speeltuin aan de rand van het dorp. Deze waren in 2011 en 2012 aangelegd op een terrein van Staatsbosbeheer met als doel &#039;spelen in de natuur&#039;. Al snel werd het een hartstikke populair en geliefd gebied bij de bevolking.In 2014 besloot de Dorpsraad mee te doen met de Dorpenderby door de bestaande voorzieningen uit te breiden met nieuwe trimtoestellen en een trimbaan. De toestellen moeten passen bij de bestaande voorzieningen die van natuurlijk materialen waren. Met hulp van houtkunstenaar Peter de Koning uit Steenbergen werden er prachtige speeltoestellen gemaakt. Ook gaf hij het dorp een grote bank in de vorm van een vos cadeau. Nieuw-Vossemeer werd uiteindelijk 7e in de derby. Heel knap want er waren wel 82 projecten aangemeld.
+wrong: 
+author: dasja
+answer: A

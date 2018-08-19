@@ -1,0 +1,18 @@
+title: Daar moet op gedronken worden
+published: 1
+body: Wat werd er in de 16e en 17e eeuw het meest gedronken in Steenbergen?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 1
+media: 0XeWdgIetk
+A: Bier
+B: Water
+C: Melk
+D: Koffie
+hint: Toen was er nog geen sprake van een leeftijdsgrens.
+right: In de zestiende en zeventiende eeuw was bier de populairste drank geworden. Het kwam &lsquo;s morgens, &lsquo;s middags en &lsquo;s avonds bij het eten op tafel. De maaltijden waren sterk gekruid en het drinkwater was niet best. Vandaar dat bier een echte volksdrank werd. Iedere plaats van belang had wel een of meer brouwerijen. Zo ook in Steenbergen. En al heel lang, want al in 1173 werd er gesproken over een brouwerij aan de Simonshaven. Dat was dus nog honderd jaar voordat Steenbergen een stad werd, want dat was pas in 1272.
+wrong: 
+author: dasja
+answer: A

@@ -1,0 +1,18 @@
+title: Aanvallers
+published: 1
+body: Door wie is Dinteloord op 4 november 1944 gebombardeerd?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 5
+media: 4IE4511f63
+A: Door de geallieerden
+B: Door de duitsers
+C: Door buitenaardse wezens
+D: Men weet het niet
+hint: Vriendelijk vuur noemen ze dat. Er is alleen weinig vriendelijks aan.
+right: Op 4 november 1944, 5 dagen voor de bevrijding van het dorp, werd Dinteloord bij vergissing gebombardeerd door de geallieerden. Hierbij vielen vijfenvijftig doden. Een groot deel van het dorp werd vernield. Deze foto is van de Westvoorstraat.
+wrong: 
+author: dasja
+answer: A

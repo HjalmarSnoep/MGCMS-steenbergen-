@@ -1,0 +1,18 @@
+title: Kruislands landschap
+published: 1
+body: Wat is kenmerkend aan het Kruislandse landschap?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 4
+media: yScWo2kGvn
+A: Besloten polder
+B: Bossen
+C: Moerasgronden
+D: Open polder
+hint: Op een heldere dag kun je de kerktorens van de omliggende dorpen en steden goed zien liggen.
+right: Kenmerkend voor het landschap van Kruisland zijn de polders en de dijken. De polder is ingedijkt en wordt omringd door dijken. Door de omvang en het ontbreken van bomen kun je ver kijken, dit wordt ook wel een open polder genoemd.
+wrong: 
+author: dasja
+answer: D

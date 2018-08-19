@@ -1,0 +1,18 @@
+title: Geen Haan
+published: 1
+body: Hoe lang heeft de toren van de Corneliuskerk in Welberg geen haan gehad?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 6
+media: hPPoDVmzpQ
+A: Heeft nooit een haan gehad
+B: 11 jaar
+C: 86 jaar
+D: 100 jaar
+hint: Priemgetal.
+right: In 1980 hield de torenhaan van de Corneliuskerk het voor gezien. Hij draaide niet meer op de wind en hij dreigde zelfs van zijn torentje te vallen. Uit veiligheidsoverwegingen werd besloten de haan van de toren te halen. Er was echter geen geld om hem te restaureren en terug te plaatsen. Jarenlang lag hij te verpieteren en hij is zelfs nog korte tijd gestolen geweest. Pas elf jaar later, in 1991 wordt de haan weer op de toren gezet.
+wrong: 
+author: dasja
+answer: B

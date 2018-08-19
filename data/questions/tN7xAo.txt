@@ -1,0 +1,18 @@
+title: oven bakhuisje
+published: 1
+body: Welk bouwmateriaal is onder meer gebruikt bij de restauratie van de oven in het 17e eeuwse bakhuisje van De Heen?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 2
+media: knBoKIWMBS
+A: Cement
+B: Paardenurine
+C: Asbest
+D: Staal
+hint: De eerste keer dat de oven aanging, was de geur van ammoniak overduidelijk aanwezig.
+right: In 2014 werd het bakhuisje achter pannenkoekenboerderij De Uitwijk in De Heen helemaal gerestaureerd. Dit kon dankzij een subsidie van de provincie. Het belangrijkste van het bakhuisje is natuurlijk de oven. Die moest helemaal opnieuw gemaakt worden. Maar wel op precies dezelfde manier als een paar eeuwen geleden. Zo werd er aan de buitenkant van de oven een dikke laag mortel (een soort klei aangebracht). Die klei werd niet aangemaakt met water, maar met paardenurine. Alleen daardoor voorkom je dat de klei gaat scheuren.
+wrong: 
+author: dasja
+answer: B

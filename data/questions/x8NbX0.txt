@@ -1,0 +1,18 @@
+title: Ontstaan Welberg
+published: 1
+body: Wanneer is de Welberg ooit ontstaan?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 6
+media: KGkiwWiDwO
+A: In de Middeleeuwen
+B: Tijdens de ijstijden
+C: Het was er gewoon
+D: Direct na de oerknal
+hint: Voordat de Welberg de Welberg heette was het er knap fris.
+right: Heel, heel lang geleden, tijdens de ijstijden, werd er door de grote rivieren Rijn en Maas in heel Brabant dikke lagen zand en leem afgezet. Tijdens de laatste ijstijd (zo&#039;n 21.000 jaar geleden) werden deze lagen afgedekt door een pakket van zogenaamd dekzand. Zand dat meegevoerd werd door de wind. Hier en daar werden er door de werking van de wind hogere heuvels opgeblazen. Dat zie je nu ook wel eens aan het strand. Die heuvels steken nog steeds een beetje uit en werd bergen of donken genoemd. In de gemeente Steenbergen is Welberg, daar een goed voorbeeld van.
+wrong: 
+author: dasja
+answer: B

@@ -1,0 +1,18 @@
+title: Rondweg-oost
+published: 1
+body: Waarom werd er in de jaren &#039;70 van de vorige eeuw een weg tussen Steenbergen en Welberg aangelegd?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 6
+media: ajk6QVgq7L
+A: Om de beide kernen van elkaar te scheiden
+B: Snelste verbinding tussen Roosendaal en Tholen
+C: Snelste verbinding tussen Welberg en Nieuw-Vossemeer
+D: Snelse verbinding tussen Dinteloord en Bergen op Zoom
+hint: Door de A4 (2014) werd het de een-na-snelste verbinding.
+right: Van Dinteloord naar Klutsdop liep de N259. Een rijksweg die is aangelegd als ontbrekende schakel tussen de snelweg die eindigde bij Dinteloord (1971) en pas weer begon in Bergen op Zoom. Hij werd begin jaren &#039;70 aangelegd en is sinds die tijd de scheiding tussen Steenbergen en Welberg. De Laurentiusdijk in de Welberg sloot vroeger bijvoorbeeld aan op de Krommeweg in Steenbergen. Door de N259 werd de Laurentiusdijk een doodlopende weg. In november 2014 werd de Rijksweg overbodig toen het ontbrekende stukje snelweg westelijk van Steenbergen werd geopend (de A4). Hij werd nu eigendom van de gemeente Steenbergen.
+wrong: 
+author: dasja
+answer: D

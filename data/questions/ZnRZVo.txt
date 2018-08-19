@@ -1,0 +1,18 @@
+title: De Mark
+published: 1
+body: Waar ontspringt de rivier de Mark bij Dinteloord?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 5
+media: J76UzCuq2J
+A: In de Alpen
+B: Bij Stampersgat
+C: In Frankrijk
+D: In Belgi&euml;
+hint: Alleej jong!
+right: De Mark begint in het Belgische Koekhoven, maar dan is het nog maar een beekje. Hij komt Nederland binnen bij Hoogstraten (BE) en gaat dan door Breda waarna het een rivier wordt. Uiteindelijk gaat de Mark over in de Dintel en mondt hij uit in het Volkerak.
+wrong: 
+author: dasja
+answer: D

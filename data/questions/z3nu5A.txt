@@ -1,0 +1,18 @@
+title: Beroemde inwoner
+published: 1
+body: Wie is de beroemdste inwoner van Welberg?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 6
+media: yr6zf1K4Ld
+A: Zuster Monique
+B: Kapelaan Koch
+C: John F. Kennedy
+D: Pierre van Hooijdonk
+hint: Put your hands up for Pi-Air!
+right: Dat is voetballer Pierre van Hooijdonk. Hij werd in 1969 geboren in De Heen maar groeide op aan de Boomdijk in de Welberg. Als speler kwam Van Hooijdonk in Nederland uit voor RBC, NAC, Vitesse en Feyenoord. In zijn eerste periode bij Feyenoord beleefde Van Hooijdonk grote successen toen hij met zijn befaamde vrije trappen en acht goals een zeer groot aandeel had in de winst van de UEFA Cup in 2002. In het buitenland speelde de spits voor Celtic, Nottingham Forest, Benfica en Fenerbah&ccedil;e. Met Fenerbah&ccedil;e pakte hij tweemaal de Turkse landstitel; in 2004 en 2005.Van Hooijdonk speelde 46 interlands voor het Nederlands Elftal en was actief op het WK 1998, Euro 2000 en Euro 2004. Na het be&euml;indigen van zijn spelersloopbaan werd Van Hooijdonk actief als trainer.
+wrong: 
+author: dasja
+answer: D

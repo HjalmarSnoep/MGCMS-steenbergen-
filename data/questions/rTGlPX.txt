@@ -1,0 +1,18 @@
+title: Bom uit de tweede wereldoorlog
+published: 1
+body: In februari 2014 werd er in Kruisland een bom uit de Tweede Wereldoorlog ontmanteld. Wat voor soort bom was dat?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 4
+media: ZePPWXW1Ih
+A: B2
+B: Vuurwerkbom
+C: Zure bom
+D: V1
+hint: De Duiters noemden dit type bom hun Vergeldingswapen.
+right: Op 27 februari 2014 werd een V1 bom ontmanteld. De bom werd op 30 januari gevonden in een weiland aan het Dirksdijkje. De V1 is een onbemand straalvliegtuig dat in de Tweede Wereldoorlog werd ingezet. Het werd ook wel `vliegende bom`genoemd. Kruisland lag op de route van deze bomvliegtuigen die ten zuiden van Rotterdam werden gelanceerd om Antwerpen te bombarderen. In Kruisland lag geen compleet V1-vliegtuig. Het gaat om het voorste deel, de daadwerkelijke bom, waar 930 kilo springstof in zit.
+wrong: 
+author: dasja
+answer: D

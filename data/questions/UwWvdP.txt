@@ -1,0 +1,18 @@
+title: Andere naam
+published: 1
+body: De Heen was niet de enige naam die vroeger voor het dorp gebruikt werd. Noem er nog &eacute;&eacute;n.
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 2
+media: ci7o7CryUk
+A: Benedensas
+B: Heens dorp
+C: Strienedurpke
+D: Hogediep
+hint: Het was de naam van een kreek die door de polder liep.
+right: De naam &#039;Hogediep&#039; werd tot in de 19e eeuw nog samen met &#039;De Heen&#039;, gebruikt. In 1745 werd bijvoorbeeld een schoolmeester in het dorp &#039;het Hoogediep en de Heen&#039; benoemd. Ook op de kaart uit 1832 die je hier ziet, worden beide namen nog gebruikt. De naam Hogediep is afkomstig van de kreek, die voor de inpoldering ongeveer in het midden door de polder naar de Vliet stroomde.
+wrong: 
+author: dasja
+answer: D

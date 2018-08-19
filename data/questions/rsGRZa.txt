@@ -1,0 +1,18 @@
+title: Zomerkampen
+published: 1
+body: Welke Nieuw-Vossemeerse buurtvereniging organiseert zomerkampen voor de jeugd?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 3
+media: Ockia5faxy
+A: Boerengors
+B: Vossenburcht
+C: Blokkendoos
+D: Voszoomeren
+hint: Beter een goede boer, euh buur,dan een verre vriend
+right: De Buurtvereniging Boerengors is bij algemene ledenvergadering opgericht op 4 juni 1975, met het doel om de saamhorigheid, de verstandhoudingen en de gemeenschapszin van haar leden te bevorderen dan wel in stand te houden.Dit bevorderen en in stand houden doen we sinds die tijd door het organiseren van o.a. kinder-zomerkampen, buurtfeesten, spelactiviteiten en het verlenen van onderlinge hulp bij bepaalde gebeurtenissen. Tot onze leden behoren alleen inwoners die woonachtig zijn of zijn geweest in het buurtschap Boerengors of zij die zich van buiten de Boerengors hebben aangemeld.Elk jaar nemen gemiddeld zo&#039;n 50-70 kinderen uit de Boerengors deel aan dit fantastische weekend-zomerkamp.
+wrong: 
+author: dasja
+answer: A

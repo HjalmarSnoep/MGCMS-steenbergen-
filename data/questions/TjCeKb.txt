@@ -1,0 +1,18 @@
+title: OVW
+published: 1
+body: Waar staan de letters O.V.W. voor?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 6
+media: csRHvVxSpp
+A: Onzin Voor Welbergenaren
+B: Ons Voor Wij
+C: Overdreven Veel Wachtgeld
+D: Ontspanning Voor Welberg
+hint: Op de Welberg wonen hele relaxte mensen.
+right: O.V.W. staat voor Ontspanning voor Welberg. Deze stichting zorgt al sinds jaar en dag voor allerlei activiteiten voor de jeugd, zoals carnaval, de intocht van Sinterklaas, Koninginnedag, paasviering. Maar ook wordt er regelmatig een dorpsbarbecue of andere activiteit gehouden. Sinds 2013 onderhoudt O.V.W. ook het voormalige voetbalveld van Sc Welberg achter gemeenschapshuis De Vaert. Ze hebben er onder meer een ijsbaantje gemaakt. De stichting zet zich in voor de leefbaarheid in de kern.
+wrong: 
+author: dasja
+answer: D

@@ -1,0 +1,18 @@
+title: Bier
+published: 1
+body: In de Dinteloordse polders worden verschillende granen verbouwd. Van welke graansoort wordt bier gebrouwen?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 5
+media: rHjw5YGhEe
+A: Gerst
+B: Haver
+C: Mais
+D: Boekweit
+hint: Een andere naam voor deze graansoort is gort.
+right: Bier wordt gemaakt van gerst. Dat moet eerst in mout omgezet worden om het geschikt te maken voor het brouwproces. Van 1 kilo gerst kan ongeveer 6 liter bier worden gemaakt. Gerst heeft verschillende pluspunten voor de brouwer
+wrong: 
+author: dasja
+answer: A

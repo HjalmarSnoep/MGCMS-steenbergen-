@@ -1,0 +1,18 @@
+title: Einde bedevaart
+published: 1
+body: De Welberg is een flink aantal jaar bedevaartsoord geweest. Wie maakt er een einde aan?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 6
+media: a1rNr63kDv
+A: De rechter
+B: De koning
+C: De paus
+D: De bisschop
+hint: Hij kreeg opdracht van zijn baas die in het Vaticaan woont.
+right: Van 1930 tot 1950 was de Welberg een bedevaartsoord. Gelovigen kwamen van heinde en verre om Janske Gorissen (1906-1960) te bezoeken. Deze vrouw beweerde dat zij Maria, de moeder van Jezus, gezien. Zij noemde zichzelf het Bruidje van Jezus. In 1951 komt er een einde aan de verering. Op last van het Vaticaan kwam er een onderzoek naar Janske Gorissen. De onderzoekers menen dat het hele verhaal onzin was. De bisschop van Breda, mgr. Baeten, verbiedt verdere verering. Janske vertrekt uit de Welberg en komt er pas terug na haar overlijden in 1960. Zij vindt er haar laatste rustplaats op de begraafplaats achter de Corneliuskerk.
+wrong: 
+author: dasja
+answer: D

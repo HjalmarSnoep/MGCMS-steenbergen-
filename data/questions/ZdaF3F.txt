@@ -1,0 +1,18 @@
+title: Zangvereniging
+published: 1
+body: Hoe heet de oudste zangvereniging van Dinteloord?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 5
+media: 66E331e1E9
+A: De Dintelsingers
+B: Tavenu
+C: Dintelkoortje
+D: Die Vaertsingers
+hint: Ter aangename verpozing en nuttige uitspanning.
+right: Deze zangvereniging heet Tavenu. Afkorting van Ter Aangename Verpozing en Nuttige Uitspanning. De vereniging bestaat al vanaf 1930.
+wrong: 
+author: dasja
+answer: B

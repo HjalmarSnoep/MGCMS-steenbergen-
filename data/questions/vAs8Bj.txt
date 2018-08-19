@@ -1,0 +1,18 @@
+title: Bezetter
+published: 1
+body: Tijdens de 80-jarige oorlog werd de omgeving van Kruisland bezet. Wie was die bezetter?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 4
+media: fxtzPXws3E
+A: Duitsland
+B: Spanje
+C: Rusland
+D: Friesland
+hint: Tegenwoordig bezetten wij dit land. Maar dan alleen het kustgebied en dan ook nog alleen tijdens de zomervakantie. Dat vinden ze in dat land helemaal niet erg.
+right: Tijdens de 80-jarige oorlog van 1568 tot 1648 werd ook in de omgeving van Steenbergen erg hard gevochten tegen een vijand die ons wilde bezetten. Dat waren de Spanjaarden.
+wrong: 
+author: dasja
+answer: B

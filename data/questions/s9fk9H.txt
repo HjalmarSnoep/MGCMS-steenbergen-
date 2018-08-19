@@ -1,0 +1,18 @@
+title: Bijnaam
+published: 1
+body: Hoe wordt Nieuw-Vossemeer ook wel genoemd?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 3
+media: WPty4YTSHz
+A: Dijkendorp
+B: Kreekdorp
+C: Vossedorp
+D: Jong-Vossemeer
+hint: Rijkswaterstaat stelde na de ramp een plan tot verbetering en verhoging van de dijken op. In Nieuw-Vossemeer is er heel wat werk verzet.
+right: Na de Watersnoodramp van 1953 werden alle dijken verbeterd door ze te verzwaren en te verhogen. Rijkswaterstaat stelde na de ramp een plan tot verbetering en verhoging van de dijken op.Hoogheemraadschap De Brabantse Bandijk, voerde verbeteringen aan de zeedijk van De Eendrachtspolder uit in de jaren 1956 tot 1958. Hierna werden ook de dijken van de Beciuspolder en de Heerenpolder verbeterd en verhoogd en werden er verbeteringen uitgevoerd aan de Nieuw-Vossemeersedijk. Niet voor niets kreeg Nieuw-Vossemeer als bijnaam Dijkendorp.
+wrong: 
+author: dasja
+answer: A

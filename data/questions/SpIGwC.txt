@@ -1,0 +1,18 @@
+title: Dramatisch ongeval
+published: 1
+body: Op 23 november 1944 gebeurde er een dramatisch ongeval aan de Achterstraat in Nieuw-Vossemeer? Wat vinden we tegenwoordig op deze plaats?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 3
+media: 0GDkEKg13g
+A: Een pinautomaat
+B: Een monument
+C: Een kerk
+D: Een park
+hint: Op de plaats waar een overvliegende Engels vliegtuig op 23 november 1944 een reservetank kerosine verloor, kun je nu wat halen. Als je tenminste de goede code hebt.
+right: Op 23 november 1944 vond er groot drama plaats in Nieuw-Vossemeer. Een overvliegend Engels vliegtuig verloor een reservetank kerosine (brandstof). De tank kwam terecht in de Achterstraat, in een steegje tussen twee huizen. De gevolgen waren verschrikkelijk. De tank had niet alleen een groot gat in de grond geslagen, maar was ook opengescheurd waardoor de put vol kerosine liep. Op het ongeluk kwamen veel dorpsbewoners af waaronder een aantal kinderen. Toen zij aankwamen bij de krater, vatte de tank vlam waardoor een enorme explosie en vlammenzee ontstond. Vier kinderen liepen zware brandwonden op en werden met spoed naar het ziekenhuis in Steenbergen gebracht. Er bleek geen redden meer aan; de kinderen overleden allemaal aan hun brandwonden. Op de plaats waar deze tragedie zich afspeelde staat tegenwoordig de pinautomaat van de Rabobank.
+wrong: 
+author: dasja
+answer: A
