@@ -1,0 +1,18 @@
+title: 14 december 1940
+published: 1
+body: Wat gebeurt er op 14 december 1940 met Steenbergen?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 1
+media: x8W7HKS3ER
+A: Het organiseert een kerstmarkt
+B: Het wordt getroffen door een tsunami
+C: Het wordt bezet door de Duitsers
+D: Het viert haar 700-jarig bestaan
+hint: Gelukkig heten we vandaag de dag niet Steinbergen.
+right: Op 14 december 1940 wordt Steenbergen bezet door de Duitsers. Dat ging met weinig geweld gepaard. Het einde van de oorlog verloopt wel slecht voor Steenbergen. De Britse oorlogsheld Guy Gibson stort neer aan de randen van de stad, de Gummaruskerk wordt opgeblazen en tijdens de gevechten bij de bevrijding wordt Steenbergen zwaar beschoten. op 4 november 1944 worden de laatste Duitsers door het Canadese leger verdreven. Steenbergen is vrij!
+wrong: 
+author: dasja
+answer: C

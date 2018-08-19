@@ -1,0 +1,18 @@
+title: sterfputten
+published: 1
+body: Wat maakte de Steenbergse fabriek waarvan het vervuilde water werd opgevangen in zogenaamde sterfputten?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 1
+media: DnEuLGWPr0
+A: Suiker
+B: Sigaren
+C: Linnen
+D: Meekrap
+hint: Je hebt het in zakjes, klontjes en los in de pot.
+right: Aan het eind van de 19e en het begin van de 20e eeuw waren de mensen nog helemaal niet bezig met de zorg voor het milieu. Neem nu bijvoorbeeld de suikerfabriek die vroeger in Steenbergen stond. Het vuile water van de fabriek ging gewoon rechtstreeks de Steenbergse Vliet in. Dat dat geen gezond goedje was, bleek wel uit het feit dat de vissen dood boven kwamen drijven. Uit de schoorsteen van de fabriek kwam rook die zo giftig was dat het tafelzilver zwart kleurde! Maar ja, men vond dat toen normaal. Later werd het water opgevangen in zogenaamde sterfputten. Hele grote opvangbassins waar je absoluut niet mocht komen als kind. Dat deden de meest avontuurlijke kinderen natuurlijk wel. Op de plaats waar nu brede school &#039;t Podium en het gemeentehuis staan, lagen vroeger ongeveer de sterfputten.
+wrong: 
+author: dasja
+answer: A

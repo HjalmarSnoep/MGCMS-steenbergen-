@@ -1,0 +1,18 @@
+title: De Heen
+published: 1
+body: Waar komt de naam De Heen vandaan?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 2
+media: xLJH6py2FS
+A: Het was op de heenweg naar Sint Philipsland
+B: Het is de naam van een soort gras dat er groeide
+C: Het is de naam van een koeienras dat er graasde
+D: Het is de naam van een caf&eacute; dat daar vroeger stond
+hint: Onderaan heen vindt je de heenkloten. Die worden gegeten door ganzen.
+right: De naam Heen is vermoedelijk afgeleid van het woord &#039;hempte&#039; of &#039;heen&#039;. Dat is een soort riet of gras dat groeit in een gebied met schorren. De Latijnse naam van &#039;heen&#039; is Bolboschoenus maritimus. Bolboschoenus komt van het Latijnse bulbus dat &#039;bol&#039; betekent. Dat komt omdat het gras uitloopt in een soort stekelige bol. Het tweede deel van de naam (schoenus) is afgeleid van het Griekse schoinos dat strik betekent. En dan met name een strik die gebruikt wordt voor vlechtwerk. De halmen van het gras zijn namelijk erg taai. Maritimus is niet zo&#039;n mysterie. Dat betekent &#039;van de zee&#039; of &#039;aan de zee&#039;. Vroeger, toen er nog echt heen op De Heen groeide, was het land erg nat en kwam het plantje er veel voor.
+wrong: 
+author: dasja
+answer: B

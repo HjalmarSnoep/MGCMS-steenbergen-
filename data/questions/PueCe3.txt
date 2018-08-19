@@ -1,0 +1,18 @@
+title: Kunstenaar
+published: 1
+body: Wat was de achternaam van de bekende Steenbergse kunstenaar die hier in 1911 geboren werd?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 1
+media: OUBvZchQDq
+A: Steenbergen
+B: Van Gogh
+C: Penseel
+D: Valkhoff
+hint: Te toevallig om toeval te zijn.
+right: De stad Steenbergen heeft een bekende kunstenaar voortgebracht. Die heette toevallig ook Steenbergen. Niel Steenbergen om precies te zijn. Hij werd in 1911 geboren in Steenbergen. Hij studeerde aan de academies voor beeldende kunsten in Tilburg, Antwerpen en Amsterdam. Jij kent ook wel werken van hem want in Steenbergen zijn er nogal een paar te vinden. Bijvoorbeeld het beeld van de meerminnen bovenop het oude stadhuis. Of het bevrijdingsmonument aan het Kerkplein. Hij maakte ook veel penningen. Bijvoorbeeld ter herinnering aan een bijzondere dag. Niel Steenbergen overleed in 1997 in Oosterhout waar hij vele jaren woonde. Je kunt veel informatie over hem vinden op internet.
+wrong: 
+author: dasja
+answer: A

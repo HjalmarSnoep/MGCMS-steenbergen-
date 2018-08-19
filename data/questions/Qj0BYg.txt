@@ -1,0 +1,18 @@
+title: Boerenbedrijf
+published: 1
+body: Welk soort boerenbedrijf hoort bij Nieuw-Vossemeer?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 3
+media: J4IuwoPzOX
+A: Akkerbouw
+B: Veeteelt
+C: Fruitbomen
+D: Glastuinbouw
+hint: Daar zaten tweede haasjes heel parmant.
+right: De Nieuw-Vossemeerse boeren zijn over het algemeen akkerbouwers. Dat komt doordat de grond in de Nieuw-Vossemeerse polders vooral uit zeeklei bestaat. Die grond is heel erg geschikt voor tarwe, haver, gerst, aardappelen, koolzaad, vlas en uien.Tussen 1800 en 1900 werd er ook veel meekrap geproduceerd om rode kleurstof van te maken. Toen er goedkopere manieren ontdekt werden om aan die kleurstof te komen, betekende dat het einde van de productie van meekrap. Daarvoor in de plaats kwam de suikerbiet. Dat kwam ook doordat er op drie plaatsen in West-Brabant suikerfabrieken waren gekomen. In Steenbergen Zevenbergen en Dinteloord. Alleen die in Dinteloord bestaat nog steeds.
+wrong: 
+author: dasja
+answer: A

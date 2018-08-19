@@ -1,0 +1,18 @@
+title: Jongerenhonk
+published: 1
+body: Waarin was het jongerenhonk &#039;t Tuighuis in Nieuw-Vossemeer gevestigd?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 3
+media: iaPOIPcIGb
+A: In de voormalige bakkerswoning van bakker de Klerk
+B: In het oude patronaat
+C: In de oude jongensschool
+D: In de Nieuwe Draaikolk
+hint: De kinderen bakten ze daar soms behoorlijk bruin.
+right: Tegenwoordig hebben we in alle kernen van de gemeente Steenbergen gelukkig een gemeenschapshuis waar verenigingen terecht kunnen. Vroeger was dat wel anders. Het was altijd zoeken naar een goed onderkomen. En wanneer dat gevonden was, was het passen en meten. Veel verenigingen konden terecht in de plaatselijke caf&eacute;s. Later kwamen er gebouwen die speciaal voor jeugd- en jongerenwerk bedoeld waren. In Nieuw-Vossemeer was dat bijvoorbeeld het oude patronaat in de Achterstraat, &#039;t Tuighuis in de voormalige bakkerswoning van bakker De Klerk aan de Voorstraat en de oude jongensschool die de naam &#039;De Draaikolk&#039; kreeg. Later werd de oude kleuterschool &#039;De Nieuwe Draaikolk&#039; en kwam er een bejaardensoos in de Kloosterstraat. Sinds 2003 kunnen de meeste Vossemeerse verenigingen terecht in gemeenschapshuis De Vossenburcht.
+wrong: 
+author: dasja
+answer: A

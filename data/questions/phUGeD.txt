@@ -1,0 +1,18 @@
+title: Ommetje
+published: 1
+body: Door de polder van Kruisland loopt een wandelroute, een zogenaamde ommetje. Hoe heet het Kruislandse Ommetje?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 4
+media: ZkMn6KxMtb
+A: De Kromme Hoek Om
+B: Kruislands Ommetje
+C: Het Hoekje Om
+D: Om De Hoek
+hint: De tocht voert door de Kruislandse polder met de naam De Kromme Hoek.
+right: Het Kruislandse Ommetje heet &#039;De Kromme Hoek Om&#039;. Deze naam is afkomstig van de poler waardoor een groot gedeelte van de wandeltocht loopt. Je loopt onder meer over de Holderbergse Dijk. Het is er onverhard en je loopt er zonder een auto of tractor tegen te komen door een klein stukje natuur.
+wrong: 
+author: dasja
+answer: A

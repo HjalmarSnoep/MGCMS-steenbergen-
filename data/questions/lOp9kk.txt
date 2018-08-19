@@ -1,0 +1,18 @@
+title: Sporthal
+published: 1
+body: Wie heeft de naam van sporthal De Buitelstee in Dinteloord verzonnen?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 5
+media: 13OdrR3tOx
+A: De uitbater van De Buitelstee
+B: De burgemeester
+C: Kinderen van de basisschool
+D: De sportverenigingen
+hint: Wie maken er graag rare buitelingen?
+right: De naam De Buitelstee is verzonnen door kinderen van de basisschool. Er werd een wedstrijd uitgeschreven en deze naam is gekozen uit de inzendingen.
+wrong: 
+author: dasja
+answer: C

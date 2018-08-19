@@ -1,0 +1,18 @@
+title: cichorei
+published: 1
+body: Naast suikerbieten en andere gewassen wordt er in de polders van De Heen ook cichorei verbouwd. Weet je waar de wortel van die plant voor werd gebruikt?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 2
+media: 0zNaxO9JUa
+A: Voor het maken van cicharen
+B: Voor het maken van rietsuiker
+C: Voor het maken van vlas
+D: Voor het maken van koffie
+hint: Hij staat klaar!
+right: Sinds de 19e eeuw wordt van de gemalen en gebrande wortels van cichorei een drank gemaakt die, wat smaak betreft, lijkt op die van koffie. Men noemt het ook wel namaak-koffie. Of, met een duur woord, surrogaat-koffie. Vooral tijdens de Tweede Wereldoorlog werd het veel gedronken omdat er geen echte koffie voorhanden was.
+wrong: 
+author: dasja
+answer: D

@@ -1,0 +1,18 @@
+title: Inzamelactie
+published: 1
+body: Hoeveel geld haalden de inwoners van De Heen op voor de getroffenen van de Watersnoodramp?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 2
+media: bjFo6Nj2oS
+A: 1000 gulden
+B: 13.000 gulden
+C: 1 miljoen dubloenen
+D: 50 gulden
+hint: Tegenwoordig zouden we zeggen dat ieder van de duizend inwoners van De Heen een bedrag van 5,90 euro doneerde aan het goede doel.
+right: Op 1 februari 1953 werd Nederland getroffen door de Watersnoodramp. Vele honderden mensenverdronken, vele tienduizenden werden dakloos. De Heen bleef wonderwel gespaard. De bewoners van De Heen tastten diep in de buidel voor degenen voor wie het minder goed was afgelopen. Samen brachten zij een bedrag van 13.000 gulden (bijna 5.900 euro) op. Dertien gulden (bijna 6 euro) per persoon en dat was, zekervoor die tijd, heel erg veel.
+wrong: 
+author: dasja
+answer: B

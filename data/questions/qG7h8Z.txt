@@ -1,0 +1,18 @@
+title: blauwe bloem
+published: 1
+body: Bij welk gewas hoort dit blauwe bloemetje?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 1
+media: 2xLm5gz8Pz
+A: Koren
+B: Gerst
+C: Vlas
+D: Suiker
+hint: Niet om op te eten.
+right: Op de foto ziet je een vlasplant in volle bloei. Tot eind jaren &#039;70 van de vorige eeuw was er in Steenbergen een vlasfabriek. Die stond bij de brug over de Steenbergse Vliet richting Dinteloord. Het vlas werd pas geoogst na de bloei, wanneer de blauwe bloemetjes alweer zaadbolletjes waren. Als vlas van het land wordt gehaald, wordt het geplukt. Het wordt met wortel en al uit de grond getrokken. Van vlas kun je linnen maken voor bijvoorbeeld tafelkleden en dekbedovertrekken.
+wrong: 
+author: dasja
+answer: C

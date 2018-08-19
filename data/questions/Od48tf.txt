@@ -1,0 +1,18 @@
+title: Slachter
+published: 1
+body: Wat hadden de slachter en de kuiper met elkaar te maken?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 3
+media: BWoEVDiTW5
+A: De slachter slachtte; de kuiper maakte de kuip om het vlees te bewaren.
+B: Allebei hun beroepen eindigen op - er
+C: Het zijn allebei beroepen die niet meer bestaan
+D: De slachter werkte voor de kuiper
+hint: Er is een gezegde dat luidt
+right: Vroeger hadden niet alleen de boeren maar ook veel arbeidersgezinnen &eacute;&eacute;n of meer varkens in de schuur. Met name om gedurende de wintermaanden extra vlees en spek te hebben. Het varken bood uitkomst voor de arme arbeidersgezinnen. Maar om het vetgemeste beest deskundig te slachten, was de slachter nodig. Als dat klusje geklaard was, was de kuiper nodig. Hij maakte geschikte kuipen om het gepekelde spek te bewaren. Gepekeld betekent dat het vlees helemaal in het zout komt te liggen. Door het zout wordt het vocht uit het vlees getrokken en kan het veel langer bewaard blijven.
+wrong: 
+author: dasja
+answer: A

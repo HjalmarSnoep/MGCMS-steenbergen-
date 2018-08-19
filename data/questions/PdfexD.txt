@@ -1,0 +1,18 @@
+title: Fontein
+published: 1
+body: Wat is de bijnaam van de Dinteloordse fontein op de foto?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 5
+media: 62cFcELIkt
+A: De ragebol
+B: De suikerspin
+C: De egelkop
+D: De paardenbloem
+hint: Toen de Suikerunie 100 jaar bestond gaf ze de fontein cadeau aan de inwoners van Dinteloord die er direct een toepasselijke naam voor wisten.
+right: Deze fontein staat op het Raadhuisplein. De fontein werd in 2008 geschonken door de Suikerunie ter gelegenheid van het 100-jarig bestaan van de Suikerfabriek. Het is dus, ook door de vorm van de fontein, niet verwonderlijk dat hij direct de bijnaam &#039;de Suikerspin&#039; kreeg.
+wrong: 
+author: dasja
+answer: B

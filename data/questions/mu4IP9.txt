@@ -1,0 +1,18 @@
+title: Tricotagefabriek
+published: 1
+body: Wat maakte men in het tricotagefabriekje aan de Nieuw-Vossemeersedijk?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 3
+media: sKgyZ3qKBl
+A: Kleding
+B: Meubels
+C: Goocheltrucs
+D: Schoenen
+hint: Tricot is een elastische stof van heel fijn breiwerk. Het kan gemaakt zijn van onder meer wol, katoen of nylon.
+right: Tricot is een elastische stof van heel fijn breiwerk. Het kan gemaakt zijn van onder meer wol, katoen of nylon. In 1963 begonnen Frans Beeren en Zn. met een tricotagefabriek in de voormalige bejaardensoos aan de Nieuw-Vossemeersedijk. Later kwam er een nieuw gebouw. Het werd een grote textielhal waarin dertig meisjes en vrouwen aan het werk waren. Er werden allerlei soorten kleding gemaakt. In 1967 dreigde het bedrijfje failliet te gaan, maar net op tijd nam RIJO uit Gouda de fabriek over. In 1980 werkten er nog 60 vrouwen en 3 mannen. In de jaren negentig ging het uiteindelijk toch mis met het bedrijf en werd het opgeheven.
+wrong: 
+author: dasja
+answer: A

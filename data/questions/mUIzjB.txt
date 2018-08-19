@@ -1,0 +1,18 @@
+title: Stichter Dinteloord
+published: 1
+body: Wie heeft Dinteloord gesticht?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 5
+media: hllrSOMRhY
+A: Philips Willem
+B: Willem van Oranje
+C: Graaf Dintel
+D: Koningin Wilhelmina
+hint: Bij zijn voornaam zou er toch een lampje moeten gaan branden.
+right: Doordat Philips Willem, de zoon van Willem van Oranje, de gebieden liet inpolderen, is Dinteloord ontstaan. Het dorp werd genoemd Dinteloord in &#039;s Princen Lant&#039;, omdat het land van de prins was.
+wrong: 
+author: dasja
+answer: A

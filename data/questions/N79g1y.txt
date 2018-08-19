@@ -1,0 +1,18 @@
+title: toren
+published: 1
+body: Hoe noemde men deze toren die in 1977 aan de Steenbergse suikerfabriek werd toegevoegd?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 1
+media: hhq1jisJ6w
+A: De Stripkus-bus
+B: De Dom van Steenbergen
+C: De Suikerstengel
+D: De Strienekrabber
+hint: In &eacute;&eacute;n streep naar het goede antwoord.
+right: In 1977, niet lang voordat de suikerfabriek in Steenbergen sloot, werd er een opmerkelijk gebouw aan toegevoegd. Een schoorsteen van 85 meter. Omdat er van boven tot onder strepen op stond, werd hij door de Steenbergenaren ook wel de &#039;stripkus-bus&#039; genoemd.
+wrong: 
+author: dasja
+answer: A

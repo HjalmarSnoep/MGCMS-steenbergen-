@@ -1,0 +1,18 @@
+title: suiker
+published: 1
+body: In Dinteloord staat een grote suikerfabriek. Waar komt suiker eigenlijk vandaan?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 1
+media: D3jJxWg3TW
+A: Wordt getapt uit de suikerboom
+B: Uit appels
+C: Het is de melk van een suikerbeestje
+D: Uit de suikerbiet
+hint: Het zal me een biet wezen.
+right: Suiker is afkomstig uit suikerbieten. Dat gaat niet vanzelf. Eerst wordt de biet in kleine reepjes gesneden en de suiker wordt er uitgeweekt. De kleine reepjes zonder de suiker noemt men dan pulp. Het wordt gebruikt als voer voor de koeien. Het water met de suiker wordt gecentrifugeerd. Uiteindelijk blijft er kristalsuiker en melasse over. Melasse wordt onder meer gebruikt om alcohol van te maken.
+wrong: 
+author: dasja
+answer: D

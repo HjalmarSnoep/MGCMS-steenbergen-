@@ -1,0 +1,18 @@
+title: eenzaam huisje
+published: 1
+body: Als je wel eens aan het Benedensas bent geweest, dan heb je vast wel het piepkleine, eenzame huisje achter de sluizen gezien. Wat is het voor huisje?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 2
+media: XW3G6ZvQG8
+A: Een eenpersoonswoning
+B: Een tolhuisje
+C: Een peilhuisje
+D: Een schuilplaats voor toeristen
+hint: Hier hielden ze de waterstand in de peiling.
+right: Om de rivierwaterstand af te kunnen lezen, bouwde Rijkswaterstaat in 1874 dit peilhuis. Via een buisopening stroomt het rivierwater het huisje binnen. De waterhoogte kan dan van een peilschaal afgelezen worden zonder dat de golfslag daarbij hindert. Toen het Volkerak werd afgesloten van het open water, vielen de getijden weg. En daarmee ook de functie van het huisje. In 1980 raakte het buiten gebruik. De peilschrijver die in het huisje stond, bestaat trouwens nog wel. Hij is gerestaureerd en staat in het kantoor van Rijkswaterstaat in Tilburg.
+wrong: 
+author: dasja
+answer: C

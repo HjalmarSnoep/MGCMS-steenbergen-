@@ -1,0 +1,18 @@
+title: Landgoed Dassenberg
+published: 1
+body: Welke dieren vind je niet op landgoed Dassenberg?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 6
+media: deAsBtkh5v
+A: Ree&euml;n
+B: Hazen
+C: Vossen
+D: Dassen
+hint: What&#039;s in a name?
+right: De naam Dassenberg is makkelijk uit te leggen. Het landgoed ligt hoger dan de rest van het landschap en er leefden dassen. Leefden, want helaas is er sinds 1970 geen enkele das meer gesignaleerd op de Dassenberg. In dat jaar werd de laatste doodgereden op de Halsterseweg. Daarmee kwam er niet alleen een einde aan dassen op de Dassenberg maar zelfs in heel West-Brabant. Maar wie weet. Als de A4 eenmaal open is, wordt de Halsterseweg een stuk rustiger. Ook wordt er veel werk verzet om de natuurgebiedjes die door alle wegen versnipperd zijn, aan elkaar te verbinden. Misschien komt de das op een dag wel weer terug op de Dassenberg.
+wrong: 
+author: dasja
+answer: D

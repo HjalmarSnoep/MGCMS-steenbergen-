@@ -1,0 +1,18 @@
+title: Autogarage
+published: 1
+body: Het gebouw waarin nu autogarage Van den Bosch in Kruisland zit, had vroeger een andere bestemming. Welke?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 4
+media: W908PCILQG
+A: School
+B: Klooster
+C: Ouderensoos
+D: Smederij
+hint: Vroeger moest je hier recht zitten, je mond houden en goed opletten.
+right: Vroeger waren er in Kruisland aparte scholen voor jongens en voor meisjes. De jongensschool was gevestigd in het pand waar nu autogarage Van de Bosch auto&#039;s repareert aan de Roosendaalseweg. De meisjesschool was gevestigd aan de Langeweg.
+wrong: 
+author: dasja
+answer: A

@@ -1,0 +1,18 @@
+title: Harmonie
+published: 1
+body: Na de Tweede Wereldoorlog werd er in Dinteloord een harmonie opgericht. Hoe heette deze?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 5
+media: 1JrrQT8O2f
+A: Volharding
+B: Excelsior
+C: Semper Crescendo
+D: Amicitia
+hint: Een mooie toepasselijke naam zo net na de oorlog. Het betekent dat je je niet zomaar laat verslaan.
+right: Harmonie Volharding. Er was voor de oorlog al wel een fanfare. Die heette Excelsior. Na de oorlog werd deze fanfare samengevoegd met het oranjecomit&eacute; en zo ontstond in juli 1945 Volharding. Het eerste optreden was in december van dat jaar voor de intocht van Sinterklaas.
+wrong: 
+author: dasja
+answer: A

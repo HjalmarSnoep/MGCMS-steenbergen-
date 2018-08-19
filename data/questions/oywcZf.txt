@@ -1,0 +1,18 @@
+title: Nieuw in De Heen
+published: 1
+body: Wat kwam er in de 19e eeuw in De Heen dankzij de inwoners?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 2
+media: 44H8CRGOMv
+A: Een supermarkt
+B: Een school
+C: Een gemeenschapshuis
+D: Een kerk
+hint: Halleluja!
+right: Dat een klein dorp als De Heen een eigen parochie kreeg, was echt te danken aan de bewoners. Vanaf de stichting van het dorp in 1614 vielen de katholieken onder de Gummarusparochie van Steenbergen. Maar de inwoners wilden graag een eigen kerk aangezien het nog een hele reis was, te voet naar Steenbergen. In 1837 werd er een collecte gehouden onder de 320 katholieke inwoners. Dat leverde 1910 gulden op; een enorm bedrag voor die tijd. In hetzelfde jaar begon men aan de bouw van een kapel, die op 5 december door Monseigneur van Hooydonk ingewijd werd. Tien jaar later, in 1847, werd de kapel een echte parochiekerk
+wrong: 
+author: dasja
+answer: D

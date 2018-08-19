@@ -1,0 +1,18 @@
+title: Bedevaart
+published: 1
+body: Tussen 1930 en 1950 was de Welberg een bedevaartsoord. Waarom?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 6
+media: oBPa8HfT7Y
+A: Omdat hier de bron van de eeuwige jeugd was ontdekt
+B: Omdat de paus hier woonde
+C: Omdat Maria hier verschenen zou zijn
+D: Omdat de pastoor tranen van bloed huilde
+hint: Moeder aller moeders.
+right: Tussen 1930 en 1950 was de Welberg een bedevaartsoord. Gelovigen kwamen van heinde en verre om Janske Gorissen (1906-1960) te bezoeken. Deze vrouw beweerde dat Maria, de moeder van Jezus, aan haar verschenen was. Janske kreeg tal van visioenen en had ook stigmata. Dat zijn bloedende wonden die plotseling verschijnen. Velen geloofden dat Janske, die zichzelf het Bruidje van Jezus noemde, echt in contact stond met Maria en kwamen naar de Welberg om Maria en Janske te vereren.
+wrong: 
+author: dasja
+answer: C

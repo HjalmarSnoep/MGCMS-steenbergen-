@@ -1,0 +1,18 @@
+title: Rivier
+published: 1
+body: Hoe heet de rivier tussen Steenbergen en Dinteloord?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 5
+media: pVMsN8le37
+A: De Boomvaart
+B: De Dintel
+C: De Steenbergse Vliet
+D: De Mark
+hint: Vanuit de verte zie &#039;k &#039;t ligge
+right: Het water tussen Steenbergen en Dinteloord heet de Steenbergse Vliet. Nou ja, bij het Bovensas wordt het pas de Steenbergse Vliet. Daarvoor heet de watergang de Nieuwe Roosendaalse Vliet en bij het Belgische Wildert, waar zij ontspringt, heet zij de Wildertse Beek en de Kleine Aa. De Vliet eindigt bij het Benedensas waar zij het Volkerak instroomt. Tot de jaren zeventig van de twintigste eeuw was de Vliet belangrijk voor de beroepsvaart. Bedrijven vestigden zich langs het water voor de aan- en afvoer van grondstoffen en producten. Daarna werd vervoer van deze goederen over weg steeds belangrijker. Inmiddels is er helemaal geen beroepsvaart meer op de Vliet. Het is nu een natuurgebied en een watersportgebied.
+wrong: 
+author: dasja
+answer: C

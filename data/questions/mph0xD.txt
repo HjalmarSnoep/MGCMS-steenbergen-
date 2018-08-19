@@ -1,0 +1,18 @@
+title: Bos
+published: 1
+body: Hoe heet het bos van Nieuw-Vossemeer?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 3
+media: u6lsfZR3qc
+A: De Stelle
+B: Het Vossebos
+C: Bos van Merijntje
+D: Eendrachtbos
+hint: We kunnen wel stellen dat het een mooie naam is.
+right: Toen het Schelde-Rijnkanaal in de jaren &#039;60 werd aangelegd, werd een gebied aan de Zeeweg drooggelegd. Waar eerst schorren en slikken waren, is nu een dichtbegroeid bos vol leven. Het wordt onder meer bewoond door ree&euml;n en vossen. Het Stellebos is opgenomen in het Vossemeerse &#039;Ommetje&#039;, een wandelroute die leidt langs de mooiste plekjes van het dorp van Merijntje Gijzen. Een Stelle is trouwens een heuvel die door mensen is gemaakt. Hij ligt vaak in natte gebieden zoals schorren en is bedoeld als vluchtheuvel voor bijvoorbeeld schapen.
+wrong: 
+author: dasja
+answer: A

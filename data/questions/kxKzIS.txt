@@ -1,0 +1,18 @@
+title: Beroep
+published: 1
+body: Welk beroep had met de landbouw te maken?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 5
+media: cRvN2Uvzgo
+A: Smid
+B: Havenmeester
+C: Slager
+D: Onderwijzer
+hint: Het meeste werk in de landbouw gebeurde met de hand. Met een sikkel, zeis, handploeg enzovoort.
+right: De hoefsmid was nodig om de paarden te beslaan en de smid om de landbouwgereedschappen te maken en te onderhouden. Er waren ook nog rietdekkers die de daken van de huizen en schuren maakten en repareerden.
+wrong: 
+author: dasja
+answer: A

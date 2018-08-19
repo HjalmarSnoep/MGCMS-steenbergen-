@@ -1,0 +1,18 @@
+title: Rekening
+published: 1
+body: Wie betaalde een groot deel van de inrichting van de Welbergse Maria Kapel in 1933?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 6
+media: eNQ2rBOqcd
+A: Pastoor Ermen
+B: Janske Gorissen
+C: De inwoners van de Welberg
+D: Paus Pius X
+hint: Het Bruidje van Jezus
+right: Janse Gorissen (1906-1960), die zich het Bruidje van Jezus noemde, was van 1930 tot 1950 beroemd omdat Maria aan haar verschenen zou zijn. Zij had regelmatig visioenen en kreeg zelfs stigmata. Dat zijn bloedende wonden die plotseling verschijnen. De wonden ontstaan op de plaatsen waar de spijkers die Jezus aan het kruis nagelden zijn lichaam doorboorden. En op het hoofd waar Jezus de doornenkroon droeg op weg naar zijn kruisiging. Of Janske inderdaad Maria heeft gezien, zullen we waarschijnlijk nooit weten. Wel weten we dat er veel geld binnenkwam van al die bedevaartgangers. Toen in 1933 de kapel aan de Hoogstraat was gebouwd, betaalde Janske zelf het grootste deel van de inrichting.
+wrong: 
+author: dasja
+answer: B

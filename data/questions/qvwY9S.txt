@@ -1,0 +1,18 @@
+title: Tourclub Kruisland
+published: 1
+body: Elk jaar in juni organiseert Tourclub Kruislandse een sportief evenement. Wat is dit voor een evenement?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 4
+media: NN4CBLn2hh
+A: Kanotocht
+B: Wedstrijd koffer inpakken
+C: Hardlooptocht
+D: Fietstocht
+hint: Tourclub Kruisland is een fietsclub. Met dit evenement oefenen ze voor als ze een lekke band hebben.
+right: Hoewel TC Kruisland een fietsclub is organiseren ze ieder jaar de Biezenloop
+wrong: 
+author: dasja
+answer: C

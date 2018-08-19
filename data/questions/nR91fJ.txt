@@ -1,0 +1,18 @@
+title: Toneelvereniging
+published: 1
+body: Welke toneelvereniging bestaat nog in Nieuw-Vossemeer?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 3
+media: VmRj86yzZQ
+A: A.M. de Jongtoneel
+B: Festina Lente
+C: Orean
+D: Utile Dulci
+hint: De naam van de schrijver van Merijntje Gijzen werd ook de naam van deze toneelvereniging
+right: Er wordt al heel lang toneel gespeeld in Nieuw-Vossemeer. Aan het einde van de negentiende eeuw waren er twee toneelverenigingen
+wrong: 
+author: dasja
+answer: A

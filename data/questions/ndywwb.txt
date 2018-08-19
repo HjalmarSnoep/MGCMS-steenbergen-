@@ -1,0 +1,18 @@
+title: Oudste vereniging
+published: 1
+body: Wat is de oudste vereniging in Kruisland?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 4
+media: cwqJfI4mEU
+A: Voetbalvereniging SC. Kruisland
+B: Tennisvereniging KREGO
+C: Katholieke Bond voor Ouderen afdeling Kruisland
+D: Harmonie Sint Caecilia
+hint: Er zit nog steeds muziek in deze vereniging.
+right: In 1898 werd harmonie Sint Caecilia opgericht. Op 5 maart van dat jaar zette Pastoor A. van Genk als president van de vereniging zijn handtekening onder het eerste reglement. De harmonie bestond toen uit 26 leden. Het gemeentebestuur gaf toestemming om in een schoollokaal van de openbare school aan de Roosendaalseweg te repeteren.
+wrong: 
+author: dasja
+answer: D

@@ -1,0 +1,18 @@
+title: Ambachtsmuseum
+published: 1
+body: Op de markt van Kruisland staat een ambachtsmuseum. Hoe heet het museum?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 4
+media: kF0PXVIZxa
+A: De Rolle Hoffel
+B: Museum op de Mart
+C: De Holle Roffel
+D: Dorpsmuseum Kruisland
+hint: Je zou misschien eerder verwachten dat het een muziekmuseum is.
+right: Op de markt van Kruisland, in de voormalige Nederlands Hervormde kerk zit ambachtsmuseum De Holle Roffel. De naam van het museum komt van een holle roffel, een houtschaaf uit de 17e eeuw. Het museum bevat een verzameling ambachtelijke gereedschappen uit het begin van de 20e eeuw. De verzameling is opgezet door voormalig timmerman Dami Koevoets. Hij werkte bij Jacobs Timmerfabriek op het dorp, waar hij zijn groeiende collectie sinds 1991 onderbracht. Het pand werd echter gesloopt, waarna het museum onderdak vond in het Hervormde kerkje, dat in 2003 was onttrokken aan de eredienst. Het kerkje werd vervolgens gerestaureerd door vrijwilligers. In 2009 was de restauratie voltooid.
+wrong: 
+author: dasja
+answer: C

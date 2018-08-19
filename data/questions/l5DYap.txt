@@ -1,0 +1,18 @@
+title: &#039;Ons Huis&#039;
+published: 1
+body: Door wie werd &#039;Ons Huis&#039; in Dinteloord geschonken?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 5
+media: 27Jb1bEFQT
+A: Door de provincie
+B: Door Zweden
+C: Door de gemeente
+D: Door de inwoners van het dorp
+hint: V&aring;rt hus
+right: Doordat er bij de Watersnoodramd in 1953 heel veel gebouwen waren verwoest, werden er in Europese landen hulpacties gehouden. Het Zweedse kerkgenootschap schonk in 1954 een houten verenigingsgebouw. Het gebouw werd &#039;Ons Huis&#039; genoemd. In 2004 werd het Dorpshuis geopend en het gebouw gesloopt.
+wrong: 
+author: dasja
+answer: B

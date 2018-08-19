@@ -1,0 +1,18 @@
+title: Inkomsten in de winter
+published: 1
+body: Waarvan leefden veel Dinteloorders in de winter?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 5
+media: BnaLdURWBZ
+A: Van de handel
+B: Van de liefde
+C: Van de visserij
+D: Van hun spaargeld
+hint: Een varken in de tuin voor het vlees en een varken in de kluis voor de rest.
+right: De mensen leefden in de winter van het geld dat ze in de zomer verdiend hadden, want in de winter was er bijna geen werk. De mensen hadden vaak een eigen varken, dat ze slachtten en een tuintje om hun eigen groenten te kweken. Soms konden ze ergens een klusje doen, maar verder was er nauwelijks geld te verdienen.
+wrong: 
+author: dasja
+answer: D

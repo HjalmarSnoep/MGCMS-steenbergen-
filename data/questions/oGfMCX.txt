@@ -1,0 +1,18 @@
+title: Markt
+published: 1
+body: Wat voor markt werd een paar keer per jaar in Dinteloord gehouden?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 5
+media: x8KXjORhTz
+A: Jaarmarkt
+B: Paardenmarkt
+C: Biologische markt
+D: Rommelmarkt
+hint: De edele koopwaar werd verkocht door middel van het handje-klap systeem.
+right: De boeren gebruikten vroeger geen tractoren, maar paarden. Deze werden verkocht en gekocht op de paardenmarkt. Deze was een paar keer per jaar rondom de Kreek. De paardenmarkt was een groot feest voor iedereen. Het was te vergelijken met een kermis. Op een paardenmarkt werd vaak het handje-klap-systeem gebruikt. De koper noemt zijn prijs waarna de verkoper zijn, lagere, prijs noemt. Daarna is de koper weer aan de beurt. Bij elke beurt slaat de een in de hand van de ander. Totdat er overeenstemming is. Dan &#039;klappen&#039; ze niet de hand, maar schudden ze de hand.
+wrong: 
+author: dasja
+answer: B

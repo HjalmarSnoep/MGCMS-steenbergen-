@@ -1,0 +1,18 @@
+title: Sinds 1954
+published: 1
+body: Wat is er al sinds 1954 aan de Corneliusstraat in Welberg gevestigd?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 6
+media: AWC7fK8m16
+A: Bakkerij
+B: Kapsalon
+C: Boerderij
+D: Smederij
+hint: Spiegeltje spiegeltje aan de wand!
+right: Een kapsalon. Halverwege de jaren &#039;50 begon de Roosendaalse Adrie de Waal samen met zijn broer Rinie een dames- en herenkapsalon op de Welberg. De heren konden er zelfs een borreltje drinken tijdens de knipbeurt. Omdat er steeds minder winkels kwamen op de Welberg, ging kapper De Waal ook wat kruideniersartikelen verkopen. Ook het postkantoor was er gevestigd en werd gerund door de kapper. Tot 1976 kwamen er zelf telegrammen binnen die door de kapper zelf bezorgd werden. Hij was daarmee de laatste telegrambesteller van Steenbergen. Nadat de kapper stopte, heeft het pand een poosje leeggestaan voordat er weer een kapsalon zich vestigde
+wrong: 
+author: dasja
+answer: B

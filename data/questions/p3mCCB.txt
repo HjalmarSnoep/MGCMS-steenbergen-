@@ -1,0 +1,18 @@
+title: oorlogsmonument
+published: 1
+body: Waar vinden we dit oorlogsmonument?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 6
+media: DO5NJWKi6W
+A: Op de begraafplaats aan de Nassaulaan in Steenbergen
+B: Aan de Canadezenweg in de Welberg
+C: Op het oorlogskerkhof in Bergen op Zoom
+D: In de Kruislandse polder
+hint: Met zicht op de Corneliuskerk
+right: &#039;De Klok&#039;, zoals het monument in de volksmond wordt genoemd, vinden we aan de Canadezenweg in Welberg. De naam van de weg is al een verwijzing naar de Tweede Wereldoorlog. Hierlangs liep namelijk de route van de Canadese bevrijders in november 1944. Nadat hun eerdere aanvallen op Welberg na onverwacht felle Duitse tegenstand waren afgeslagen, trokken de Canadezen zich terug tot achter op de Welberg. Na de oorlog werd de Dwarsdijk ter eerbetoon omgedoopt tot Canadezenweg. Bij &#039;de Klok&#039; worden de oorlogsslachtoffers nog elk jaar begin november herdacht. De klok werd in 2002 geplaatst en sinds 2004 wordt er jaarlijks herdacht. Tijdens de herdenking wordt de klok geluid ter nagedachtenis aan de gevallen soldaten en aan de Welbergenaren die tijdens de zware gevechten om het leven kwamen. Hun namen staan op een plaquette bij de klok. In 2010 werd de eerste bronzen klok gestolen en is vermoedelijk omgesmolten. In 2011 werd een nieuw exemplaar geplaatst. Van ijzer dit keer aangezien daar geen interesse voor is bij dieven.
+wrong: 
+author: dasja
+answer: B

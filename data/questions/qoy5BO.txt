@@ -1,0 +1,18 @@
+title: Schaars product
+published: 1
+body: Welk schaars product werd er vanaf de 13e eeuw in het Oudland bij Welberg gewonnen?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 6
+media: uaPkNlUGca
+A: Goud
+B: Diamanten
+C: Zout
+D: Kolen
+hint: De aardappelen worden er wel een stuk smakelijker van.
+right: Het Oudland ligt op de Naad van Brabant. Van zandgrond gaat het hier over naar kleigrond. Sinds de dertiende eeuw werd er in dit gebied veen ontgonnen. Dit veen was ooit overspoeld door zout zeewater. Dat heet dan darink. Door de darink te verbranden werd het zout uit het veen gewonnen. Het proces waarbij zout uit veen wordt gehaald, heet moernering. Als je weet waar je naar moet kijken, kun je in het laagste deel van het Oudland, het Krabbenbos, nog steeds veenputjes vinden. Zout was in die eeuwen erg schaars. Je kunt je dus voorstellen dat Steenbergen een rijke handelsstad was door het zout.
+wrong: 
+author: dasja
+answer: C

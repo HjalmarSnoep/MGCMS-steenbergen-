@@ -1,0 +1,18 @@
+title: Op de Toren
+published: 1
+body: Wat staat er boven op de toren van het oude gemeentehuis van Dinteloord?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 5
+media: R4smAfYmfi
+A: Een zeepaardje
+B: Een windhaan
+C: Een klokkentoren
+D: Een heraut
+hint: Een verwijzing naar de tijd voordat Dinteloord was ingepolderd.
+right: Het is niet helemaal duidelijk, maar waarschijnlijk komt het windvaantje, een zeepaardje, van de oude toren van het gemeentehuis. Het heeft het oorlogsgeweld doorstaan en zou bijna 200 jaar oud zijn.
+wrong: 
+author: dasja
+answer: A

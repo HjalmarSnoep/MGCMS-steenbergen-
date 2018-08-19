@@ -1,0 +1,18 @@
+title: Molens
+published: 1
+body: In de stad Steenbergen hebben minstens drie molens gestaan. E&eacute;n daarvan stond aan de Molenweg. Wat was de naam van die molen?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 1
+media: 92qGNK1M3D
+A: Het Wit Kruis
+B: De Boetse Molen
+C: De Draai
+D: Rust Niet
+hint: Klinkt vermoeiend.
+right: Dit is eigenlijk een beetje een strikvraag. De molen heette namelijk &#039;Rust Niet&#039; maar hij was beter bekend als de &#039;Boetse Molen&#039;. Dat had te maken met de laatste eigenaar van de molen, Hendrik Boets. Hij kocht de molen in 1857. In 1912 is de korenmolen, zonder toestemming, gesloopt. De molen stond op een molenbelt (een verhoging) ongeveer ter hoogte van de maalderij van J. Trouw. Dat gebouw staat er nog steeds op de kop van de Molenweg aan de kant van de Wipstraat. De naam van de molen leeft voort. Er is daar namelijk vlakbij een woonwijk met de straatnaam Boetse Molen. Er waren nog twee molens in Steenbergen
+wrong: 
+author: dasja
+answer: D

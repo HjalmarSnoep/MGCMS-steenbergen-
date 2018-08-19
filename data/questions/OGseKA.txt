@@ -1,0 +1,18 @@
+title: Carnaval Nieuw-Vossemeer
+published: 1
+body: Hoe heet Nieuw-Vossemeer tijdens carnaval?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 3
+media: TgqwavdLQG
+A: &#039;t Vosse&#039;ol
+B: Oud-Vossemeer
+C: Foxlake
+D: Strienestad
+hint: In de carnavalsnaam van een plaats vind je vaak het plaatselijke dialect terug.
+right: Tegenwoordig vieren we eigenlijk alleen nog maar vier dagen feest tijdens carnaval, maar het is eigenlijk ontstaan uit een katholiek gebruik. Namelijk het &#039;Vasten&#039;. Dat was een periode van 40 dagen (!) waarin je weinig mocht eten. Genoeg om te kunnen werken en naar school te gaan, maar meer ook niet. Snoep en koek kwam er al helemaal niet in. De avond voor het Vasten begon, werd er natuurlijk nog even flink uit de koektrommel en snoeppot gegeten. Dat groeide in de loop der jaren uit tot het carnaval zoals we dat nu nog kennen. Vooral &#039;onder de grote rivieren&#039;, in Brabant en Limburg. Dat komt omdat daar meer katholieken woonden dan in de rest van het land. Tegenwoordig is carnaval een feest voor iedereen. De dorpen en steden waar het leutfeest gehouden wordt, doen dat onder een eigen carnavalsnaam. Zo viert Nieuw-Vossemeer sinds 1959 carnaval onder de naam &#039;t Vosse&#039;ol. Het eerste motto stamt uit 1965
+wrong: 
+author: dasja
+answer: A

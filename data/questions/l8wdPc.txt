@@ -1,0 +1,18 @@
+title: Oranje/zwart
+published: 1
+body: Voor welke Kruislandse vereniging staan de kleuren oranje/zwart centraal?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 4
+media: Vleix8frRU
+A: Stichting Karnaval Kruisland
+B: SC Kruisland
+C: Stichting Dorpsraad Kruisland
+D: Volleybalvereniging KREGO
+hint: Kruislandse leeuwen.
+right: Op 15 juni 1956 werd voetbalvereniging SC Kruisland opgericht. Het tenue van de voetballers bestaat uit een oranje shirt, zwarte broek en oranje kousen. Het sportpark van SC Kruisland ligt aan het Hoogje 1 in Kruisland.
+wrong: 
+author: dasja
+answer: B

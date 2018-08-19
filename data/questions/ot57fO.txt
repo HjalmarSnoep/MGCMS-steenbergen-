@@ -1,0 +1,18 @@
+title: SSSSST!
+published: 1
+body: Wat werd er tijdens de Tweede Wereldoorlog stiekem gemaakt in de vlasfabriek aan de Dinteloordseweg?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 1
+media: rduyFEnP7X
+A: Munitie
+B: Lijnolie
+C: Voedselbonnen
+D: Verzetskrantje
+hint: Het past goed in ieder dieet.
+right: Tijdens de Tweede Wereldoorlog werd er belangrijk werk verricht in de vlasfabriek die aan de Dinteloordseweg in Steenbergen stond. Bij sluiting werd vrijwilligers stiekem ingesloten. De hele avond en nacht verwerkten zij daar lijnolie. Dat wordt uit de zaden geperst die in de zaadbolletjes van het vlas zitten. Dat lijnzaad werd verdeeld onder de medewerkers van de fabriek die er thuis mee konden braden en bakken.
+wrong: 
+author: dasja
+answer: B

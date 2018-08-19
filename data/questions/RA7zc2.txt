@@ -1,0 +1,18 @@
+title: Ambassadeur
+published: 1
+body: Welk vogeltje leeft in de Kruislandse kreken en is ook de ambassadeur van de gemeente Steenbergen?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 4
+media: 0Kv0t2tSih
+A: Ooievaar
+B: IJsvogeltje
+C: Roerdomp
+D: Karekiet
+hint: Brrrrr.
+right: De gemeente Steenbergen heeft op 11 februari 2010 een samenwerkingsovereenkomst ondertekend met het Waterschap Brabantse Delta. Hierin is overeen gekomen dat bij de inrichting van de ecologische verbindingszones langs de Cruijslandse Kreken rekening wordt gehouden met de behoeften van de ijsvogel, zoals ruimte voor het maken van nestjes.
+wrong: 
+author: dasja
+answer: B

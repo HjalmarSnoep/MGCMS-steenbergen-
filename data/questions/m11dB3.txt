@@ -1,0 +1,18 @@
+title: Sukerpeej
+published: 1
+body: In Kruisland wordt veel dialect gesproken. Wat bedoelt men met het woord `sukerpeej`?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 4
+media: jV8o4EXojA
+A: Wortel
+B: Suikerbiet
+C: Suikerzoet
+D: Hoofdletter P
+hint: Uiteindelijk eindigen ze allemaal in de sukerfebriek.
+right: In 2014 is door Jos Ruyten het boek Cruyslaants dialect uitgebracht. In het boek staan alle dialectwoorden met uitleg, zo ook sukerpeej, wat suikerbiet betekent.
+wrong: 
+author: dasja
+answer: B

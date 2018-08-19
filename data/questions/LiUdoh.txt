@@ -1,0 +1,18 @@
+title: &#039;Derrie&#039;
+published: 1
+body: In Steenbergen wordt het woord &#039;derrie&#039; gebruikt. Waar komt het vandaan?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 1
+media: 1sfW0d8qYx
+A: Van zoute veengrond
+B: Uit het achterste van een koe
+C: Van modder
+D: Van gedverderrie
+hint: Het klinkt niet fris maar Steenbergen heeft er veel aan te danken.
+right: Derrie is de plaatselijke naam voor darink. Nu weet je nog niets zeker? Wel, darink is de naam van veen dat doordrenkt is met zout water. Van de 13e tot de 16 eeuw werd in de polders van Steenbergen heel veel darink gedolven, zeg maar afgegraven. Voordat de polders hier drooggelegd waren, was er namelijk jarenlang zou water overheen gespoeld dus het veen was doordrenkt met zout. En zout was een heel erg gewild product in die tijd waar veel geld mee verdiend werd. Zo ook in Steenbergen. Men was in die tijd dus echt niet vies van een beetje derrie.
+wrong: 
+author: dasja
+answer: A

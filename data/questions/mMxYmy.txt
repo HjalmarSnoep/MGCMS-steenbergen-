@@ -1,0 +1,18 @@
+title: Beroemde schrijver
+published: 1
+body: Welke beroemde schrijver, geboren in Nieuw-Vossemeer, heeft een paar jaar in De Heen gewoond?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 2
+media: iA4my6NKXn
+A: Anton Koolhaas
+B: Carry Slee
+C: A.M. de Jong
+D: Thea Beckman
+hint: Vooral in Nieuw-Vossemeer kom je zijn naam nog vaak tegen. Onder meer op het museum.
+right: De Merijntje Gijzen-boeken van schrijver A.M. (Adriaan) de Jong spelen zich voor een groot deel af in De Heen. De vader van de schrijver, Melchior de Jong, was borstelmaker en trok rond in de wijde omtrek om zijn borstels te verkopen. Het gezin verhuisde in 1894 van Nieuw-Vossemeer naar een arbeidershuisje in De Heen. Vader Melchior kreeg steeds meer moeite om met zijn vak zijn brood te verdienen en besloot in 1896 het geluk te zoeken als arbeider in Rotterdam. A.M. de Jong werd in 1943 vermoord door de Duitsers.
+wrong: 
+author: dasja
+answer: C

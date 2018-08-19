@@ -1,0 +1,18 @@
+title: HooilaND
+published: 1
+body: Kenmerkend voor de Kruislandse kreken zijn de vroegere oevers, waarop het hooi groeide voor het vee. Deze oevers lagen lager dan de percelen. Wat is een andere naam voor hooiland?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 4
+media: NosB01E0NX
+A: Eeuwkant
+B: Jaarkant
+C: Grasland
+D: Wei
+hint: Misschien verwijst de naam wel naar de honderden jaren dat deze hooilanden al bestaan
+right: Kenmerkend voor de kreken zijn de lager gelegen oevers waar vroeger gras groeide, maar ook onder kon lopen bij hoge waterstanden op de kreken. Een groot deel van deze oevers is opgehoogd voor de teelt van gewassen. Het waterschap is eind 2014 begonnen met het terugbrengen van deze oevers, waarbij de oevers langs de kreken als natuurgebied worden ingericht met een moeraszone, eventuele eeuwkanten en bloemrijk grasland.
+wrong: 
+author: dasja
+answer: A

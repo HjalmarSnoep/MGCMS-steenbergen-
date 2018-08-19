@@ -1,0 +1,18 @@
+title: Vlag
+published: 1
+body: Er bestaat in Kruisland een vlag met de kleuren groen, geel en rood. Bij welke vereniging hoort deze vlag?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 4
+media: oVEkWyAcr7
+A: Stichting Kruislands Karnaval
+B: Stichting Dorpsraad
+C: Sc Kruisland
+D: TV KREGO
+hint: Pompedurp.
+right: Tijdens carnaval wapperen de rood, geel, groene vlaggen met het logo van Stichting Kruislands Karnaval aan de gevels in Pompedurp, want zo heet Kruisland tijdens carnaval.
+wrong: 
+author: dasja
+answer: A

@@ -1,0 +1,18 @@
+title: Steen
+published: 1
+body: Waar komt het steen in de naam Steenbergen vandaan?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 1
+media: aZVovnTWDn
+A: Van het eerste stenen huis
+B: Van de harde bodem waarop de stad is gebouwd
+C: Van steengoed
+D: Van een bedrijf dat er ooit bakstenen maakte
+hint: In de tiende eeuw waren de meeste huizen niet meer dan hutjes van hout. Als er dan eens een van steen was, was dat heel bijzonder.
+right: Over de oorsprong van de naam Steenbergen zijn een aantal theorie&euml;n. De volgende bijvoorbeeld
+wrong: 
+author: dasja
+answer: A

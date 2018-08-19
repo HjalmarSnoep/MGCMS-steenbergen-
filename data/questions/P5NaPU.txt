@@ -1,0 +1,18 @@
+title: Sigaren
+published: 1
+body: Hoe heten de planten die langs de oevers van de kreken groeien en waar sigaren in groeien?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 4
+media: PIr1fYiTqw
+A: Wilgen
+B: Riet
+C: Sigaar-uit-eigen-Doosje
+D: Pinksterbloemen
+hint: Ze dekken er ook wel daken mee.
+right: De plant die je veel op de oever van de kreken kunt vinden is riet. Dit is een plant die graag groeit in een nat gebied, vandaar de oever van het water. Deze plant kan bloeien en dan zitten er bruine delen aan die lijken op een sigaar. Het zijn natuurlijk geen echte sigaren.
+wrong: 
+author: dasja
+answer: B

@@ -1,0 +1,18 @@
+title: Beeldje
+published: 1
+body: Van wie is het beeldje aan de gevel van het voormalige klooster in de Welberg?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 6
+media: di3YgltCNs
+A: Sint Fransiscus
+B: Heilige Cornelius
+C: Paus Pius X
+D: Janske Gorissen
+hint: Op 4 oktober denken we er nog aan.
+right: Links van de voormalige Corneliuskerk in de Welberg staat het voormalige klooster. Dit werd in 1934 gebouwd en betrokken door de zusters Franciscanessen uit Dongen. De nonnen van het klooster gaven tot begin jaren &#039;80 les op de naastgelegen Pius X-school. Een van de bekendste van hen, zuster Monique, bleef zelfs hoofd van de school tot 1998. Tot 1994 woonde zij ook nog in het klooster maar daarna is het verkocht. Eerst als particulier woonhuis en later als woonvoorziening. Aan de voorgevel van het voormalige klooster zie je een beeldje van de Heilige Franciscus; de patroonheilige van de Zuster Franciscanessen. Sint Franciscus is vooral populaire vanwege zijn liefde voor dieren. De dag na zijn overlijden, 4 oktober 1226, werd zijn lichaam in processie (een soort optocht) naar zijn laatste rustplaats gebracht. In 1929 werd die dag uitgeroepen tot Werelddierendag.
+wrong: 
+author: dasja
+answer: A

@@ -1,0 +1,18 @@
+title: Holle Roffel
+published: 1
+body: Het ambachts- en gereedschapsmuseum van Kruisland heet De Holle Roffel. Wat is een holle roffel?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 4
+media: tvMOfdpEsF
+A: Schoenleest
+B: Een muziekinstrument
+C: Houten schaaf
+D: Speelgoed
+hint: Zonder een holle roffel had Gepetto Pinokkio niet kunnen maken.
+right: De Holle Roffel is vernoemd naar een type schaaf uit de 17e eeuw. Een schaaf is een stuk gereedschap dat gebruikt wordt voor houtbewerking. Museum De Holle Roffel is opgericht in 1991. Het museum geeft een beeld van de Kruislandse industrie sinds het begin van de 20e eeuw. Je ziet er de ambachtelijke gereedschappen van beroepen als metselaar, loodgieter, timmerman, schoenmaker, kuiper, schilder, klompenmaker, rietdekker, steenhouwer en smid. Je vindt er trouwens ook allerlei andere leuke dingen zoals een sokkenbreimachine en een graanmolentje. Eigenaar van de collectie is Kruislander Dami Koevoets. Hij is van oorsprong timmerman. Hij begon rond 1980 met het verzamelen van gereedschappen.
+wrong: 
+author: dasja
+answer: C

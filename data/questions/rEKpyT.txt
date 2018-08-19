@@ -1,0 +1,18 @@
+title: Supermarkt
+published: 1
+body: De supermarkt in Kruisland heeft onder de bewoners een andere naam. Welke?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 4
+media: xhiCAOrc9r
+A: Het Coopje
+B: Super Schrauwen
+C: De Spek
+D: De Koopgoot
+hint: De vroegere bakker had de bijnaam van een slager.
+right: Vroeger woonde in het pand van de supermarkt COOP aan de Molenstraat in Kruisland bakker Piet de Jong. Zoals iedere Kruislander een bijnaam heeft, had deze man ook een bijnaam, hij heette De Spek. Toen de familie Schrauwen de winkel overnam noemde zij supermarkt COOP Schrauwen en de bakkerij De Spek. In de volksmond heet de supermarkt nu nog steeds De Spek.
+wrong: 
+author: dasja
+answer: C

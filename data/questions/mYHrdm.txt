@@ -1,0 +1,18 @@
+title: Ten Oosten van Kruisland
+published: 1
+body: Het gebied ten oosten van Kruisland, tussen het dorp en de Roosendaalse Vliet ziet er anders uit dan het poldergebied rondom Kruisland. Wat is kenmerkend aan dit gebied?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 4
+media: Yuna827bRf
+A: Boomkwekerijen
+B: Boomgaarden
+C: Visvijvers
+D: Aardappelland
+hint: Je kunt er appels met peren vergelijken.
+right: In het gebied ten oosten van Kruisland tref je een aantal boomgaarden aan. In deze boomgaarden worden vooral appels, maar ook peren geteeld. Een aantal van deze fruittelers verkoopt het fruit direct aan huis.
+wrong: 
+author: dasja
+answer: B

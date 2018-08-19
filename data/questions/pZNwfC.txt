@@ -1,0 +1,18 @@
+title: Prijzen
+published: 1
+body: Waarmee won kapsalon Jean-Pierre in Kruisland in de jaren &#039;90 van de twintigste eeuw verschillende prijzen?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 4
+media: bHCB86u8qe
+A: Permanenten
+B: Dameskappen
+C: De mooiste etalage
+D: Kleuren
+hint: De Kruislandse vrouwen lopen er altijd keurig gekapt bij.
+right: De Kruislandse Jeanne van Haarstudio Jean-Pierre heeft verschillende prijzen gewonnen met dameskappen. Zo werd zij Europees kampioen in 1991 in Zurich en Nederlands kampioen in 1994.
+wrong: 
+author: dasja
+answer: B

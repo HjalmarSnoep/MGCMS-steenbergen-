@@ -1,0 +1,18 @@
+title: Zwerfafval
+published: 1
+body: Wie nam eind jaren &#039;80 van de vorige eeuw het initiatief om zwerfafval in de polders van de gemeente Steenbergen op te ruimen?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 6
+media: a5pAvi0BjB
+A: Gemeente Steenbergen
+B: Wandelclubs
+C: Wildbeheereenheid Steenbergen
+D: Scholen
+hint: De jacht op het vuil werd geopend.
+right: Dat was de Wildbeheereenheid Steenbergen. De leden, jagers, die vaak in het buitengebied zijn, liepen regelmatig aan tegen zwerfvuil en afval dat er illegaal gestort was. Daarom namen zij het initiatief om &eacute;&eacute;n keer per jaar de krachten te bundelen en zoveel mogelijk vuil uit de polder te halen. In de loop der jaren werd het steeds populairder en gingen ook scholen, dorpsraden en de gemeente meedoen. Dankzij de Wildbeheereenheid worden er jaarlijks vele tonnen afval opgeruimd die daardoor geen schade meer kunnen doen aan de planten- en dierenwereld.
+wrong: 
+author: dasja
+answer: C

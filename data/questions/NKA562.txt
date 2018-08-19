@@ -1,0 +1,18 @@
+title: Letters
+published: 1
+body: Uit hoeveel letters bestaat het Pompedurps carnavalsmotto?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 4
+media: wojuU4pJDV
+A: Maakt niet uit
+B: 100
+C: 11
+D: 27,5
+hint: Je zou er gek van worden.
+right: Het is ieder jaar weer een uitdaging voor de Stichting Carnaval en Prins en gevolg om een nieuw moto te verzinnen. Het moto moet 11 letters bevatten. Het getal 11 staat met carnaval centraal. Het begint op de ellufde van de ellufde (11 november), er is een raad van 11 en het getal 11 staat bekend als het gekkengetal.
+wrong: 
+author: dasja
+answer: C

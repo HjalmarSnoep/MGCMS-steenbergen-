@@ -1,0 +1,18 @@
+title: Doorvechten
+published: 1
+body: Waarom bleven de Duitse soldaten in Welberg doorvechten terwijl ze tegenover een overmacht stonden en geen kans hadden om te winnen?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 6
+media: bWMBALZTU8
+A: Ze waren erg eigenwijs
+B: Ze wilden liever dood dan opgeven
+C: Ze wisten niet dat ze tegenover een overmacht stonden
+D: Ze hadden geen keus
+hint: Bevel is bevel!
+right: De Duitse soldaten waren net als de jongens uit Canada, alleen waren ze geboren in een ander land. Het verschil is dat de Duitse jongens in het leger moesten en dat ze in een gemeenschap opgroeiden die vechten en soldaat zijn verheerlijkten. Ze werden van kinds af aan geleerd dat ze beter waren dan andere mensen. Ze kwamen er al snel achter dat oorlog voeren niet zo heldhaftig was als dat ze dachten. Ze konden niet weg uit de oorlog, want als ze zouden wegrennen of stil blijven zitten, werden ze door hun officieren bedreigd en soms doodgeschoten.
+wrong: 
+author: dasja
+answer: D

@@ -1,0 +1,18 @@
+title: Beheerder De Roode Weel
+published: 1
+body: Wie is de beheerder van natuurgebied De Roode Weel?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 4
+media: EHNTKvGy84
+A: Staatsbosbeheer
+B: Natuurmonumenten
+C: Rijkswaterstaat
+D: Brabants Landschap
+hint: Natuurbeschermer van onze provincie.
+right: Het natuurgebied De Roode Weel is eigendom van en in beheer bij Brabants Landschap. Het gebied is niet toegankelijk, maar er staat een picknickbankje waar vanaf je een mooi uitzicht hebt over het water. In de zomer grazen er koeien van omliggende boerderijen. Zij onderhouden op deze manier het gebied.
+wrong: 
+author: dasja
+answer: D

@@ -1,0 +1,18 @@
+title: Beeld pastor van Schaik
+published: 1
+body: Waarom kreeg de Nieuw-Vossemeerse pastor Bertus van Schaik in 1989 dit beeld?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 3
+media: DRzLCjIxLS
+A: Omdat hij 25 jaar priester was
+B: Omdat hij jarig was
+C: Hij heeft het niet gekregen, maar zelf gemaakt
+D: Omdat hij 50 jaar priester was.
+hint: De pastor kreeg het beeld van de Nieuw-Vossemeerse gemeenschap. Van 1973 tot 2005 was hij daar pastor. Toen hij daar aan het werk ging, was hij 9 jaar priester.
+right: Toen pastor van Schaik in 1989 vijfentwintig jaar priester was, kreeg hij van de gemeenschap van Nieuw-Vossemeer een koperen beeld cadeau. Het beeldje is gemaakt door Ren&eacute; en Peter van der Krogt. Het stelt Jezus voor die brood deelt met de twee Emma&uuml;sgangers. Emma&uuml;s was een dorp in Judea op 11&frac12; kilometer van Jeruzalem. In de Bijbel staat dat Jezus daar op Eerste Paasdag aan twee discipelen is verschenen. In 2006 werd het beeld gestolen door metaaldieven. Wonder boven wonder werd het enkele weken later teruggevonden in een berm bij Roosendaal.
+wrong: 
+author: dasja
+answer: A

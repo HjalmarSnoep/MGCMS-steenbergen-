@@ -1,0 +1,18 @@
+title: Naam Jongensjeugdwerk
+published: 1
+body: Hoe heet het jongensjeugdwerk op de Welberg?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 6
+media: kW9996GmXh
+A: Jongerenstad
+B: Charles de Foucauldgilde
+C: De Obamaclub
+D: De John F. Kennedygroep
+hint: Een eerbetoon aan een vermoorde president.
+right: De John F. Kennedygroep. Het jongensjeugdwerk nam die naam aan na de moord op de Amerikaanse president in november 1963. Het betekent een nieuwe start van het jeugdwerk. Er is al jongensjeugdwerk in de Welberg sinds de komst van de Corneliuskerk in 1928. Sinds die tijd heeft het echter verschillende namen gehad. Zo heette het na de oorlog het Charles de Foucauldgilde.
+wrong: 
+author: dasja
+answer: D

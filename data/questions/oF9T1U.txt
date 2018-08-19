@@ -1,0 +1,18 @@
+title: Bombardement
+published: 1
+body: Waarom werd Welberg door de Canadezen gebombardeerd?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 6
+media: s1kQhyLBAa
+A: Het was een foutje
+B: De Canadezen vochten met de Duitsers
+C: Om de Duitsers te verjagen
+D: Dat is nooit gebeurd
+hint: Rigoureus maar effectief.
+right: De Canadezen werden op 1 november 1944 door de Duitsers uit Welberg verjaagd. De Canadezen wilden voor een volgende aanval geen risico lopen en besloten om alle plekken waar Duitsers konden zijn, kapot schieten. Door deze aanval werden bijna alle huizen langs de Welbergsedijk en de Hoogstraat vernietigd.
+wrong: 
+author: dasja
+answer: C

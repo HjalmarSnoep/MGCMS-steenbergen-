@@ -1,0 +1,18 @@
+title: Vroegere naam Dinteloord
+published: 1
+body: Hoe werd Dinteloord vroeger ook genoemd?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 5
+media: kMUw9vhFDL
+A: Prinsland
+B: Peejloofdurrep
+C: Philips Willemsdorp
+D: Dintelcity
+hint: Philips Willem, de stichter van Dinteloord, was een zoon van Prins Willem van Oranje. Hij was zelf dus ook een .....?
+right: Dinteloord werd vroeger ook wel Prinsland genoemd. De offici&euml;le naam was Dinteloord en Prinsenland. Het dorp bestond uit een vierkant met twee voorstraten en twee achterstraten, oost en west. In het midden was de Kreek. We noemen dat een schaakbordpatroon. Er werden in die tijd heel veel dorpen op dezelfde manier gebouwd.
+wrong: 
+author: dasja
+answer: A

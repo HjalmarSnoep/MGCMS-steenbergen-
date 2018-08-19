@@ -1,0 +1,18 @@
+title: Trekpaard
+published: 1
+body: Wat werd na 1920 de vervanger van het trekpaard?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 3
+media: 841FjabE0Q
+A: Tractor
+B: De landrover
+C: Het duwpaard
+D: De vrachtauto
+hint: Uiteindelijk kwamen er machines voor bijna al het werk op de boerderij.
+right: Rond 1920 en de jaren daarna kwam de mechanisatie van de landbouw op gang. Dat begon eenvoudig met een aardappelrooier die door paarden werd getrokken. Met de komst van de tractor ging alles nog gemakkelijker en kwamen er machines als de maaier en de zelfbinder. Uiteindelijk kwamen er machines voor bijna al het werk op de boerderij. Neem nu bijvoorbeeld graan. Grote graanoogsten gebeuren nu door combines waar het graan in wordt gedorst en de korrels opgevangen worden. De pakken stro worden automatisch bij elkaar gebonden en komen, klaar voor transport, de combine uit. Het zijn bijna rijdende fabriekjes. Vroeger gebeurden al die onderdelen met de hand. Je kunt je dus voorstellen dat door de komst van al die machines er veel minder menskracht nodig was. De arbeiders, de knechten en de meid, allemaal verdwenen ze uit het boerenbedrijf. Vooral na 1953 gingen de arbeiders massaal naar Rotterdam en fabrieken in de regio en verlieten zij het boerenland.
+wrong: 
+author: dasja
+answer: A

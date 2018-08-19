@@ -1,0 +1,18 @@
+title: Water
+published: 1
+body: Hoe heet het water dat door de Welberg loopt?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 6
+media: bWhKohF6Ld
+A: De Boomvaart
+B: De Vaert
+C: De Ligne
+D: De Vliet
+hint: Ze staan er voldoende, dus de naam is wel te verklaren.
+right: Door de Welberg loopt de Boomvaart, ook wel de Wouwsche Beek genoemd. De Boomvaart is bijna 7,5 kilometer lang en loopt van Roosendaal tot de haven van Steenbergen. Hij werd in 1643 aangelegd om het water van de hoger gelegen polders bij Wouw en Moerstraten sneller af te voeren en om het water in de grachten van Steenbergen op peil te houden. De Boomvaart geldt als de scheidslijn tussen het zand- en het kleigebied en is daarom ecologisch waardevol.
+wrong: 
+author: dasja
+answer: A

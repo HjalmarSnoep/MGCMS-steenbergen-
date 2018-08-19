@@ -1,0 +1,18 @@
+title: Ontstaan
+published: 1
+body: Wanneer is Dinteloord ontstaan?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 5
+media: DhzDQ6xYX8
+A: In 1605
+B: In 1818
+C: In 1985
+D: In 1506
+hint: In 2015 is het tien jaar geleden dat Dinteloord haar 400-jarig jubileum vierde.
+right: Dinteloord is in 1605 ontstaan. Er werd door zo&#039;n 6000 arbeiders een dijk van 18 kilometer lengte aangelegd. Al het werk werd met een schop en kruiwagen gedaan. Er waren maar een paar paarden en karren beschikbaar. Binnen enkele maanden moest het werk klaar zijn. In het voorjaar van 1605 werd begonnen en aan het einde van dat jaar, nog voor de najaarsstormen, was de polder omdijkt. De Oud-Prinslandse polder was geboren. Onmiddellijk daarna begon men met de aanleg van het Dorp Dinteloord.
+wrong: 
+author: dasja
+answer: A

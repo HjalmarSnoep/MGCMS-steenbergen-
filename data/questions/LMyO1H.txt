@@ -1,0 +1,18 @@
+title: Weg naar Steenbergen
+published: 1
+body: Hoe ging je vroeger naar Steenbergen?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 5
+media: C9Hg71dRbY
+A: Gewoon over de weg
+B: Met het vliegtuig
+C: Met een pontveer
+D: Via een brug
+hint: Tussen Steenbergen en Dinteloord ligt de Vliet.
+right: Vroeger kon je alleen via een pontveer naar Steenbergen. De veerbaas zette je over bij de Blauwe Sluis aan de Zuidzeedijk. Bij de Mariadijk had je het Nieuwe of Bootjesveer. Hier werd je met een kabel van de ene kant naar de andere kant getrokken. Pas in 1857 was er een tolbrug. Je moest dan betalen om naar de overkant te gaan.
+wrong: 
+author: dasja
+answer: C

@@ -1,0 +1,18 @@
+title: burgemeester
+published: 1
+body: Naar wie is de Burgemeester van Loonstraat in Steenbergen genoemd?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 1
+media: 7xbt3VtIoS
+A: Naar Burgemeester Derksen
+B: Naar Jacobus, Jacobus en Jacobus van Loon
+C: Naar de burgemeester van het plaatsje Loon
+D: Naar het stripfiguur Boon van Loon
+hint: Zo vader zo zoon. Zo kleinzoon.
+right: Het is een beetje een strikvraag want er zijn namelijk drie burgemeesters geweest met de achternaam Van Loon. De eerste was Jacobus Laurentius. Hij was van 1850 tot 1868 burgemeester van Steenbergen. Zijn zoon Jacobus Johannes was het van 1881 tot 1909. Hij was ook de oprichter van de suikerfabriek in Steenbergen. Toen hij stopte als burgemeester werd ook hij opgevolgd door zijn zoon
+wrong: 
+author: dasja
+answer: B

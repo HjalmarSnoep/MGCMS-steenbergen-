@@ -1,0 +1,18 @@
+title: tekenschool
+published: 1
+body: Dit gebouwtje aan de Visserstraat werd de tekenschool genoemd. Wat leerden de leerlingen hier?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 1
+media: 81t4n6Bxs8
+A: Technisch tekenen
+B: Grafische vormgeving
+C: Striptekenen
+D: Alles over het gevaar van teken
+hint: Het was een noodlokaal voor de Lagere Technische School.
+right: In 1960 werd in Steenbergen de technische school, LTS Sint Joseph, geopend. Hij stond aan de Molenweg waar nu VMBO &#039;t Ravelijn staat. Voordat het gebouw geopend werd, werd al begonnen met de lessen. Dat gebeurde in de zogenaamde tekenschool aan de Visserstraat die je op de foto ziet. Het was een beetje proppen, want vier klassen moesten het doen met twee lokalen.
+wrong: 
+author: dasja
+answer: A

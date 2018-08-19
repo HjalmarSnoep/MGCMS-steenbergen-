@@ -1,0 +1,18 @@
+title: Prins van Oranje
+published: 1
+body: Welke prins van Oranje stichtte het dorp De Heen?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 2
+media: lg7PpgFBdl
+A: Filips Willem van Oranje
+B: Willem van Oranje
+C: Willem Alexander
+D: Winkler Prins
+hint: Zijn broers waren Maurits en Frederik Hendrik. De broer die we zoeken is de enige die de naam van zijn vader droeg.
+right: Het jaar 1614 geldt officieel als het geboortejaar van De Heen. Maar ruim voor 1600 was er al een gors (nat land) dat &#039;Heen&#039; of &#039;Heenen&#039; werd genoemd. Er werd gejaagd en het vee kon er grazen. In 1607 gaf Filips Willem, de oudste zoon van Willem van Oranje, opdracht om het natte land rond De Heen te bedijken. In 1610 was het werk aan de polder klaar en kon het nieuwe land gebruikt worden voor de landbouw. Het dorp De Heen (of Hogediep) werd vier jaar later gesticht.
+wrong: 
+author: dasja
+answer: A

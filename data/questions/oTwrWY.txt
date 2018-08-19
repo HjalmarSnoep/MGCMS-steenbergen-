@@ -1,0 +1,18 @@
+title: Lening
+published: 1
+body: Waarvoor sloot het kerkbestuur van De Heen in 1865 een lening af?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 2
+media: 1GgDUqQhTB
+A: Voor de aanschaf van een orgel
+B: Voor de restauratie van de kerk
+C: Voor de aanleg van een begraafplaats
+D: Voor de bouw van een kapelletje
+hint: En daarmee was de laatste rustplaats ook geregeld.
+right: Tot halverwege de 19e eeuw had De Heen geen eigen begraafplaats; de mensen moesten hun doden begraven in Steenbergen. Het bestuur van de Rooms-katholieke parochie sloot in 1865 een lening af om de aanleg van een begraafplaats te kunnen betalen. De aanleg kostte 1415 gulden (674 euro). De toegangspoort en het kruisbeeld waren het duurst. Aan het begin van deze eeuw was het een beetje troosteloze bende op de begraafplaats. Gelukkig heeft een aantal vrijwilligers toen de koe bij de hoorns gevat en het kerkhof mooi opgeknapt.
+wrong: 
+author: dasja
+answer: C

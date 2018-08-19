@@ -1,0 +1,18 @@
+title: Suikerbieten
+published: 1
+body: Hoe werden de suikerbieten vroeger naar de fabriek vervoerd?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 5
+media: eEC7B6xar1
+A: Met een kruiwagen
+B: Met een schip
+C: Met de trein
+D: Met een koerier
+hint: Sinds 1999 herleeft de geschiedenis een beetje dankzij de jaarlijkse bietentocht. Via de Zeeuwse wateren naar Willemstad.
+right: De bieten werden per schip naar de fabriek vervoerd en ook met paard en wagen. Er stonden dan op de dijk lange rijen wagens te wachten tot ze aan de beurt waren om de bieten te lossen.
+wrong: 
+author: dasja
+answer: B

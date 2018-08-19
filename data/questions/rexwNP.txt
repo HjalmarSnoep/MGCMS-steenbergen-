@@ -1,0 +1,18 @@
+title: band
+published: 1
+body: De Heen heeft een eigen muziekband. Hoe heet die band?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 2
+media: CmzTQVMS09
+A: BenD&#039;1
+B: De Calimero&#039;s
+C: D&#039;n Dweilberg
+D: Heens en weers
+hint: Het is me d&#039;r eentje.
+right: De eigen band van De Heen heeft BenD&#039;1. Met die naam willen de muzikanten zeggen
+wrong: 
+author: dasja
+answer: A

@@ -1,0 +1,18 @@
+title: rooien
+published: 1
+body: Hoe rooide men vroeger de suikerbieten?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 1
+media: Wriu8OaWCe
+A: Met een bietenspa
+B: Met de blote hand
+C: Een hond groef ze uit
+D: Met een bietenrooier
+hint: Als suikerbiet kreeg je als je groot was een schop onder de kont.
+right: Tegenwoordig zie je grote machines wel acht rijen bieten tegelijkertijd uit de grond halen. Maar vroeger gingen de bieten stuk voor stuk uit de grond. Daar werd een bietenspa voor gebruikt. Een scherpe schop die &#039;makkelijk&#039; door de kleigrond heen kon. Wanneer de biet eruit was, werd met behulp van een bietentang het loof er vanaf gehaald. Vervolgens werd ze met een paard en wagen vervoerd. Soms rechtstreeks naar de fabriek, soms eerst nog naar een schip of tram die ze naar de fabriek bracht. Alles werd met de hand gelost en geladen. Tegenwoordig storten de vrachtauto&#039;s hun lading rechtstreeks in grote putten waarnade bieten met een loopband naar de fabriek getransporteerd worden. Er komt weinig zwaar handwerk meer bij aan te pas
+wrong: 
+author: dasja
+answer: A

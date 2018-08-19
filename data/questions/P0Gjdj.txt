@@ -1,0 +1,18 @@
+title: SSSST....
+published: 1
+body: De Kruislandse kreken worden gebruikt voor een sport, waarbij je vooral niet mag bewegen. Hoe heet deze sport?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 4
+media: 6EzjThIqjV
+A: Kano&euml;n
+B: Dammen
+C: Paalzitten
+D: Vissen
+hint: Soms doe je het achter het net.
+right: In de kreken kun je op verschillende plekken vissen. Hengelsportvereniging De Kruisweel heeft een aantal visstekken, vissteigers en bootjes waar vandaan je kunt vissen, zoals bij het Haantje en aan de De Baak.
+wrong: 
+author: dasja
+answer: D

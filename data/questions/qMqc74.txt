@@ -1,0 +1,18 @@
+title: Strienestad
+published: 1
+body: Carnaval is een katholiek feest dat in Europa al sinds 1200 gevierd wordt. Maar sinds wanneer wordt er in Strienestad carnaval gevierd?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 1
+media: gvescjXojy
+A: Sinds 1201
+B: Sinds 1886
+C: Sinds 1961
+D: Sinds 1111
+hint: In 2015 is het groot feest
+right: De eerste prins van Strienestad was Louis Vlamings. Hij was &eacute;&eacute;n van de oprichters van de carnaval en kreeg als naam Prins Strienius I. De Striene was een rivier die in vroeger tijden langs Steenbergen liep. Het zou deze rivier zijn waardoor de bekende meerminnen naar Steenbergen zwommen. In de15e eeuw verdween het riviertje maar de herinnering eraan is altijd blijven bestaan. Niet iedereen was er blij mee dat er carnaval in Strienestad werd gevierd. Sommigen dachten dat het een goddeloze bende zou worden. Het motto van het eerste jaar 1961 was &#039;En gaa d&#039;ok naor de maon&#039;.
+wrong: 
+author: dasja
+answer: C

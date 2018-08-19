@@ -1,0 +1,18 @@
+title: Mark Vlietkanaal
+published: 1
+body: Voor wie is het Mark Vlietkanaal bij Dinteloord gegraven?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 5
+media: m3INioVu55
+A: Voor de industriegebieden
+B: Voor de zoetwatergarnaal
+C: Voor de visverenigingen
+D: Voor de berging van overtollig water
+hint: Bevoorrading per weg, spoor of ?
+right: Het kanaal is gegraven in 1983. Het kanaal volgt de oude loop van de Roosendaalse Vliet. Het verbindt de rivier de Mark ten westen van Stampersgat, vanaf het punt waar hij Dintel heet, naar de Vliet. Het is gemaakt om de industriegebieden per boot te kunnen bereiken.
+wrong: 
+author: dasja
+answer: A

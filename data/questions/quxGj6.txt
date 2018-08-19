@@ -1,0 +1,18 @@
+title: Koperslager
+published: 1
+body: Wat voor werk deed een koperslager?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 3
+media: t6GS0xWWBB
+A: Hij maakte en herstelde koperen en metalen potten en pannen.
+B: Hij was loodgieter
+C: Hij was opkoper en slager
+D: Hij maakte klokken voor kerken
+hint: Vroeger waren de mensen zuinig op hun spullen. Ze gooiden niet zomaar wat weg. Ook een pan waar een gaatje in zat, werd niet weggegooid.
+right: Vroeger waren de mensen zuinig op hun spullen. Ze gooiden niet zomaar wat weg. Daar had je het geld ook niet voor. Bovendien waren veel spullen gemaakt van materialen die je k&oacute;n maken. Tegenwoordig wordt er veel van plastic gemaakt. Kapot is kapot. Zonde eigenlijk. Vroeger waren er dus ook veel mensen die voor hun beroep spullen maakten en repareerden. Dat waren ambachtslieden. De schoenmaker maakte en repareerde schoenen. De kleermaker deed hetzelfde met kleren. De gezinnen waren veel groter dan nu en dus was er heel veel werk. Een bijzonder beroep was de koperslager. Hij maakte en herstelde koperen en metalen potten en pannen. Ook een pan waar een gaatje in zat, werd niet weggegooid maar door de koperslager hersteld. Vaak verkocht de koperslager ook allerlei huishoudelijke artikelen en galanterie&euml;n. Dat is een duur woord voor handdoeken, tafellakens en servetten.
+wrong: 
+author: dasja
+answer: A

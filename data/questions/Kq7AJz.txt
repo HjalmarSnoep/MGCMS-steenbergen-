@@ -1,0 +1,18 @@
+title: Schelde-Rijnkanaal
+published: 1
+body: Tussen welke twee grote plaatsen loopt het Schelde-Rijnkanaal?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 3
+media: BtLD7kYu5C
+A: Antwerpen en Rotterdam
+B: Bergen op Zoom en Dordrecht
+C: Maastricht en Groningen
+D: Tholen en Zeebrugge
+hint: In de ene stad eet je patat en in de andere fritten.
+right: In 1963 besloten Nederland en Belgi&euml; dat er een goede scheepvaartverbinding tussen Rotterdam en Antwerpen moest komen. De meest logische route daarvoor was via de rivier De Eendracht die langs Nieuw-Vossemeer voer. Het startsein werd gegeven voor de aanleg van de zogenaamde Schelde-Rijnverbinding. Dit betekende veel voor Nieuw-Vossemeer. Met name omdat op drie punten over de Eendracht nieuwe bruggen moesten komen. Hierdoor werd de verbinding met het eiland Tholen veel beter. Tot die tijd gingen de Nieuw-Vossemeerders met een veerpont, het Nieuwe Veer, naar de overkant van De Eendracht. Er veranderde nog meer in die tijd. Na de Watersnoodramp van 1953 werd namelijk begonnen met het Deltaplan
+wrong: 
+author: dasja
+answer: A

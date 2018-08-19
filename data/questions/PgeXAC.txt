@@ -1,0 +1,18 @@
+title: Ontwikkeling
+published: 1
+body: Waardoor kwam de Welberg tot ontwikkeling?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 6
+media: 9pde6i9Cc4
+A: De zoutwinning
+B: De turfvaart
+C: De komst van de provinciale weg
+D: De bouw van de Corneliuskerk
+hint: In 1928 ging meneer pastoor zich er maar eens mee bemoeien.
+right: Bij de Welberg ligt het natuurgebied het Oudland, het oudste grondgebied van de gemeente Steenbergen. Welberg wordt al genoemd in oude documenten uit 1359, maar het dorp zoals we het nu kennen is nog niet zo oud. Pas nadat de Corneliuskerk in 1928 zijn deuren opende kwam Welberg echt tot ontwikkeling. De deuren van deze kerk gingen helaas in november 2014 weer op slot doordat er te weinig mensen nog naar de kerk gingen.
+wrong: 
+author: dasja
+answer: D

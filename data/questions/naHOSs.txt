@@ -1,0 +1,18 @@
+title: Kruislandse stichting
+published: 1
+body: Sinds 2004 is er een stichting opgericht die zich inzet voor de Kruislandse gemeenschap en een aanspreekbuis is voor de bewoners en de Gemeente Steenbergen. Welke stichting is dat?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 4
+media: p3yCngAof2
+A: Kruislandse belangen
+B: Anti Big Pig
+C: Stichting Dorpsraad Kruisland
+D: Sc Kruisland
+hint: Komt tijd, komt ?
+right: De Dorpsraad Kruisland wil de meningen van de Kruislandse bewoners vertegenwoordigen. Daarom denkt en praat zij namens hen mee over de ontwikkeling van beleid van de gemeente Steenbergen. Tenminste voor zover het Kruisland en haar buitengebied betreft. De Stichting Dorpsraad Kruisland doet dit al sinds 2004.
+wrong: 
+author: dasja
+answer: A

@@ -1,0 +1,18 @@
+title: Soort Stad
+published: 1
+body: Hoe noem je een stad die er uitzag zoals Steenbergen in de 18e eeuw?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 1
+media: WAbLsx3m5b
+A: Een wereldstad
+B: Een vestingstad
+C: Een spookstad
+D: Een waterstad
+hint: Dankzij haar gracht, muren en bastions kon Steenbergen zich verweren tegen de vijand. De stad was onneembaar.
+right: Tot 1827 was Steenbergen een echte vestingstad. Met een gracht en muren er omheen en op elke hoek een bastion. Het was een ontwerp van Menno van Coehoorn, een hele beroemde vestingbouwer. In 1827 werd de vesting van Steenbergen opgeheven. De muren die rond de stad stonden werden gesloopt en de stad kon zich verder uitbreiden. Dat ging niet heel hard trouwens. De Watertorenweg was een nieuwe weg en ook het Doktersdreefje. Het aantal inwoners ging wel gestaag omhoog. In 1795 waren er nog 3705; in 1849 waren dat er al 5980. Pas in 1941 kwam het eerste grote uitbreidingsplan voor het centrumgebied. Door de oorlog werd dit een paar jaar in de koelkast gezet, maar tussen 1948 en 1956 toch uitgevoerd. In de jaren &#039;80 kwam daar Steenbergen-Zuid bij en nog later Steenbergen Noordoost.
+wrong: 
+author: dasja
+answer: B

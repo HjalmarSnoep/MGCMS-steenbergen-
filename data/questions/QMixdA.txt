@@ -1,0 +1,18 @@
+title: Veldslag
+published: 1
+body: In 1583 vond er bij Steenbergen een grote veldslag plaats. Wie vochten er tegen elkaar?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 1
+media: hAUZren6lb
+A: De Duitsers tegen de Nederlanders
+B: De Spanjaarden tegen de Nederlanders
+C: De Galli&euml;rs tegen de Romeinen
+D: De Bietboeren tegen de Krabben
+hint: Ol&eacute;.
+right: Het was tijdens de Tachtigjarige Oorlog (1568-1648). Vanuit het zuiden kwam het Spaanse leger onder aanvoering van de hertog van Parma. Met meer dan 60.000 soldaten trokken zij naar Brabant. Dat nieuws bereikte Maarschalk Biron, de leider van het Staatse (Nederlandse) leger die op dat moment zijn kamp had bij Roosendaal. De gedachte aan dat enorme leger dat eraan kwam, beviel hem niks. Hij brak het kamp op en vertrok. In de polders tussen Klutsdorp en Steenbergen troffen beide legers elkaar op 16 juni 1583. Er werd tot de volgende dag gevochten op leven en dood, man tegen man. Maarschalk Biron raakte gewond en vele soldaten stierven. Maar het was moeilijk vechten in de polder buiten de stad vol slootjes en moerasgebieden. Uiteindelijk werd de strijd gestaakt zonder dat duidelijk was wie er nu gewonnen had.
+wrong: 
+author: dasja
+answer: B

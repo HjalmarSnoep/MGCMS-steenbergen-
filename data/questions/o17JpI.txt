@@ -1,0 +1,18 @@
+title: Vogel
+published: 1
+body: Noem een vogel die graag in de buurt van de Kruislandse kreken leeft?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 4
+media: IUkcPd5tqs
+A: Roerdomp
+B: Flamingo
+C: Ooievaar
+D: Pelikaan
+hint: Hij kan stokstijf stil staan met zijn snavel recht omhoog zodat hij helemaal opgaat in het riet rond hem heen.
+right: In het riet van de oevers langs de kreken verblijven verschillende dieren, zoals de roerdomp, de karekiet, rietgors, fuut, meerkoet en waterhoentje.
+wrong: 
+author: dasja
+answer: A

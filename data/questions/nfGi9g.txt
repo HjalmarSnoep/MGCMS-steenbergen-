@@ -1,0 +1,18 @@
+title: 358 wedstrijden
+published: 1
+body: Welke Kruislander speelde 358 wedstrijden in het eerste elftal van voetbalvereniging R.B.C. Roosendaal?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 4
+media: o6XX9wdRln
+A: Pierre van Hooydonk
+B: Koos Moerenhout
+C: Johan Cruijff
+D: Eric Hellemons
+hint: Als je weet dat Pierre van de Welberg komt, is het verder een inkoppertje.
+right: Eric Hellemons geboren op 2 juni 1971 in Kruisland en speelde tussen 1988 en 2005 bij R.B.C. Roosendaal. Hij speelde 358 wedstrijden in het eerste elftal en is daarmee de speler met het hoogste aantal gespeelde wedstrijden namens R.B.C. Roosendaal.
+wrong: 
+author: dasja
+answer: D

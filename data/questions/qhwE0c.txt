@@ -1,0 +1,18 @@
+title: Vervoer 2
+published: 1
+body: Wie trokken vroeger de karren van onder andere de Dinteloordse bakker Schilperoord op de foto?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 5
+media: uVJ0Yqs060
+A: Geiten
+B: Paarden
+C: Honden
+D: Koeien
+hint: Met de komst van de auto verdween dit gebruik. Maar de bijbehorende belasting bleef.
+right: Vroeger werden de karren soms getrokken door honden. Hier zie je een foto van bakker Manus Schilperoord die samen met zijn knecht Jan Huybrechts het verse brood bij de klanten gaat bezorgen. Eeuwenlang werden honden als lastdier gebruikt. De hondenkar werd gebruikt door de groenteboer, de kruidenier en allerlei rondtrekkende verkopers. Tot 1922 werden de brieven en postpakketjes met een hondenkar bezorgd. Sinds 1963 is de hondenkar verboden. Wat bleef was de hondenbelasting die betaald moet worden voor iedere hond in een huishouden.
+wrong: 
+author: dasja
+answer: C

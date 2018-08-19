@@ -1,0 +1,18 @@
+title: Bloemdijk
+published: 1
+body: De Groenedijk in Welberg wordt ook wel een bloemdijk genoemd. Waarom?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 6
+media: IbgrZG5EgH
+A: Omdat hij de vorm heeft van een bloem
+B: Omdat er veel bloemen bloeien
+C: Omdat er bloemkolen geteeld worden
+D: Omdat de bakker er zijn bloem haalt
+hint: Kijk mam, zelf geplukt!
+right: De Groenedijk is in 1444 aangelegd als waterkering. Dat betekent dat hij de polders moest beschermen van het water. Om diezelfde reden werd de dijk bekleed met klei. Klei absorbeert namelijk veel minder makkelijk water dan dat zand dat doet. Klei is heel rijk aan voedsel. Door begrazing door koeien en schapen is de dijk in de loop der tijd wat verschraald. Zo&#039;n verschraalde dijk heet ook wel een bloemdijk omdat juist bloemrijke kruiden het er uitstekend doen.
+wrong: 
+author: dasja
+answer: B

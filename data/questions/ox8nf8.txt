@@ -1,0 +1,18 @@
+title: Jongensschool
+published: 1
+body: Hoe heette de jongensschool van de Welberg?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 6
+media: 7o5SsMdUAw
+A: Pius X
+B: Heilige Corneliusschool
+C: Sint Antonius
+D: Maria-internaat
+hint: Als je iets kwijt bent, moet je tot hem bidden. Als je je beugel kwijt bent bijvoorbeeld, moet je zeggen
+right: De Welberg had al een openbare basisschool sinds 1913. Nou ja, openbaar
+wrong: 
+author: dasja
+answer: C

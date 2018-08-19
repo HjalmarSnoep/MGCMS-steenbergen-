@@ -1,0 +1,18 @@
+title: Paarden en rijtuigen
+published: 1
+body: Welk bedrijf in Kruisland vindt zijn oorsprong bij paarden en rijtuigen?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 4
+media: Ny2vAW4ZwF
+A: Pompedurpse schoenmaker
+B: Manege De Kreek
+C: Restaurant De Commerce
+D: Interieurverzorging Van der Velden
+hint: Eigenlijk is een rijtuig ook een soort woonkamer, maar dan op wielen.
+right: In 1921 begon Alexander van der Velden een zadelmakerij waarin hij als zadelmaker en rijtuigstoffeerder werkte. Hij trok met zijn werkzaamheden klanten van heinde en verre. Later is het bedrijf door zijn zoon Jack overgenomen. Het bedrijf is zich toen gaan richten op interieurverzorging met o.a. het stofferen van stoelen. Nu is het bedrijf in handen van Corn&eacute; van der Velden, de zoon van Jack.
+wrong: 
+author: dasja
+answer: D

@@ -1,0 +1,18 @@
+title: Meestoof
+published: 1
+body: In Nieuw-Vossemeer is er een straat die De Meestoof heet. Wat werd er in een meestoof verwerkt?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 3
+media: BXQG3vda3t
+A: Meekrap
+B: Uien
+C: Suikerbieten
+D: Koolmeesjes
+hint: Op bedrijventerrein Reinierpolder I staat het bedrijf Rubia Pigmenta Naturalia dat 100% natuurlijke kleurstoffen maakt van de wortels van deze plant.
+right: Een meekrapstoof of meestoof is een installatie waar de bijwortels van de meekrap worden gedroogd en verwerkt. De wortels werden gerooid en in de meestoof gedroogd en bewerkt totdat er alleen nog poeder over was. Dat poeder werd gebruikt als rode verfstof in de laken- en stoffenindustrie. Omdat een meestoof heel duur was, liet een groep boeren en landbouwers er samen &eacute;&eacute;n bouwen. Zij waren het ook die de meekrap op hun grond verbouwden. In Nieuw-Vossemeer waren er tussen 1800 en 1900 twee meestoven
+wrong: 
+author: dasja
+answer: A

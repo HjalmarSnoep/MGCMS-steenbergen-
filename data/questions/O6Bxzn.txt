@@ -1,0 +1,18 @@
+title: Nog een beroep
+published: 1
+body: De smid was heel belangrijk voor de landbouw. Welke beroep was dat nog meer?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 5
+media: qJXkuPt76j
+A: Slachter
+B: Nachtwaker
+C: Dokter
+D: Wagenmaker
+hint: Tegenwoordig zou je hem automonteur noemen.
+right: Vroeger konden de boeren niet zonder de wagenmaker. Hij maakte hele karren en wagens maar zorgde ook voor onderdelen wanneer er iets kapot ging. Net zoals tegenwoordig de automonteur eigenlijk. Maar wagenmakers maakten niet alleen grote karren maar ook kleinere dingen zoals kruiwagens of botermolens. Ook maakten ze wel eens een bakkerswagen waar een hond voor gespannen werd of een bierwagen waarmee de grote vaten bier beter vervoerd konden worden.
+wrong: 
+author: dasja
+answer: D

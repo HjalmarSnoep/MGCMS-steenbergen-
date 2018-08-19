@@ -1,0 +1,18 @@
+title: Muziekvereniging Volharding
+published: 1
+body: Hoe heette Muziekvereniging Volharding eerst?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 1
+media: CIwHqVv1tI
+A: IJver en Vruchtbaarheid
+B: Amicitia
+C: De Harmonie
+D: Halfvolharding
+hint: De leden van de muziekvereniging waren in overeenstemming.
+right: De beginjaren van Volharding zijn al heel lang geleden. Op 12 april 1844 besloten twintig Steenbergenaren om samen blaasmuziek te gaan maken. Ze kozen voor denaam &#039;Muzijkgezelschap de Harmonie&#039;. Dat was het blijkbaar niet helemaal want in 1853 werd het &#039;IJver en Vruchtbaarheid&#039;. Ook geen succes want tien jaar later kwam er weer een nieuwe naam
+wrong: 
+author: dasja
+answer: C

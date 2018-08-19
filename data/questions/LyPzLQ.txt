@@ -1,0 +1,18 @@
+title: Vogel
+published: 1
+body: In het bos bij Welberg kun je deze vogel vinden? Hoe heet hij?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 6
+media: NGxBVhtoib
+A: Kanariepiet
+B: Parkiet
+C: Wielewaal
+D: Heggenmus
+hint: Zing mee
+right: Het is de Wielewaal en hij broedt in De Eikelenberg, het bosgebied tussen de Hoogstraat en de Moerstraatseweg. Helaas wordt hij in Nederland en dus ook in onze gemeente steeds zeldzamer. Je zou denken dat je zo&#039;n kanariegele vogel makkelijk kunt zien, maar dat is helemaal niet waar. Ze verblijven namelijk meestal hoog in de bomen en wanneer je omhoog kijkt is dat geel juist heel moeilijk te zien. Slimme camouflage dus. Hij heeft wel een hele typische roep waar zelfs een liedje over is
+wrong: 
+author: dasja
+answer: C

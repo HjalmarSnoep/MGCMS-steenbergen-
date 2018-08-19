@@ -1,0 +1,18 @@
+title: New-Beat
+published: 1
+body: In 1990 kwam loonbedrijf Hack uit Kruisland op de markt met een zelf ontworpen machine, de New-Beat. Wat rooit men hiermee?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 4
+media: ozIl4DhUQN
+A: Aardappel
+B: Mais
+C: Suikerbieten
+D: Suikerklontjes
+hint: De oogst wordt vaak naar een zoete fabriek in Dinteloord gebracht.
+right: De New-Beat is ontwikkeld voor het rooien van suikerbieten. In 1990 werd de eerste New-Beat ontworpen en geproduceerd. In eerste instantie voor eigen gebruik, maar er volgde in 1991 toch een extra serie van twee machines gemaakt voor de verkoop. Jaren later is ook de New-Beat 2 voor eigen gebruik ontworpen. Daarmee wordt nog steeds hele seizoenen geoogst.
+wrong: 
+author: dasja
+answer: C

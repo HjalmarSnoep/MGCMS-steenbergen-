@@ -1,0 +1,18 @@
+title: Groenedijk
+published: 1
+body: Waarom werd de Welbergse Groenedijk in 1444 aangelegd?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 6
+media: dP0LACILCP
+A: Om het water tegen te houden
+B: Als natuurgebied
+C: Voor de schapen
+D: Als opslag van grond
+hint: Zonder de Groenedijk hadden we met kaplaarzen door de polder moeten gaan.
+right: De Groenedijk in Welberg werd in 1444 aangelegd om de polders Oud- en Nieuw Cromwiel ten zuiden van het dorp te beschermen tegen het water. Een dijk die met dit doel wordt aangelegd, wordt ook wel een waterkering genoemd. Die bescherming was wel nodig want de Oud Cromwielpolder, die in 1357 werd ingepolderd, ging in 1421 alweer verloren aan het water. Dit was het jaar van de St. Elisabethsvloed
+wrong: 
+author: dasja
+answer: A

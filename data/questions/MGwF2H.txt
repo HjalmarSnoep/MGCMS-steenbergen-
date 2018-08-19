@@ -1,0 +1,18 @@
+title: Jacobus Kerckers
+published: 1
+body: Wie was Jacobus Kerckers?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 6
+media: fFGdZwaDZe
+A: Klokkenluider van de Gummarus
+B: Pastoor op de Welberg
+C: Vader Jacob
+D: Gevangenisbewaarder
+hint: Er kon geen mevrouw Kerckers zijn.
+right: Op de hoek van de Corneliusstraat met de Laurentiusdijk staat een oude boerderij. Deze boerderij werd vroeger (tussen 1680 en 1707) gebruikt als Schuurkerk. Tot die tijd was het namelijk verboden om het katholieke geloof uit te oefenen. Daarna werd het weer toegestaan, maar nog steeds mondjesmaat. Zo mochten er wel weer kerkdiensten gegeven worden, maar dan wel in gebouwen die aan de buitenkant helemaal niet op kerken leken. Zodoende werd de schuur ingericht als kerk. De pastoor (Jacobus Kerckers) woonde in een huisje vlakbij de schuurkerk. Naar deze pastoor is nog een straat in Welberg vernoemd, al is de &#039;s&#039; van Kerckers daarin wel foutief komen te vervallen (Pastoor Kerckerstraat).
+wrong: 
+author: dasja
+answer: B

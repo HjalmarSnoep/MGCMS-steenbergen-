@@ -1,0 +1,18 @@
+title: Galgendijk
+published: 1
+body: Waarom wordt de Galgendijk zo genoemd?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 5
+media: sj6yQFg6BC
+A: Er stond vroeger een galg
+B: De Galgendijk lijkt op een galg
+C: Kinderen uit de buurt groeiden er op voor galg en rad
+D: Iedereen droeg er bretels (oftewel galgen)
+hint: Dieven wisten dat ze hier een flinke strop op konden lopen.
+right: De Galgendijk werd zo genoemd omdat er aan deze dijk een galg stond. Een galg was een stellage waaraan iemand die ter dood was veroordeeld werd opgehangen. Tot de dood er op volgde. De Dinteloordse galg was bedoeld om mensen die kwade dingen wilden doen te laten zien wat ze eventueel te wachten stond. Voor zover bekend zijn er in Dinteloord geen mensen opgehangen. Dus het heeft wel geholpen als afschrikmiddel.
+wrong: 
+author: dasja
+answer: A

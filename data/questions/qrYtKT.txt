@@ -1,0 +1,18 @@
+title: Kleur
+published: 1
+body: Vanaf de jaren &#039;30 werd Janske Gorissen van de Welberg vereerd omdat zij Maria zou zien. Welke kleur had haar kamer in de pastorie?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 6
+media: sYpeZ2LTDE
+A: Blauw
+B: Wit
+C: Roze
+D: Geel
+hint: Het is de kleur van Maria.
+right: In de jaren dat de Welberg bedevaartsoord was, waren niet alle dorpsgenoten daar even blij mee. Velen vonden het maar onzin. Maar anderzijds leverde de stroom bedevaartgangers die naar het dorp kwam, wel leuk wat geld op. Daardoor bleef Janske populair zelf toen haar voorspelling dat de Welberg ongeschonden uit de Tweede Wereldoorlog zou komen, allesbehalve uit kwam. Na de bevrijding kreeg zij een eigen kamertje in de pastorie (het gebouw rechts naast de kerk in Welberg). Dit was helemaal &#039;Maria&#039;-blauw geschilderd. In haar beddengoed en kleren werden de woorden &#039;Bruidje van Jezus&#039; geborduurd, want zo noemde zij zichzelf zich.
+wrong: 
+author: dasja
+answer: A

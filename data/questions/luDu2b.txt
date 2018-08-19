@@ -1,0 +1,18 @@
+title: Kermismaandag
+published: 1
+body: Welke traditie vindt er op de kermismaandag in Nieuw-Vossemeer plaats?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 3
+media: DNPm5yOFTj
+A: Prijsdansen
+B: Vossenjacht
+C: Eendjes vissen
+D: Kleiduiven schieten
+hint: In 2013 walste deze dag de Nationale Inventaris Immaterieel Erfgoed binnen.
+right: Al sinds het begin van de vorige eeuw doen de inwoners van Nieuw-Vossemeer aan prijsdansen. Het prijsdansen is altijd op de maandag van de jaarlijkse kermis. Op deze dag gaan de inwoners van het dorp niet naar hun werk of naar school, maar naar het caf&eacute;. Om 9.00 uur in de ochtend begint het prijsdansen waarna de deelnemers van caf&eacute; naar caf&eacute; trekken. De bedoeling van de wedstrijd is dat zij zoveel mogelijk kegeltjes op de vloer weten te omzeilen. En dat wordt gedurende de dag steeds lastiger. Gezelligheid is troef
+wrong: 
+author: dasja
+answer: A

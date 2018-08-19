@@ -1,0 +1,18 @@
+title: Gehuchten
+published: 1
+body: Rond Kruisland liggen acht gehuchten. Wat is een gehucht?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 4
+media: wYHsorJaMt
+A: Een caf&eacute;
+B: Een kleine woonplaats
+C: Een kreek
+D: Een kruis
+hint: Het woord stamt af van het woord gehofte, een verzamelnaam voor alles wat bij een hoeve hoort.
+right: Een gehucht is een plek waar meerdere mensen bij elkaar wonen, maar dat kleiner is dan een dorp. Vaak ontstonden gehuchten rond alleenstaande boerderijen. De families die daar woonden gaven dan toestemming om op hun grond een of meerdere nieuwe huizen te zetten. Die werden vaak gebouwd door familieleden van die boer. Vaak hadden de gehuchten een kapel. Rond Kruisland ligt een heel groot poldergebied dus het is niet zo vreemd dat daar heel veel gehuchten ontstonden. De acht gehuchten zijn
+wrong: 
+author: dasja
+answer: B
