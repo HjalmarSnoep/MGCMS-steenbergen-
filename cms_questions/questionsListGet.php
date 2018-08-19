@@ -4,6 +4,9 @@
 $path_to_data="../data";
 $dir_content=array();
 
+$current_user="nobody";
+if(isset($_SERVER['PHP_AUTH_USER'])) $current_user=$_SERVER['PHP_AUTH_USER'];
+
 // get the directory and save all entries in an array!
 $dir=$path_to_data.'/questions';
 if ($handle = opendir($dir)) {
@@ -75,7 +78,7 @@ for($i=0;$i<$nr_of_questions;$i++)
 		{
 			// if I'm not the owner..
 			$owner=file_get_contents($lock_name);
-			if(strpos($owner, $_SERVER['PHP_AUTH_USER']) !== FALSE)
+			if(strpos($owner, $current_user) !== FALSE)
 			{
 				// it's the same owner.
 				//$locked=true;
@@ -160,7 +163,11 @@ for($i=0;$i<$nr_of_questions;$i++)
 	$out_str.="},".$lb;
 }
 $out_str = substr_replace($out_str ,"",-1); // remove last comma!
-
 $out_str.="];".$lb;
 echo($out_str);
+
+// include the category names!
 ?>
+var tags_json='<?php echo(file_get_contents("../data/tags/tags.json"));
+	?>';
+var category_names=JSON.parse(tags_json);

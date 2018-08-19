@@ -7,6 +7,9 @@ $id="";
 if(isset($_GET["id"])) $id=preg_replace("/[^a-zA-Z0-9]/", "", $_GET["id"]); // clean id in ONLY alphanumeric
 //echo("id=".$id);
 
+$current_user="nobody";
+if(isset($_SERVER['PHP_AUTH_USER'])) $current_user=$_SERVER['PHP_AUTH_USER'];
+
 $path_to_data="../data";
 
 $new_lock=false;
@@ -33,7 +36,7 @@ else
 		}
 		// else, look at the lock itself, it only contains a string with the owner!
 		$owner=file_get_contents($lock_name);
-		if(strpos($owner, $_SERVER['PHP_AUTH_USER']) !== FALSE)
+		if(strpos($owner, $current_user) !== FALSE)
 		{
 			// it's the same owner.
 			$new_lock=true;
@@ -46,7 +49,7 @@ if($new_lock==true)
 	// create a new lock file containing this owner!
 	// or just touch the lock..
 	$lock_name=$path_to_data."/locks/".$id.".txt";
-	file_put_contents ($lock_name,$_SERVER['PHP_AUTH_USER']); 
+	file_put_contents ($lock_name,$current_user); 
 }
 
 if($id=="")

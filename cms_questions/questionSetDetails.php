@@ -92,7 +92,6 @@ foreach($fields as $f)
 			case "date": 
 				$cleaned_input[$f]=preg_replace("/[^0-9:-\s]/", "", $_POST[$f]); // numbers space, : and -
 			break;
-			case "cat": 
 			case "city": 
 			case "bricks": 
 			case "hintcost": 
@@ -149,7 +148,10 @@ foreach($fields as $f)
 				 
 			break;
 			case "author":
-				$cleaned_input[$f]=$_SERVER['PHP_AUTH_USER'];
+				if(isset($_SERVER['PHP_AUTH_USER']))
+					$cleaned_input[$f]=$_SERVER['PHP_AUTH_USER'];
+				else
+					$cleaned_input[$f]="";
 			break;
 			case "date":
 				// that's ok, that's filemtime

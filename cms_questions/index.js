@@ -2,11 +2,16 @@ var sortLabel="";
 var sortOrder="normal";
 var lastLabel="foo";
 
-var category_names=["none","Historie","Bedrijven","Maatschappij","Natuur"];
+// category_names set through questionsListGet.php taken from tags.json in data/tags!
 var city_names=["none","Steenbergen","De Heen","Nieuw-Vossemeer","Kruisland","Dinteloord","Welberg"];
 var filters={};
 filters.city=0;
-filters.category=0;
+filters.category=[];
+function addToFilter(what)
+{
+	document.getElementById("category").value=what;
+	
+}
 function showQuestions()
 {
 	var html_string="";
@@ -29,7 +34,14 @@ function showQuestions()
 		var result_count=0;
 		for(i=0;i<questions.length;i++)
 		{
-			if((filters.city==0 || filters.city==questions[i].city) && (filters.category==0 || filters.category==questions[i].cat))
+			var filtered_in_by_category=true;
+			for(var f=0;f<filters.category.length;f++)
+			{
+				//console.log("satisfy filter "+filters.category[f]+"?");
+				if(questions[i].cat.indexOf(filters.category[f])==-1) filtered_in_by_category=false;
+			}
+			if(filters.category.length==0) filtered_in_by_category=true;
+			if((filters.city==0 || filters.city==questions[i].city) && filtered_in_by_category)
 			{
 				result_count++;
 				str+="<tr>";
@@ -41,7 +53,19 @@ function showQuestions()
 				else
 					str+="<td>...</td>";
 					
-				str+="<td>"+category_names[questions[i].cat]+"</td>";
+				str+="<td>";
+				var cat=questions[i].cat.split(" ");
+				for( var c=0;c<cat.length;c++)
+				{
+					for(var p=0;p<category_names.length;p++)
+					{
+						if(category_names[p].id==cat[c])
+						{
+							str+=category_names[p].label+"("+category_names[p].id+") ";
+						}
+					}
+				}
+				str+="</td>";
 				str+="<td>"+city_names[questions[i].city]+"</td>";
 				str+="<td>"+questions[i].date+"</td>";
 				str+="<td>"+questions[i].author+"</td>";
@@ -162,7 +186,8 @@ function setFilterCity()
 function setFilterCategory()
 {
   var myselect = document.getElementById("category");
-  filters.category=myselect.options[myselect.selectedIndex].value;
+  filters.category=myselect.value.split(" ");
+  console.log(filters.category);
   showQuestions();
 }
 function initInterface()
@@ -175,14 +200,14 @@ function initInterface()
 		html+='<option value="'+i+'">'+city_names[i]+'</option>';
 	html+='</select>';
 	html+=' &nbsp; ';
-	html+=' filter-category: <select id="category" onChange="setFilterCategory()">';
-	for(i=0;i<category_names.length;i++)
-		html+='<option value="'+i+'">'+category_names[i]+'</option>';
-	html+='</select>';
+	html+=' filter-category: <input id="category" onChange="setFilterCategory()" onUpdate="setFilterCategory()">';
+	html+='</input>';
 //	html+='search: <input type="search" name="search">';
 	html+='</span>';
 	
 	$("#interface").html(html).css("background-color","rgba(0,0,0,0.1)").css("padding","5px").css("overflow","hidden"); // this last overflow makes it contain the filters. see http://pageaffairs.com/notebook/containing-floats
+	
+	document.getElementById("category").addEventListener("keyup",setFilterCategory);
 }
 
 $(document).ready(function() {

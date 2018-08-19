@@ -14,8 +14,50 @@ header('Content-Type: text/html; charset=utf-8'); // this is needed to get speci
 	<style>
 			body{	
 				font-family: sans-serif;
-				
 			}
+			
+			.tags{
+				width: 427px;
+				padding: 0 5px 0 0;
+				margin: 0;
+				border: 1px solid #eee;
+				cursor: text;
+				font: normal 14px sans-serif;
+				color: #555;
+				background: #fff;
+				min-height: 15px;
+				line-height: 20px;
+			}
+			.tags>span{
+					display: inline-block;
+					padding-left: 5px;
+					padding-right: 5px;
+					margin-left: 5px;
+					color: #46799b;
+					background: #e0eaf1;
+					white-space: nowrap;
+					overflow: hidden;
+					cursor: pointer;
+					border-radius: 2px 0 0 2px;
+			}
+			.button{
+				background:    #46799b;
+				background:    -webkit-linear-gradient(#46799b, #666666);
+				background:    linear-gradient(#46799b, #666666);
+				border-radius: 2px;
+				padding:       2px 4px;
+				color:         #fff;
+				display:       inline-block;
+				text-align:    center;
+				text-shadow:   1px 1px #000000;
+			    cursor: pointer;
+				user-select: none;
+			}
+			.button:hover{
+				background:    #46799b;
+				background:    -webkit-linear-gradient(#46799b, #1E62D0);
+				background:    linear-gradient(#46799b, #1E62D0);
+			}		
 			table,th,td
 			{
 				border: none;
@@ -155,7 +197,7 @@ header('Content-Type: text/html; charset=utf-8'); // this is needed to get speci
 				ctrl.innerHTML=''+
 					'Nieuw bestand uploaden:<br><div style="background-color: rgba(0,0,0,0.5);"><input type="file" name="media_upload" id="media_upload" accept="image/*"></div><br>'+
 					'of<br><br>'+
-					'<a href="javascript:open_search_window();">Bestaande Media</a> of youtube-url:<br><input size="50" id="media_url" type="url" name="media-url" value="'+set_url+'"><br>'+
+					'<a href="javascript:open_search_window();">Bestaande Media</a> of youtube-url:<br><input size="50" id="media_url" type="text" name="media-url" value="'+set_url+'"><br>'+
 					'<button data-id="update_media"  data-option="'+media_field+'" type="button" onClick="handleButtons(this);">Show media</button>'; // not supported yet!
 			}else
 			{
@@ -265,6 +307,9 @@ header('Content-Type: text/html; charset=utf-8'); // this is needed to get speci
 			console.log("you clicked a button! cmd: "+cmd + ", tgt: "+tgt);
 			switch(cmd)
 			{
+				case "add_tag":
+					console.log("add_tag");
+				break;
 				case "update_media":
 //					window.alert("you clicked update Preview!");
 					updateMedia(tgt);
@@ -503,11 +548,10 @@ header('Content-Type: text/html; charset=utf-8'); // this is needed to get speci
 			}
 			
 			// is there a cat?
-			var e = document.getElementById("cat");
-			selectedValue = e.options[e.selectedIndex].value;
-			if(selectedValue=="0")
+			var selectedValue = question_details.cat;
+			if(selectedValue=="" || selectedValue=="0")
 			{
-				window.alert("Er is geen categorie geselecteerd. Dit is goed, maar de vraag zal niet worden weergegeven.");
+				window.alert("Er is geen categorie geselecteerd. Dit is goed, maar de vraag zal nooit worden weergegeven.");
 			}
 			return true;
 		}
@@ -529,6 +573,7 @@ header('Content-Type: text/html; charset=utf-8'); // this is needed to get speci
 			addHidden(frm,"C",document.getElementById("antw_C").innerHTML);
 			addHidden(frm,"D",document.getElementById("antw_D").innerHTML);
 			addHidden(frm,"hint",document.getElementById("hint").innerHTML);
+			addHidden(frm,"cat",question_details.cat);
 			var selectedValue="";
 			var radios = document.getElementsByName("answer");
 			for(var i = 0; i < radios.length; i++) {
@@ -593,28 +638,80 @@ header('Content-Type: text/html; charset=utf-8'); // this is needed to get speci
 </tr>
 
 <tr>
-<td>Categorie:</td><td></td>
-<td><select name="cat" id="cat">
+<td>Tags:</td><td></td>
+<td>
 <script>
-var i;
-var category_names=["none","Historie","Bedrijven","Maatschappij","Natuur"];
+	var tags_json='<?php echo(file_get_contents("../data/tags/tags.json"));
+	?>';
 
-for(i=0;i<category_names.length;i++)
-{
-	if(question_details.cat=="" || question_details.cat===undefined) question_details.cat=0;
-	else
-		question_details.cat=parseInt(question_details.cat);
-	var sel="";
-	if(i==question_details.cat) sel=" selected ";
-	if(i==0)
+	var category_names=JSON.parse(tags_json);
+	document.write('<div id="cat" class="tags" name="cat">');
+	document.write('</div>');
+	document.write('<select id="select_tag" type="text">');
+	for(var i=0;i<category_names.length;i++)
 	{
-		document.write('<option value="'+i+'"'+sel+'>geef een categorie aan</option>');
-	}else
-	{
-		document.write('<option value="'+i+'"'+sel+'>'+category_names[i]+'</option>');
+		document.write('<option value="'+category_names[i].id+'">');
+		document.write(category_names[i].label);
+		document.write('</option>');
 	}
-}
+	document.write('</select> ');
+	document.write('<div class="button" onClick="addTag();">Toevoegen</div>');
+	showTags();
+	
+	function getTagLabelFromId(id)
+	{
+		for(var i=0;i<category_names.length;i++)
+		{
+			if(category_names[i].id==id)return category_names[i].label;
+		}
+		return "no-label";
+	}
+	function showTags()
+	{
+		var str="";
+		var cat=question_details.cat.split(" "); // sdf9u34,sdf8g,sdf8g,df89g,sdf97g // id's!
+		for(var i=0;i<cat.length;i++)
+		{
+			if(cat[i]!="")
+				str+='<span onClick=\'deleteTag("'+cat[i]+'");\'>'+cat[i]+' - ('+getTagLabelFromId(cat[i])+')</span>';
+		}
+		console.log("str: "+str)
+			document.getElementById("cat").innerHTML=str;
+	}
+	function addTag()
+	{
+		var sel=document.getElementById("select_tag");
+		var what=sel.options[sel.selectedIndex].value;
+		if(question_details.cat.indexOf(what)!=-1)
+		{
+			window.alert("tag "+what+" exists");
+		}else{
+			question_details.cat+=" "+what;
+			showTags();
+		}
+		
+		console.log("add tag: "+what);
+	}
+	function deleteTag(id)
+	{
+		console.log("delete tag '"+id+"'");
+		console.log("from '"+question_details.cat+"'");
+		if(question_details.cat.indexOf(id)==-1)
+		{
+			console.log(question_details.cat+" does not contain "+id);
+			window.alert("tag "+id+" not found");
+		}else{
+			question_details.cat=question_details.cat.split(id).join("");
+			question_details.cat=question_details.cat.split("   ").join(" ");
+			question_details.cat=question_details.cat.split("  ").join(" ");
+			question_details.cat=question_details.cat.replace(/ +$/,'');
+			showTags();
+		}
+	}
+</script>
 
+
+<script>
 // LOCKING
 if(question_details.locked==true)
 {
@@ -625,11 +722,8 @@ if(question_details.locked==true)
 }
 
 </script>
-</select></td>
-<td><div class="help" id="cat_help">Kies een categorie: Historie
-- Bedrijven
-- Maatschappij
-- Natuur
+</td>
+<td><div class="help" id="cat_help">Klik op tags om ze weg te halen, kies een tag en kies toevoegen om er een toe te voegen. Tags kun je creeeren en beheren in het tags menu item in het CMS.
 </div></td>
 </tr>
 
