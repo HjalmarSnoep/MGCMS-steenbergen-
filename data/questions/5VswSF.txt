@@ -1,0 +1,18 @@
+title: Werk
+published: 1
+body: Waar werkten de meeste mensen uit Dinteloord honderd jaar geleden?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 5
+media: crPopD9SQp
+A: Op het land
+B: In kantoren
+C: In fabrieken
+D: In de visserij
+hint: Dinteloordse kinderen moesten nogal eens spijbelen van hun ouders. Met name in de oogstmaanden.
+right: De boeren werkten op hun land. In het seizoen werkten daar ook veel landarbeiders. De mannen, vrouwen en ook kinderen moesten meehelpen om de gewassen te oogsten in de zware kleigrond. Vaak spijbelden de kinderen van school omdat ze mee moesten helpen op het land om geld te verdienen.
+wrong: 
+author: dasja
+answer: A

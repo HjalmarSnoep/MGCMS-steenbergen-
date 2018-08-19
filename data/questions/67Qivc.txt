@@ -1,0 +1,18 @@
+title: Naam Katholieke kerk
+published: 1
+body: Wat is de naam van de katholieke kerk in Nieuw-Vossemeer?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 3
+media: VElaiivFm3
+A: Heilige Joannes de Doperkerk
+B: Bernully&#039;s kerk
+C: Rietkreekkerk
+D: Heilig Hartkerk
+hint: Het is een gewoonte om kerken naar katholieke heiligen te vernoemen.
+right: Op 15 april 1848 werd Pastoor Bernully de pastoor van Nieuw-Vossemeer. Het was een harde werker. Hij deed veel voor de parochie. Ook besteedde hij veel aandacht aan de armen en aan het onderwijs. De kerk was nog niet zo oud toen pastoor Bernully er ging werken. Het gebouw stond er sinds 1842 maar werd niet zo goed onderhouden waardoor het in verval raakte. Ook was hij te klein doordat er steeds meer mensen naar de kerk gingen. Daarom zorgde Bernully dat er een nieuwe kerk werd gebouwd. Die kerk werd de Joannes de Doperkerk genoemd en staat er nog steeds. Een klein stukje van het oude kerkje is er ook nog. Het wordt gebruikt als muur van de pastorietuin.
+wrong: 
+author: dasja
+answer: A

@@ -1,0 +1,18 @@
+title: nieuwe fabriek
+published: 1
+body: In de 19e eeuw kreeg Steenbergen een nieuwe fabriek. Wat kwam er vandaan?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 1
+media: KVWy4pIkko
+A: Suiker
+B: Bakstenen
+C: Auto&rsquo;s
+D: Koekjes
+hint: Steenbergen werd er een stuk zoeter door.
+right: In de negentiende eeuw werd er veel geld verdiend dankzij meekrap. Van de wortels van deze plant werd rode kleurstof gemaakt voor textiel en wol. Toen deze stof kunstmatig gemaakt kon worden, was het gedaan met de meekrapindustrie. Voor Steenbergen niet direct een groot probleem want inmiddels was de opmars van de suikerbiet begonnen. In 1871 kreeg Steenbergen een suikerfabriek. Het gebied waar nu verpleeghuis De Lindenburgh en het nieuwe gemeentehuis staan hoorde daar allemaal bij. Tot 1985 werden er suikerbieten verwerkt. Toen vertrok de Steenbergse suikerindustrie naar de suikerfabriek in Dinteloord.
+wrong: 
+author: dasja
+answer: A

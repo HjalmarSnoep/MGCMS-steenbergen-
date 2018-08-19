@@ -1,0 +1,18 @@
+title: Plaats
+published: 1
+body: Waar is deze foto genomen?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 5
+media: HmO0zgHY9i
+A: Aan het Benedensas
+B: In het dorp De Heen
+C: In het dorp Dinteloord
+D: In Veneti&euml;
+hint: Deze sluis bevindt zich aan de benedenloop van de Vliet.
+right: Aan de Dinteloordse kant van het BenedensasHier mondt de Steenbergse Vliet uit in het Volkerak. Er ligt een sluizencomplex uit 1824. De sluisdeuren moesten vroeger voorkomen dat het hoge water vanuit het Volkerak de polders instroomde.
+wrong: 
+author: dasja
+answer: A

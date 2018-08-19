@@ -1,0 +1,18 @@
+title: Speciale gebeurtenis
+published: 1
+body: Ter gelegenheid waarvan is deze foto voor het oude postkantoor van Steenbergen genomen?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 1
+media: ThonXUQPZw
+A: Personeelsuitje van de suikerfabriek
+B: Het verzenden van de eerste luchtpost
+C: Sleuteloverdracht carnaval 1920
+D: Toneelvoorstelling totaaltheater Kameleon
+hint: Ze waren er helemaal van in de wolken.
+right: De foto is genomen op 5 juli 1920 ter gelegenheid van de allereerste verzending van luchtpost uit Nederland (Schiphol) naar Londen. Om deze historische gebeurtenis feestelijk aan te kleden, werd er een foto genomen bij de postkantoren vanwaar de post naar Schiphol werd vervoerd. En dat was dus onder meer bij het oude postkantoor van Steenbergen. Dat was sinds 1895 gevestigd aan de Kaaistraat (waar nu restaurant In de Oude Stempel is). Voor het gebouw staan de burgemeester en veel ambtenaren van de Posterijen (met een posthoorn op de pet) en van de Telegraafdienst (met een bliksemflits). Achter de groep mensen is een nagebouwd &#039;vliegtuig&#039; zichtbaar, met de tekst &#039;Luchtpost Amsterdam-Londen&#039; en daarbovenuit de &#039;zogenaamde&#039; piloten.
+wrong: 
+author: dasja
+answer: B

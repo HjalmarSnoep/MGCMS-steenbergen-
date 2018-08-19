@@ -1,0 +1,18 @@
+title: Robot
+published: 1
+body: Een klein groepje van Groep 8 van basisschool De Zonneberg uit Kruisland neemt ieder jaar deel aan een wedstrijd waarbij een robot centraal staat. Welke wedstrijd is dat?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 4
+media: JjDx6BI1ur
+A: First Lego League
+B: Techniek Triathlon
+C: Klassestrijd
+D: Atletiek wedstrijden
+hint: Steentje voor steentje komen ze er wel.
+right: De First Lego League daagt kinderen uit om te denken als wetenschappers en technici. De teams die meedoen ontwerpen, bouwen en testen een robot met LEGO Mindstorms om hier vervolgens meerdere missies in een robotwedstrijd mee uit te voeren. Ieder team kiest een probleem uit de praktijk dat opgelost moet worden.
+wrong: 
+author: dasja
+answer: A

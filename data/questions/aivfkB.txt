@@ -1,0 +1,18 @@
+title: fatimaschool
+published: 1
+body: Op 1 augustus 2014 sloot de Fatimaschool in De Heen haar deur. Wie zorgde ervoor dat het gebouw er in 1961 kwam?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 2
+media: sT6PhH0EJh
+A: De pastoor
+B: De burgemeester
+C: De directeur van de school
+D: De moeders van De Heen
+hint: Hij heeft er regelmatig een schietgebedje voor gedaan.
+right: De aannemer Adrianus de Bruyn uit de Heense Molen bouwde de school in 1961. De kinderen gingen per 20 december van dat jaar naar de nieuwe school. In die tijd was de pastoor de voorzitter van het schoolbestuur. Dat was toen pastoor Wijnen. Die zorgde ervoor dat de school er kwam. Sinds 1 september 1924 was er al katholiek onderwijs in De Heen. En voor die tijd was er ook al een openbare school.
+wrong: 
+author: dasja
+answer: A

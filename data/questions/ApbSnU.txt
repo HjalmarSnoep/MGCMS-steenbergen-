@@ -1,0 +1,18 @@
+title: Dialect
+published: 1
+body: In Kruisland wordt veel dialect gesproken. Wat bedoelt men met het woord L&aacute;&aacute;nterf&aacute;&aacute;nte?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 4
+media: 5BcvcAOCDc
+A: De lantaarn aansteken
+B: Land der olifanten
+C: Een soort groente
+D: De luilak uithangen
+hint: Je ouders zeggen dat jij dit niet mag doen.
+right: In 2014 is door Jos Ruyten het boek Cruyslaants dialect uitgebracht. In het boek staan alle dialect woorden met uitleg. Zo ook L&aacute;&aacute;nterf&aacute;&aacute;nte, wat de luilak uithangen betekent.
+wrong: 
+author: dasja
+answer: D

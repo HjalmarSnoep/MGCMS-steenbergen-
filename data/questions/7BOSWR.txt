@@ -1,0 +1,18 @@
+title: Deftige Flodder
+published: 1
+body: De Deftige Flodder is een van de personages in het gevolg van de Strienestadse Prins Carnaval. Wat is de Flodder?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 1
+media: xQlG9C0b3X
+A: Een zwerver
+B: Een edelman
+C: Een duivel
+D: Een goochelaar
+hint: Eeuwenlang heeft hij de mensen de stuipen op het lijf gejaagd.
+right: De Flodder is een demon, een duivel, waar men eeuwen geleden in geloofde in Steenbergen. Het was een natuurgeest die rondwaarde in de polders van Steenbergen. Hij kon plotseling op je rug springen en ging er dan niet meer vanaf zodat het een hele zware wandeling werd. Als je de Flodder probeerde te pakken, dan sloeg je er dwars doorheen.
+wrong: 
+author: dasja
+answer: C

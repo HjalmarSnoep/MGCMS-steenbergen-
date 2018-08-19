@@ -1,0 +1,18 @@
+title: R.K. Meisjesschool
+published: 1
+body: Waar stond de eerste bijzondere Rooms Katholieke meisjesschool van Nieuw-Vossemeer?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 3
+media: 
+A: Bij de synagoge in de Julianastraat
+B: Bij het klooster aan de Voorstraat
+C: Naast de moskee aan de Voorstraat
+D: Bij het klooster in de Kloosterstraat
+hint: Op 1 mei 1911 kwamen zeven nonnen, zusters Franciscanessen om precies te zijn, uit Oirschot naar Nieuw-Vossemeer. Zij gingen daar in het nieuwe klooster, Nazareth genaamd, wonen.
+right: Vroeger waren de meeste scholen in onze gemeente van de kerk. Zo ook in Nieuw-Vossemeer. Op 1 mei 1911 kwamen zeven nonnen, zusters Franciscanessen om precies te zijn, uit Oirschot naar Nieuw-Vossemeer. Zij gingen daar in het nieuwe klooster, Nazareth genaamd, aan de Kloosterstraat wonen. Naast de school was een meisjesschool gebouwd. Wist je trouwens dat jongens en meisjes in die tijd nog naar aparte scholen gingen? Dat kun je je nu niet meer voorstellen. Een week nadat de zusters in het klooster kwamen wonen, ging de bijzondere R.K. meisjesschool open. Bijzonder betekent trouwens niet dat er iets geks mee aan de hand is. Het betekent dat er les wordt gegeven op basis van een geloof. In dit geval dus het Rooms-katholieke geloof. E&eacute;n lokaal van de meisjesschool werd gebruikt als kleuterschool.De zusters in het klooster leefden zelf erg streng. Wanneer iemand met &eacute;&eacute;n van hen wilde spreken, dan hield de zuster dit gesprek vanachter tralies omdat zij zo min mogelijk in contact mocht komen met &lsquo;de buitenwereld&rsquo;. Het leven van de zusters bestond alleen maar uit werken, bidden, eten en slapen.
+wrong: 
+author: dasja
+answer: D

@@ -1,0 +1,18 @@
+title: oranjewijk
+published: 1
+body: Hoe werd de Oranjewijk in Dinteloord vroeger door de mensen genoemd?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 5
+media: a1A8yCHTLk
+A: Pindurp
+B: Appeltjes van Oranjewijk
+C: Koningsoord
+D: Prinsenwijk
+hint: Waarom ze de wijk zo noemden? In ieder geval niet omdat er een geldautomaat stond
+right: De Oranjewijk werd ook wel Pindurp genoemd. In 1919 is besloten om deze wijk te bouwen. Eerst heette dit de Van Campenwijk, genoemd naar de burgemeester. Er woonden alleen maar arme mensen in die tijd. In 1975 is begonnen met de sloop van de wijk en werden er nieuwe huizen gebouwd.
+wrong: 
+author: dasja
+answer: A

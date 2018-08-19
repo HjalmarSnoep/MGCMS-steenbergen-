@@ -1,0 +1,18 @@
+title: Welk dier?
+published: 1
+body: Welk dieren zie je hier?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 6
+media: jm2T5E32Yw
+A: Herten
+B: Ree&euml;n
+C: Geiten
+D: Antilopes
+hint: Er zijn verkeersborden die waarschuwen dat je op moet passen omdat de verleden tijd van rijden over kan steken.
+right: Op de foto staan drie ree&euml;n. In het Oudland in Steenbergen komen ze veel voor. Daar is deze foto ook genomen. Een mannetje noem je een reebok en het vrouwtje een reegeit. De reebokken hebben een gewei. De ree (jagers zeggen &#039;het ree&#039;) is een &#039;knabbelaar&#039;
+wrong: 
+author: dasja
+answer: B

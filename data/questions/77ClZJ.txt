@@ -1,0 +1,18 @@
+title: 
+published: 1
+body: 
+points: 
+bricks: 
+hintcost: 
+cat: 
+city: 3
+media: VSjGIxNTgL
+A: 
+B: 
+C: 
+D: 
+hint: 
+right: 
+wrong: 
+author: 
+answer: B

@@ -1,0 +1,18 @@
+title: Notendaal
+published: 1
+body: Welk bedrijf was meer dan 175 jaar op Notendaal gevestigd?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 3
+media: UHouFuuGCx
+A: Bouwbedrijf Uijtdewilligen
+B: Bouwbedrijf Goldenwijk
+C: Notenbranderij Uijtdewilligen
+D: Aannemerij Plekzat
+hint: Het bedrijf had ongeveer 70 medewerker en realiseerde veel projecten in verschillende plaatsen in Nederland. Hoewel het bedrijf al in 2001 verkocht werd, veranderde de nieuwe eigenaar de oude familienaam pas in 2004.
+right: In 1825 begon de schoonvader van Adrianus Uijtdewilligen met een wagenmakerij en timmerbedrijf. In 1860 nam Adrianus het bedrijfje over waarna nog vier generaties Uijtdewilligen het bedrijf uit lieten groeien tot een middelgroot bouwbedrijf met ongeveer 70 medewerkers. Bouwbedrijf Uijtdewilligen realiseerde veel bouwprojecten in verschillende plaatsen in Nederland.In 1999 verkocht Peet Uijtdewilligen jr. het bedrijf aan Goldewijk Doetinchem. Goldewijk verhuisde het nieuwe bedrijf op 1 november 2001 naar Steenbergen maar hield de oude naam. Pas op 1 januari 2004 verdween de naam Uijtdewilligen en werd het Goldewijk.
+wrong: 
+author: dasja
+answer: A

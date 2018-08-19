@@ -1,0 +1,18 @@
+title: Schelde-rijnkanaal
+published: 1
+body: Waarom werd het Schelde-Rijnkanaal dat langs Nieuw-Vossemeer loopt gegraven?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 2
+media: NNeXiTafbO
+A: Voor de visserij
+B: Voor een betere afwatering
+C: Voor een betere vaarroute tussen Rotterdam en Antwerpen
+D: Om werklozen iets te doen te geven
+hint: Zo snel mogelijk van 010 naar d&#039;Anvers.
+right: Tussen de Heense polder en Sint-Philipsland lagen vroeger de Slikken van de Heen. Een enorme vlakte met zandplaten, slikken en schorren. Daar doorheen kronkelde de rivier het Slaak, ook wel de Eendracht genoemd. In 1858 werd door het Slaak tussen Brabant en Sint-Philipsland een dam aangelegd, om de beide oevers te verbinden. In 1884 was die dam, de Slaakdam klaar. Om de vaarroute tussen Antwerpen naar Rotterdam te verbeteren, begon men in 1967 met het graven van het Schelde-Rijnkanaal. De rivier de Eendracht werd gekanaliseerd en de dam en de polder werden voor het 120 meter brede kanaal doorgraven. De vaarroute werd in 1975 opengesteld.
+wrong: 
+author: dasja
+answer: C

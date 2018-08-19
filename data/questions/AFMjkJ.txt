@@ -1,0 +1,18 @@
+title: Rabobank
+published: 1
+body: Tot 1986 had Nieuw-Vossemeer een Rabobank. Waar komt de naam Rabo eigenlijk vandaan?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 3
+media: 8AuwaVqHHA
+A: Samenvoeging van Raffeisenbank en Boerenleenbank
+B: Samenvoeging van Radar en Bond
+C: Het is de naam de van de eerste directeur
+D: Samenvoeging van Radijs en Bonen
+hint: In 1973 fuseerden twee banken en daarvoor in de plaats kwam er &eacute;&eacute;n bank
+right: In 1957 opende er in de Achterstraat in Nieuw-Vossemeer een nieuw bankgebouw. Het was de Boerenleenbank. Toch was de bank er niet alleen voor boeren maar voor iedereen en dat was bijzonder in die tijd. In 1973 werd de naam van de Boerenleenbank vervangen door Rabobank. Dat kwam doordat de Rafeissenbank en de Boerenleenbank fuseerden. Die twee banken verdwenen dus en daarvoor in de plaats kwam er &eacute;&eacute;n bank
+wrong: 
+author: dasja
+answer: A

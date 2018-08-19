@@ -1,0 +1,18 @@
+title: Bestaansrecht
+published: 1
+body: Aan welk product heeft Steenbergen zijn bestaansrecht te danken?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 1
+media: ngzBBAniKv
+A: Suiker
+B: Meekrap
+C: Zout
+D: Goud
+hint: De Steenbergse handelaren konden er prima het ? in de pap mee verdienen.
+right: Steenbergen heeft zijn bestaans- en stadsrecht te danken aan zout. Daar sta je even van te kijken toch? Het zit zo
+wrong: 
+author: dasja
+answer: C

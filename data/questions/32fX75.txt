@@ -1,0 +1,18 @@
+title: Volgorde voorzieningen
+published: 1
+body: In welke volgorde werden in Kruisland de voorzieningen telefoon, stoomtram, aardgas, waterleiding en elektriciteit aangelegd? Begin met het eerst aangelegde.
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 4
+media: FEIj7ZhOT7
+A: Aardgas, waterleiding, elektriciteit, telefoon, stoomtram
+B: Elektriciteit, telefoon, aardgas, waterleiding, stoomtram
+C: Telefoon, aardas, stoomtram, elektriciteit, waterleiding
+D: Stoomtram, telefoon, elektriciteit, waterleiding en aardgas
+hint: Toen de Kruislanders eindelijk wat gemakkelijker naar Steenbergen konden reizen, vonden ze ook wel prettig om van tevoren te laten weten dat ze er aankwamen. Toen dat eenmaal kon wilden ze &#039;s avonds liever niet in het donker aankwamen. Een koud glas water zou na zo&#039;n lange reis wel heerlijk zijn. Daarna kregen ze een heet bakje thee. Dat was nog beter.
+right: In 1892 werd de rail voor de stoomtram aangelegd. In 1899 werd de telefoon aangelegd. In 1922 werd elektriciteit aangelegd. In 1925 werd de waterleiding aangelegd. In 1969 werd aardgas aangelegd.
+wrong: 
+author: dasja
+answer: D

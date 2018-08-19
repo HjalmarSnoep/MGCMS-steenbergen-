@@ -1,0 +1,18 @@
+title: burgemeester
+published: 1
+body: Wat was de naam van de man die van 1917 tot 1944 burgemeester was van Dinteloord?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 5
+media: pMyftGwySp
+A: Adriaan van Campen
+B: Adolf Hitler
+C: Burgemeester X
+D: Jan Janssen
+hint: In 1919 werd de Van Campenwijk in Dinteloord genoemd naar de toenmalige burgemeester.
+right: Dat was Adriaan van Campen (burgemeester van 1917 - 1944). In het begin werd hij gezien als een zeer goede burgemeester, maar hij raakte bevriend met de Duitse bezetters en hielp hen. Er werden veel dorpsgenoten door hem verraden en aangegeven bij de bezetter. De mensen waren bang voor hem. Na de bevrijding van Dinteloord werd hij veroordeeld tot de doodstraf. In februari 1948 werd de doodstraf omgezet in een gevangenisstraf van 15 jaar.
+wrong: 
+author: dasja
+answer: A

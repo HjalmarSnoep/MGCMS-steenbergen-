@@ -1,0 +1,18 @@
+title: Dinteloords gebouw
+published: 1
+body: Wat was dit Dinteloordse gebouw vroeger?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 5
+media: WHa6XxOamh
+A: Een school
+B: Een pastorie
+C: Een klooster
+D: De burgemeesterswoning
+hint: Je zag er niet veel mannen.
+right: Het was een klooster van de zusters Franciscanessen van Oudenbosch. Zij vestigden zich in 1889 in Dinteloord en verzorgden er het katholieke onderwijs voor meisjes. Na 1923 namen zij ook de wijkverpleging op zich. In 1950 kwam er aan de Westerstraat 4 een nieuw klooster gereed. In 1991 werd het klooster verkocht en zijn de zusters vertrokken.
+wrong: 
+author: dasja
+answer: C

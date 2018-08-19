@@ -1,0 +1,18 @@
+title: Bomen Planten
+published: 1
+body: Welke school heeft op landgoed Westcreecke in Dinteloord bomen geplant?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 5
+media: Me3Kjll7H9
+A: De Groen van Prinstererschool
+B: De Petrus en Paulusschool
+C: De Dobbelsteen
+D: De agrarische school
+hint: Het bos heeft ook al een naam
+right: De leerlingen van de Petrus en Paulusschool hebben er het Pepabos geplant. Voor alle duidelijkheid; PePa staat dus voor Petrus Paulus
+wrong: 
+author: dasja
+answer: B

@@ -1,0 +1,18 @@
+title: Voetbalverenigingen
+published: 1
+body: Hoeveel voetbalverenigingen had Dinteloord na de Tweede Wereldoorlog?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 5
+media: 7tBpmwZ3JE
+A: Nul
+B: E&eacute;n
+C: Twee
+D: Drie
+hint: Voor de WO II had Dinteloord er twee. Een voor de katholieken en een voor de protestanten. Daar bracht Adolf Hitler weinig verandering in.
+right: Dinteloord kende voor de oorlog twee voetbalverenigingen Prinslandia en Eureka. Tijdens de oorlogsjaren werd er niet gevoetbald maar daarna pakte men de draad direct weer op. Al snel waren er weer twee voetbalclubs
+wrong: 
+author: dasja
+answer: C

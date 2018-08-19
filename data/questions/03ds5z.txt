@@ -1,0 +1,18 @@
+title: Nieuw? Vossemeer
+published: 1
+body: Wanneer is Nieuw-Vossemeer voor de tweede keer bedijkt en definitief Nieuw-Vossemeer geworden?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4 2 5
+city: 3
+media: VSjGIxNTgL
+A: 1583
+B: 1609
+C: 1920
+D: 1211
+hint: Bij het begin van Het Twaalfjarig Bestand is de tweede bedijking met man en macht aangepakt. Het bestand is een wapenstilstand in de Tachtigjarige Oorlog die duurde van 1609-1621.
+right: In 1567 werd het eerste Nieuw-Vossemeer gesticht. Dat kreeg toen nog de naam Hoog Plate. Dit dorp ging al in 1583 weer verloren als gevolg van de Tachtigjarige Oorlog. Spaanse en Staatse (Nederlandse) soldaten staken de dijken door waardoor het hele gebied onder water kwam te staan.Bij het begin van Het Twaalfjarig Bestand (een wapenstilstand die duurde van 1609-1621) is de tweede bedijking met man en macht aangepakt. Er ontstond een nieuw dorp dat de naam Nieuw-Vossemeer kreeg.
+wrong: 
+author: 
+answer: B

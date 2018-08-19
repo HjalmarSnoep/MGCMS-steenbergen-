@@ -1,0 +1,18 @@
+title: De Siemburg
+published: 1
+body: Hoe komt het gemeenschapshuis van Kruisland aan de naam Siemburg?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 4
+media: bVQiIcadx8
+A: Naar de eerste burgemeester van Kruisland, de heer Siem.
+B: Naar het woord siemen, Kruislands dialect voor konijnen.
+C: Het is een verbastering van de naam Cimburga van Baden
+D: Naar de stichter van Kruisland Engelbrecht II van Nassau
+hint: De stichter van het dorp, Graaf Engelbrecht, heeft al drie straatnamen in Kruisland op zijn naam staan. Het is wel eerlijk dat zijn vrouw ook iets heeft gekregen.
+right: Graaf Engelbrecht II van Nassau stichtte in 1487 het dorp Kruisland. Dat heette toen trouwens nog Engelsdorp of Engelsberg. Hij was getrouwd met Cimburga van Baden. Zij heeft zich persoonlijk ingezet voor de bedijking van Kruisland. Cimburga was natuurlijk wel een hele sjieke naam. Door er een Kruislands sausje over te gooien ontstond de naam Siemburg. Op de foto zie je haar afbeelding naast die van haar man op hun praalgraf in de Grote Kerk in Breda.
+wrong: 
+author: dasja
+answer: C

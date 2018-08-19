@@ -1,0 +1,18 @@
+title: MUZA
+published: 1
+body: Waarvoor staat de afkorting MUZA van de gelijknamige feesten in Dinteloord?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 5
+media: bxlxcjE1SY
+A: MUziek ZAkelijk
+B: MUziek ZAng
+C: MUzikale ZAligheden
+D: MUzikale ZAterdag
+hint: Regionale artiesten begeleidden de harmonie vocaal.
+right: Vanaf 1950 worden in Dinteloord de MUZA feesten georganiseerd. De naam MUZA is oorspronkelijk een afkorting van Muziek Zang. Harmonie Volharding en lokale en regionale artiesten verzorgden een concert in het midden van het dorp. In het begin in de openlucht rondom de kreek, later in een tent op het Raadhuisplein. In 2005 is er nog een openlucht MUZA geweest vanwege het 400 jarig bestaan van Dinteloord.
+wrong: 
+author: dasja
+answer: B

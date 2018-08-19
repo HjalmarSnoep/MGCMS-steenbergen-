@@ -1,0 +1,18 @@
+title: Bodemsoort
+published: 1
+body: Kruisland ligt op een bijzonder landschappelijke overgang. Dit kun je zien aan de bodemsoort. Welke twee bodemsoorten zijn er in de omgeving aanwezig?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 4
+media: F2CvTllJFs
+A: Zand en klei
+B: Veen en klei
+C: Zand en veen
+D: Turf en zand
+hint: 
+right: Kruisland ligt op de overgang van zand naar klei. Dit kun je ook duidelijk zien in het landschap. Wanneer je ter hoogte van de Kleine Spellestraat 7 bent, zie je een hoogteverschil van circa 2 meter. Het landbouwgebruik gaat daar over van weiland naar een kavel waar gewassen, zoals aardappelen, suikerbieten en graan worden verbouwd.
+wrong: 
+author: dasja
+answer: A

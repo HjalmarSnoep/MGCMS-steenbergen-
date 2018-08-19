@@ -1,0 +1,18 @@
+title: Dintelse gorzen
+published: 1
+body: Waar danken de Dintelse gorzen hun naam aan?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 5
+media: QfXqFI2eGD
+A: Aan het dorp Dinteloord
+B: Aan de vogelsoort de Dintelse gors
+C: Aan de rivier de Dintel
+D: Aan de slikken van De Heen
+hint: Het dorp zelf dankt er ook de naam aan.
+right: De Dintelse gorzen danken hun naam aan de rivier de Dintel. In de 15e eeuw wilden de burgers van Steenbergen het gebied al indijken, maar vanwege de sterke stroming is dat nooit gelukt. Nadat de Philipsdam in 1987 werd voltooid, verdwenen de getijden en ontstond het huidige gebied. Er komen heel veel soorten planten voor. In het bijzonder orchidee&euml;n. Natuurmonumenten wil de Dintelse Gorzen in de toekomst met de Biesbosch verbinden.
+wrong: 
+author: dasja
+answer: C

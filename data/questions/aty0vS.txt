@@ -1,0 +1,18 @@
+title: wit kruis
+published: 1
+body: Door wie werd molen Het Wit Kruis in de 19e eeuw gebruikt?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 1
+media: UUeZPvDNiH
+A: Door oliemaatschappijen
+B: Door toeristen
+C: Door de bakker en de brouwer
+D: Door de gemeente
+hint: Voor een drankje en een hapje.
+right: De molen op de foto heet &lsquo;Het Wit Kruis&rsquo;. Hij stond aan de Simonshaven in Steenbergen. Zo ongeveer op de hoek met de huidige Nicolaas Peckstraat. Hij werd in 1817 gebouwd door de heer Huijs. Hij stond achter de woning van bierbrouwer Lemmens aan de Simonshaven. En dat was niet voor niets want de molen werd gebruikt voor het malen van het mout, een ingredi&euml;nt van bier. Lemmens was trouwens niet de enige gebruiker. Hij deelde hem met bakker Jacobus Tacx die er het graan maalde voor het meel. De laatste eigenaar was Martien Veraart die tot die tijd zelf ook brouwer was. In 1920 stopte hij daarmee en was de molen niet meer nodig. Toen werden de kap en de wieken er afgehaald en verkocht. In 1955 verdween de hele molen. De naam Het Wit Kruis leeft voort want de slijterij van Ria en Wim Veraart (jazeker, nog steeds diezelfde familie) aan de Oostdam heet namelijk nog steeds Het Wit Kruis.
+wrong: 
+author: dasja
+answer: C

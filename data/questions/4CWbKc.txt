@@ -1,0 +1,18 @@
+title: Gymnastiek
+published: 1
+body: Wat is de Kruislandse Eerste Gymnastiek Organisatie tegenwoordig?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 4
+media: j2wqhDr6qB
+A: Tennisvereniging
+B: Turnvereniging
+C: Gymnasium
+D: Voetbalvereniging
+hint: Misschien dat de ballenjongens nog gymnastische oefeningen doen?
+right: Op 15 oktober 1962 richtten kapelaan kapelaan Schoenmakers en Kees Godschalk KREGO op
+wrong: 
+author: dasja
+answer: A

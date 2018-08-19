@@ -1,0 +1,18 @@
+title: Bakhuisje
+published: 1
+body: Achter Pannenkoekenboerderij De Uitwijk staat een gerestaureerd bakhuisje. Wat was de functie van een bakhuis?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 2
+media: eEaYSf14TW
+A: Het brood van het hele dorp werd er gebakken
+B: Een zonnebankstudio voor de rijken
+C: Het was een gevangenis
+D: Een weeshuis voor jonge meisjes (bakvissen)
+hint: Ze gingen er over de toonbank.
+right: Achter pannenkoekenboerderij De Uitwijk in De Heen staat een bakhuisje uit de 17e eeuw. Het was vervallen, maar in 2014 is het door vrijwilligers helemaal gerestaureerd. In vroeger tijden werd hier de oven gestookt voor boeren, burgers en buitenlui om (verplicht) hun broden af te bakken. De bakker woonde er met zijn familie, en het huisje was een ontmoetingsplek voor heel het dorp.
+wrong: 
+author: dasja
+answer: A

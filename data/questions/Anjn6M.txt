@@ -1,0 +1,18 @@
+title: Oudjaar op Padmos
+published: 1
+body: Wat gebeurde er op Oudejaarsavond 1916 op landgoed Padmos bij de Welberg?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 6
+media: nxb9ewOeF6
+A: Er werd vuurwerk afgestoken
+B: Er vond een moord plaats
+C: De boerderij op het landgoed brandde af
+D: De boerin kreeg een baby
+hint: Het was eerder Halloween dan Oud&amp;Nieuw op Padmos.
+right: Op Oudejaarsavond 1916 voltrok zich een drama op landgoed Padmos bij de Welberg. De boer die het landgoed pachtte, Jan van Gastel, werd doodgeschoten door zijn 19-jarige knecht. Het was de vrouw van de boer die hierachter zat. Zij had stiekem een relatie met de knecht en had beloofd met hem te zullen trouwen als hij haar man zou vermoorden. Pas na een jaar kwam aan het licht wie Van Gastel vermoord had en werd de dader tot twaalf jaar cel veroordeeld. De aanstichtster van de moord werd zelfs tot 15 jaar veroordeeld. Maar de echte slachtoffers van dit familiedrama waren de vier kinderen van Jan van Gastel en zijn vrouw. De jongste was zelfs nog maar zeven maanden oud toen zijn moeder zijn vader liet vermoorden. Het trieste verhaal was daarmee niet ten einde. Zeven maanden na de moord brandde de boerderij tot de grond toe af en is nooit meer herbouwd.
+wrong: 
+author: hjalmar
+answer: B

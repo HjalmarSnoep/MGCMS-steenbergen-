@@ -1,0 +1,18 @@
+title: A.M. de Jong
+published: 1
+body: Waarmee is A.M. de Jong beroemd geworden?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 3
+media: wIwXGqmXMO
+A: Als directeur van het A.M. de Jongmuseum
+B: Als conci&euml;rge van de Merijntje-school
+C: Met de boeken over het leven van Merijntje Gijzen
+D: Als acteur bij het A.M. de Jong-toneel
+hint: Als je A.M. de Jong niet kent moet je maar eens naar de bibliotheek gaan.
+right: Adrianus Michiel de Jong werd geboren op 29 maart 1888 in Nieuw-Vossemeer. Zijn vader was, net als zoveel anderen van het dorp, arbeider bij de boer. In de winter wanneer er geen werk op het land was, maakte hij borstels om toch nog een beetje geld te hebben. A.M. de Jong woonde achter in het slob, net na de bocht aan de Hogendijk. Hij werd later schrijver en liet zich inspireren door zijn jeugd in Nieuw-Vossemeer. Zijn meest bekende werk zijn de boeken over Merijntje Gijzens Jeugd en Merijntje Gijzens Jonge Jaren. Merijntje was een ondeugend plattelandsjongetje in een arm arbeidersgezin. Het boek is later ook nog als televisieserie uitgezonden.
+wrong: 
+author: dasja
+answer: C

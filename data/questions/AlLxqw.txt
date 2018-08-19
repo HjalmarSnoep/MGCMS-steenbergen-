@@ -1,0 +1,18 @@
+title: Jan Geluk
+published: 1
+body: Jan Geluk was een bekende Dinteloorder in de negentiende eeuw. Wat was zijn beroep?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 5
+media: P0EmyhDCSH
+A: Politieagent
+B: Onderwijzer
+C: Burgemeester
+D: Pastoor
+hint: Zelfs Koningin Emma wilde als moeder het een en ander van hem leren.
+right: Jan Geluk (1835-1919) was een bekende figuur in Dinteloord. Hij werd in 1859 hoofdonderwijzer van de 1e Openbare Lagere School van Dinteloord en genoot landelijke bekendheid als pedagoog (iemand die veel weet over het opvoeden van kinderen). Hij is bekend geworden door zijn Woordenboek voor opvoeding en onderwijs. Ook Koningin Emma las dit boek waarna Jan Geluk zelfs naar haar toe moest komen om raad te geven over de opvoeding van prinses Wilhelmina. Zijn laatste jaren woonde hij in huize Jachtlust aan de Havenweg. Op de algemene begraafplaats is zijn grafsteen te zien
+wrong: 
+author: dasja
+answer: B

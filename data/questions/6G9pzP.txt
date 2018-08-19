@@ -1,0 +1,18 @@
+title: meisjesjeugdwerk
+published: 1
+body: Wie bouwen het meisjesjeugdwerk in Welberg na de oorlog weer op?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 6
+media: JqZPzRUWzW
+A: De moeders van de Welberg
+B: De onderwijzeressen
+C: De kloosterzusters
+D: De kinderen van de Welberg
+hint: In de naam van de Heer.
+right: Het Patronaat, het verenigingsgebouw van de Welberg wordt in de oorlog gebruikt door de bezetters (de Duitsers). In 1947 wordt begonnen met het opnieuw opzetten van een jeugdbeweging voor meisjes. Door allerlei strubbelingen komt het in 1951 alweer ten einde waarna de zusters Franciscanessen uit het klooster van de Welberg het heft in handen nemen. Vanaf september 1951 is er weer een volwaardig meisjesjeugdwerk.
+wrong: 
+author: dasja
+answer: C

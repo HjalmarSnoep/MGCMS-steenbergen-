@@ -1,0 +1,18 @@
+title: De weg naar Oud-Vossemeer
+published: 1
+body: Hoe kwamen de Nieuw-Vossemeerders tot 1972 in Oud-Vossemeer?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 3
+media: 7i7PxYAZ7a
+A: Met een veerpont
+B: Daar kwamen ze nooit
+C: Met de auto
+D: Met de tram
+hint: Tussen Nieuw- en Oud-Vossemeer loopt het Schelde-Rijnkanaal, vroeger de rivier De Eendracht.
+right: Ooit waren er twee veerverbindingen tussen Nieuw- en Oud-Vossemeer. De eerste heette Botshoofd, naar een gehucht in Tholen. De tweede het Nieuwe Veer omdat het later kwam dan Botshoofd. De pontjes voeren over rivier De Eendracht heen en weer. De Eendracht heet sinds de jaren zeventig het Schelde-Rijnkanaal. Het eerste veer dat uit de vaart ging, was Botshoofd. Dat gebeurde al in 1886. Het Nieuwe-Veer bleef populair. Pas toen er na de Watersnoodramp in 1953 brugverbindingen tussen de eilanden kwamen, werd het pontje overbodig. In 1973 ging de pont kapot en kwam er geen nieuwe meer. Dat was nog even lastig, want de Vossemeerse brug was pas een jaar later klaar.
+wrong: 
+author: dasja
+answer: A

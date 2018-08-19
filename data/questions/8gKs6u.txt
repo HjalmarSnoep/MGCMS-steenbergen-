@@ -1,0 +1,18 @@
+title: Record
+published: 1
+body: Welk record verbeterde de Kruislandse Jo Wezenbeek in 1990?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 0
+city: 0
+media: 9d01USdjbw
+A: Huppelen
+B: 100 meter sprint
+C: Barkeepen dames
+D: Frikandellen eten
+hint: Na al die uren kon zijn geen goudgele rakker met schuimend kraagje meer zien.
+right: Op maandag 1 januari 1990 verbeterde Jo Wezenbeek, van het toenmalige eetcaf&eacute; Wezenbeek aan de Markt in Kruisland, het record barkeepen dames. Zij verbeterde het oude record dat op 100 uur tappen stond. Pas na 105 uur sloot zij de bierkraan. Dit record is opgenomen in het Guinness Book of Records.
+wrong: 
+author: astrid
+answer: C

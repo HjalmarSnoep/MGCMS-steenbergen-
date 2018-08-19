@@ -1,0 +1,18 @@
+title: IJskoud evenement
+published: 1
+body: Hoe heet het ijskoude evenement dat in 2009 voor de eerste keer werd gehouden op de Markt in Kruisland?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 4
+media: Y0PsdGlQj2
+A: Fris Feestje
+B: Elfstedentocht
+C: Slee naar Benee
+D: Geprul onder nul
+hint: Een foto zegt meer dan duizend woorden...
+right: Kruislander Nicky Broos heeft als eerste Nederlander een skibaan geopend met echte sneeuw. De Skidome Ruchphen. Inmiddels is de baan uitgebreid met een tweede helling en is hij ook de eigenaar van Skidome Terneuzen. Het paste dus wel in zijn straatje om een ijskoud evenement in zijn woonplaats te organiseren. Dat deed hij in 2009 voor het eerst met het evenement &#039;Slee naar Benee&#039; in Kruisland. Natuurlijk deed hij dat niet alleen maar samen met heel veel dorpsgenoten.
+wrong: 
+author: dasja
+answer: C

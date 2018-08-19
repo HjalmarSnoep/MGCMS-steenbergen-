@@ -1,0 +1,18 @@
+title: snoep
+published: 1
+body: Wat was de bijnaam van de eigenaar van het snoepwinkeltje in de Blauwstraat in Steenbergen?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 1
+media: 2jQD10A8zk
+A: Willy Wonka
+B: Hjalmar Snoep
+C: Torreke
+D: De Suukerpeej
+hint: Vast familie van het suikerspinneke.
+right: In de Blauwstraat in Steenbergen was vroeger een kruidenierswinkeltje. Het was de winkel van Hector van de Velden, bijgenaamd &#039;Torreke&#039;. Voor kinderen was het een snoepjesparadijs. Zelfs op zondag, terwijl er toen nog geen winkels open mochten zijn. De buitenkant van de winkel hing namelijk helemaal vol met snoepautomaten. Maaromdat &#039;Torreke&#039;wel graag een oogje in het zeil wilde houden, stond hij meestal in dedeuropening. Alshet snoepje watje wilde danniet in de automaten zat, haalde hij het uit de winkel. Lekker!
+wrong: 
+author: dasja
+answer: C

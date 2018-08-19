@@ -1,0 +1,18 @@
+title: Fabriek
+published: 1
+body: Welke grote fabriek werd als eerste gesticht in Dinteloord?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 5
+media: 7sWdFxfBFJ
+A: De suikerfabriek
+B: De melkfabriek
+C: De vlasfabriek
+D: De meubelfabriek
+hint: Dankzij deze fabriek werd het leven voor veel mensen een stuk zoeter.
+right: De Co&ouml;peratieve Suikerfabriek Dinteloord werd in 1908 als eerste fabriek gesticht. In deze fabriek zijn heel veel mensen gaan werken in de campagnetijd als de suikerbieten van het land werden gehaald. De bieten gingen (en gaan) naar de fabriek waar er suiker van gemaakt werd. Zo hadden de mensen ook in de winter werk en konden toch geld verdienen. In het begin werkten er honderden mensen in de fabriek, want bijna al het werk gebeurde nog met de hand. In de loop der jaren is het meeste werk overgenomen door machines maar de Dinteloordse Suikerunie is nog &eacute;&eacute;n van de grootste suikerfabrieken van Europa. In Nederland zijn er nog maar twee van dit soort fabrieken.
+wrong: 
+author: dasja
+answer: A

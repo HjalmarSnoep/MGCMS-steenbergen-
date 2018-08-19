@@ -1,0 +1,18 @@
+title: Gebouw
+published: 1
+body: Wat was vroeger in het Dinteloordse gebouw op de foto gevestigd?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 5
+media: VTOd6PWhxe
+A: School en bibliotheek.
+B: Gymzaal en kleuterschool
+C: Bakker en slager
+D: Gemeentehuis en politie
+hint: Je kon er heel veel kennis opdoen.
+right: Vroeger was in dit gebouw aan de Westgroeneweg in Dinteloord de Christelijke School gevestigd. Later is het gebouw gebruikt als bibliotheek en nu is er de kinderopvang gevestigd.
+wrong: 
+author: dasja
+answer: A

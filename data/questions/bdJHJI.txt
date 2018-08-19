@@ -1,0 +1,18 @@
+title: Burgemeester
+published: 1
+body: Hoe heette de laatste burgemeester van Dinteloord?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 5
+media: T8mVczynnm
+A: Burgemeester Schout
+B: Burgemeester Van Wijk
+C: Burgemeester Lukkassen
+D: Dinteloord heeft nooit een burgemeester gehad
+hint: Het was wel toevallig dat zijn achternaam in de Middeleeuwen burgemeester betekende.
+right: Burgemeester A. Schout was de laatste burgemeester van Dinteloord. Hij was er van 1983 tot 1997. Hij was ook de laatste burgemeester van de zelfstandige gemeente Dinteloord. Op 1 januari 1997 vond er een herindeling plaats en maakte Dinteloord deel uit van de grote gemeente Steenbergen. Samen met de kernen De Heen, Kruisland, Nieuw-Vossemeer, Steenbergen en Welberg. Gert van Wijk was de burgemeester van die nieuwe gemeente.
+wrong: 
+author: dasja
+answer: A

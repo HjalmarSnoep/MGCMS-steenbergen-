@@ -1,0 +1,18 @@
+title: Teelt
+published: 1
+body: Wat wordt er in de Prinslandse en Willemspolder in Dinteloord geteeld?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 5
+media: RBIKKi9aLq
+A: Aardappelen
+B: Suikerbieten
+C: Aubergines
+D: Mais
+hint: Ik zie, ik zie wat jij niet ziet en het is paars.
+right: Het Agro &amp; Food Cluster Nieuw-Prinsenland ligt in de Prinslandse polder en Willemspolder tussen Dinteloord en Stampersgat. Het is 600 hectare groot, waarvan meer dan een derde wordt ingevuld door kassen. Hier worden onder andere tomaten en aubergines geteeld.
+wrong: 
+author: hjalmar
+answer: C

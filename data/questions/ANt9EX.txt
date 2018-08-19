@@ -1,0 +1,18 @@
+title: Oproer
+published: 1
+body: In 1699 brak er een oproer uit onder de bevolking van Nieuw-Vossemeer. Wie herstelde toen de rust?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 3
+media: K7w7wb6Hpz
+A: De pastoor
+B: De veldwachter
+C: Het Garnizoen uit Bergen op Zoom
+D: De ME
+hint: De meeste dorpen in de zeventiende eeuw beschikten over &eacute;&eacute;n veldwachter.
+right: In het jaar 1699 brak er in Nieuw-Vossemeer een groot oproer en tumult uit onder de bevolking. De inwoners waren kwaad omdat ze heel veel belasting moesten betalen voor van alles en nog wat. De boeren kwamen als eerste in opstand toen ze belasting moesten gaan betalen voor het malen van meel. Zij sleepten de rest van de bevolking met zich mee. De rellen liepen dusdanig uit de hand dat het Garnizoen (de soldaten) van Bergen op Zoom er met ruiters en paarden aan te pas moest komen om de rust in het dorp te herstellen.
+wrong: 
+author: dasja
+answer: C

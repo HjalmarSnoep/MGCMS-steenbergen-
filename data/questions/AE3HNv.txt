@@ -1,0 +1,18 @@
+title: Toren
+published: 1
+body: Op dehoek van de Molenweg en de Wouwsestraat in Steenbergen stond 600 jaar geleden een toren. Hoe heette die toren?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 1
+media: 0u0L3WcpHw
+A: De Boetse toren
+B: De Vuurtoren
+C: De Wouwse poort
+D: De Toren van Strienestad
+hint: De Molenweg heet zo omdat er een molen stond. Dus...
+right: Op de hoek van de Molenweg met de Wouwstestraat en Wipstraat stond de Wouwse poort. Een grote toren die tot op de dag van vandaag een raadsel is. Er zijn zelfs verhalen dat er onder of rond de toren een schat begraven was. Veel mensen hebben daar naar gezocht, maar nooit gevonden. Wanneer de toren gebouwd is en waarvoor hij diende weet niemand. Op een tekening uit 1525 staat hij al afgebeeld als een ru&iuml;ne dus hij moet toen al oud geweest zijn. Misschien was het een woontoren, een zogenaamde donjon. Van hieruit kon men zich goed verdedigen tegen aanvallen. Ook hield je er droge voeten in geval van een overstroming. Later is het mogelijk de stadspoort geweest en er zijn zelfs aanwijzingen dat hij als gevangenpoort is gebruikt. In 1670 stortte een deel van de toren in. De stenen werden schoongemaakt en verkocht. De witte natuursteen is gebruikt voor de aanleg van voetpaden in Kruisland. In 1728 werden stenen van de Wouwse poort gebruikt voor de aanleg van de weg naar de Blauwe Sluis (richting Kruisland). In 1747 tenslotte zijn de laatste restanten opgeblazen.
+wrong: 
+author: dasja
+answer: C

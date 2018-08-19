@@ -1,0 +1,18 @@
+title: Stichter van Kruisland
+published: 1
+body: Wie heeft Kruisland gesticht?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 4
+media: SvbbGkZMWE
+A: Graaf Engelbrecht II van Nassau
+B: Graaf Van Diepenbeek
+C: Jan Kruis
+D: Siem van de Burg
+hint: Toen heette Kruislandnog Engels Dorp of Engelse Berg.
+right: Kruisland is gesticht door Engelbrecht II van Nassau. Hij was de graaf en grote veldheer die vanuit het kasteel in Breda bestuurde en er voor heeft gezorgd dat Kruisland in 1487 werd ingepolderd. Volgens akte is Kruisland op 10 maart 1487 officieel als dorp opgericht.
+wrong: 
+author: dasja
+answer: A

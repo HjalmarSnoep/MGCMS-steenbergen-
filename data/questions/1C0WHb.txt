@@ -1,0 +1,18 @@
+title: &#039;t Pompke
+published: 0
+body: In Kruisland wordt iedere week een krantje met nieuwtjes, activiteiten en advertenties verspreid. Hoe heet dit krantje?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 4
+media: nxSpYIu180
+A: Steenbergse Courant
+B: Kruislands Nieuwsblad
+C: Het Pompke
+D: De Kreekkrant
+hint: Je vindt het ook op de markt in Kruisland.
+right: Op 11 april 1969 verschijnt het eerste krantje met de naam Het Pompke. Een aantal vrijwilligers zet zich iedere week in om het blaadje in elkaar te zetten. De kosten van het blaadje worden betaald uit advertenties, giften en de Piekenpomp (dit is een loterij waar men iedere week aan mee kan doen). De initiatiefnemer tot de oprichting van het Pompke was Piet van Boxtel.
+wrong: 
+author: dasja
+answer: C

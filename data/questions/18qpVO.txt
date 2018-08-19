@@ -1,0 +1,18 @@
+title: Suiker
+published: 1
+body: Hoeveel kilo suiker haalt de Dinteloordse Suikerunie uit acht suikerbieten?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 5
+media: Jniby09Yn6
+A: 35
+B: 0,5
+C: 1
+D: 8
+hint: Toch kun je beter twee pakken suiker dan 16 suikerbieten in je keukenkastje hebben staan
+right: In &eacute;&eacute;n suikerbiet zit genoeg suiker voor vijfendertig suikerklontjes. Om een kilo suiker te maken zijn ongeveer acht suikerbieten nodig.
+wrong: 
+author: dasja
+answer: C

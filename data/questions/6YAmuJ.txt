@@ -1,0 +1,18 @@
+title: Haven
+published: 1
+body: Wat was de Dinteloordse haven vroeger?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 5
+media: 0tucrKMlIQ
+A: Een visafslag
+B: Een jachthaven
+C: Een scheepswerf
+D: Een vluchthaven
+hint: Als je ouders met de auto panne hebben op de snelweg waar proberen ze hem dan te parkeren? Bij de scheepvaart is dat niet anders.
+right: De Dinteloordse haven diende vroeger als vluchthaven voor de binnenscheepvaart. Wanneer een schip in de nood kwam, kon hij daar naartoe varen en op de reparateur wachten. Het is een beetje te vergelijken met de vluchthavens op de autosnelweg waar automobilisten kunnen wachten tot de Wegenwacht komt helpen. Na de afsluiting van het Volkerak bij Willemstad werd Dinteloordse vluchthaven overbodig en zijn er de jachthavens gevestigd.
+wrong: 
+author: dasja
+answer: D

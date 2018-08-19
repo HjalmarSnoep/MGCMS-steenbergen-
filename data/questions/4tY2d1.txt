@@ -1,0 +1,18 @@
+title: Sint Jacobskerk
+published: 1
+body: In Steenbergen stond vroeger (1510-1830) de Sint Jacobskerk. Waar werd hij uiteindelijk voor gebruikt?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 1
+media: 05gzLBzB7J
+A: Om paarden te stallen
+B: Om kerkdiensten te houden
+C: Om arbeidsmigranten te huisvesten
+D: Als gemeenschapshuis
+hint: Ze staan ook wel eens in de gang.
+right: In 1510 werd in Steenbergen de Sint Jacobskerk gebouwd. De kerk stond op de plek waar nu de Nederlands Hervormde Kerk aan het Kerkplein staat. Tijdens de Tachtigjarige Oorlog (1568-1648) werd Steenbergen om beurten bezet door de Spanjaarden en de Nederlanders (Staatsen). Dat betekende nogal wat. Ook voor de kerk. Wanneer de Spanjaarden aan de macht waren dan mochten de katholieken alles. Maar was de machthebber staatsgezind dan moesten de katholieken onzichtbaar hun geloof belijden. In 1591 werd Steenbergen ingenomen door de Staatsen onder leiding van Prins Maurits. Toen kregen de gereformeerden (een soort protestanten) de katholieke Sint Jacobskerk. Maar hij was veel te groot voor hen dus maakten ze er een legerbarak van. Aan het eind van zijn tijd was het zelfs een paardenstal! Daar ging het gebouw niet op vooruit enin 1830 was het zo vervallen dat het gesloopt werd. De protestanten bouwden een nieuwe kerk op de fundering van de oude. De katholieken bouwden ook een nieuwe kerk
+wrong: 
+author: dasja
+answer: A

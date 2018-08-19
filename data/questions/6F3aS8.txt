@@ -1,0 +1,18 @@
+title: Rockband
+published: 1
+body: Welke groep speelde ooit het nummer One Step Beyond, ook wel de naam van een Nieuw-Vossemeerse rockband?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 3
+media: kIPMKYMKPd
+A: Madness
+B: The Rolling Stones
+C: The Beatles
+D: The Golden Earring
+hint: Compleet gestoorde band.
+right: Aan het begin van de 21e eeuw begonnen enkele Nieuw-Vossemeerders met het maken van rockmuziek. Dat viel nog helemaal niet mee dus besloten ze eerst maar eens les te volgen. Dat leverde resultaat op, want sinds die tijd is One Step Beyond een graag geziene gast bij festivals en caf&eacute;&#039;s in de wijde omgeving. Ook het nummer One Step Beyond van Madness ontbreekt natuurlijk niet in het repertoire.
+wrong: 
+author: dasja
+answer: A

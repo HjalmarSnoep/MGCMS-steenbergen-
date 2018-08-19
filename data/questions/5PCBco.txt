@@ -1,0 +1,18 @@
+title: hervormde kerk
+published: 1
+body: Waaraan zie je dat deze Hervormde kerk van Dinteloord een monument is?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 5
+media: 6jUBb0GY7T
+A: Aan de leeuw in het wapen
+B: Aan het blauwwitte bordje naast de deur
+C: Aan de goudkleurige verf
+D: De kerk is helemaal geen monument
+hint: Het is een internationaal teken, dus jekunt het over de hele wereld tegenkomen.
+right: Aan het blauwwitte bordje naast de deur zie je dat dit een rijksmonument is. Met de bouw werd in 1693 begonnen en enkele jaren later was de kerk gereed voor gebruik. In november 1944, vlak voor de bevrijding, werd de kerk zwaar beschadigd door de bombardementen van de Engelsen. Het gebouw is heel fraai gerestaureerd en boven de ingang is een prachtig wapenschild.
+wrong: 
+author: dasja
+answer: B

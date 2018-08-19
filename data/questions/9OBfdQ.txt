@@ -1,0 +1,18 @@
+title: Steunpilaren
+published: 1
+body: Wie waren in de 19e en begin 20e eeuw de steunpilaren op de boerderij?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 3
+media: eowi7pu4Yo
+A: Landarbeider en trekpaard
+B: De boer en de boerin
+C: De knecht en de koe
+D: De boer en de landarbeider
+hint: Machines waren er in die tijd nog niet. Alles gebeurde met man- en paardenkracht. Aardappels poten en rooien, graan oogsten en ook het dorsen.
+right: In de 19e en begin 20e eeuw waren de landarbeiders en het trekpaard de twee pijlers van het boerenbedrijf. Zonder hen kon het werk op een boerderij niet gebeuren. Landarbeiders waren er voldoende in Nieuw-Vossemeer. Dat waren zogenaamde &#039;daggelders&#039;. Omdat er vooral in het voorjaar en de zomer werk bij de boer was, kregen zij geen vast contract. Als het werk ophield stonden ze weer op straat. Machines waren er in die tijd nog niet. Alles gebeurde met mankracht. Aardappels poten en rooien, graan oogsten en ook het dorsen gebeurde met de spierballenkracht van de arbeiders. Het trekpaard was voor de boer ook onmisbaar. Dit waren vaak van die hele grote Zeeuwse knollen die je nu nog wel eens in het weiland ziet staan. Hun uithoudingsvermogen was sterk bij het zware werk van het ploegen en het vervoer van de producten.
+wrong: 
+author: dasja
+answer: A

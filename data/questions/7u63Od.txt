@@ -1,0 +1,18 @@
+title: Ronde Plassen
+published: 1
+body: In de Boomvaart zitten een paar opvallende plassen, zoals op de foto. Hoe noem je deze plassen?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 6
+media: bD8GEL00Un
+A: Kolken
+B: Vennen
+C: Wielen
+D: Bronnen
+hint: Waarschijnlijk danken ze hun naam aan de ronde vorm.
+right: Deze plassen noem je wielen. Het zijn kolken die achterbleven na een dijkdoorbraak. Het water dat hier doorheen stroomde, maakt een groot gat dat maar moeilijk dichtgemaakt kon worden. Als dat eenmaal gelukt was, werd de nieuwe dijk noodgedwongen rond de plas gemaakt worden. Dat verklaart dus alle bochten, met name die in de Boomdijk naast de Boomvaart liggen.
+wrong: 
+author: dasja
+answer: C

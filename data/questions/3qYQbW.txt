@@ -1,0 +1,18 @@
+title: IJsvogel
+published: 1
+body: Waar kan een ijsvogel niet tegen?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 6
+media: jgSnG4hsRY
+A: Hete zomer
+B: Natte herfst
+C: Mild voorjaar
+D: Koude winter
+hint: Je zult hem dan ook niet vaak op de ijsbaan aantreffen.
+right: Een ijsvogel is niet bestand tegen vorst. In strenge winters gaan de diertjes met bosjes tegelijkertijd dood omdat ze dan onvoldoende voedsel kunnen vangen. Dat is ook de reden dat ze in het voorjaar twee keer veel jongen krijgen. Daarmee kunnen ze de sterfte in de winter een beetje compenseren. Je zult je misschien afvragen waarom hij ijsvogel heet als hij helemaal niet tegen vorst kan. Dat heeft te maken met de kleur van zijn kop, rug en vleugels. Ze zijn een soort metallic blauw; zeg maar gerust ijsblauw. Vroeger werd hij daarom Eisenvogel (ijzeren vogel) genoemd. In de loop der jaren is de naam verbasterd naar ijsvogel. Ze broeden niet in nesten maar in nestpijpen die ze zelf graven in steile oeverwanden.Wist je dat de ijsvogel de ambassadeur van Steenbergen voor de biodiversiteit? Biodiversiteit betekent dat je binnen een gebied zoveel mogelijk verschillende soorten planten en dieren hebt. Daar kunnen we allemaal een steentje aan bijdragen. Bijvoorbeeld door bloemen in de tuin te planten. De gemeente doet dat door steile oeverwanden te graven voor de ijsvogels.
+wrong: 
+author: dasja
+answer: D

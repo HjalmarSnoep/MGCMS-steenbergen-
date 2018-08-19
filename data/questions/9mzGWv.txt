@@ -1,0 +1,18 @@
+title: Tante Luce en tante Truus
+published: 1
+body: Wat is er gebeurd met het standbeeld van tante Luce en tante Truus in Dinteloord?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 5
+media: hBEbqk8Uk4
+A: Niks, het staat er gewoon nog
+B: De bliksem is er ingeslagen
+C: Het is beklad door vandalen
+D: Het is gestolen
+hint: Zeg maar dat Tante Luce en Tante Truus op een dag aan de wandel gingen en nooit meer terugkwamen.
+right: Het beeld van tante Luce en tante Truus stond bij de Kreek in Dinteloord (waar nu de social sofa staat). Stond, want in 2009 werd het gestolen. Vermoedelijk vanwege het brons dat kostbaar is. De kans is dan ook erg groot dat het beeld omgesmolten is. Het was een bronzen standbeeld van twee markante Dinteloordse vrouwen die bijna iedereen vroeger kende. Ze hadden eigenlijk nooit contact met elkaar. Tante Luce was vroeger kapster en knipte het haar van heel veel kinderen uit Dinteloord. Op de binnenplaats achter haar kapsalon liepen kippen en er stond een bootjesschommel, een wip en een hobbelpaard. Als je geknipt was kreeg je altijd een koekje of een snoepje. Tante Truus werd op een boerderij geboren. Ze zorgde voor haar ouders. Ze las graag, en op bruiloften en partijen zegde ze gedichten op. Ze had altijd heel bijzondere kleren aan met veel kleuren en grote sieraden, ook toen ze al ouder was. Ze viel daarom een beetje uit de toon, maar daar trok ze zich niks van aan. Elk jaar ging ze naar Prinsjesdag in Den Haag en op haar zestigste ging ze nog brommer rijden.
+wrong: 
+author: dasja
+answer: D

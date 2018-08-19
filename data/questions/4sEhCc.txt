@@ -1,0 +1,18 @@
+title: Oudste kerk
+published: 1
+body: Welke kerk van Kruisland is de oudste kerk?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 4
+media: QG3uPKuR0K
+A: De kerk aan de markt
+B: De kerk aan de Langeweg
+C: De kerk aan de Kerkwerf
+D: De kerken zijn even oud
+hint: Deze kerk wordt allang niet meer gebruikt als gebedsgebouw. Nu is het ambachtsmuseum De Holle Roffel er gevestigd.
+right: De kerk op de markt werd in de beginjaren na de oprichting van Kruisland gebouwd, dus rond 1487. In 1580 werd hier de pastoor verjaagd, waardoor de kerk niet meer werd gebruikt. In 1651 werd het gebouw officieel protestant. In 1795 mochten de katholieken weer een eigen kerk bezitten. Er werd toen een nieuwe kerk gebouwd aan de Langeweg.Inmiddels is de kerk al jaren in gebruik als museum voor ambachtsmuseum De Holle Roffel.
+wrong: 
+author: dasja
+answer: A

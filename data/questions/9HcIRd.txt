@@ -1,0 +1,18 @@
+title: WAT?
+published: 1
+body: Wat is Dinteloord eigenlijk?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 5
+media: Ax1BHQ1UeM
+A: Onderdeel van een bergketen
+B: Een eiland
+C: Een woestijngebied
+D: Een atol
+hint: Men maakt zich in Dinteloord grote zorgen over het stijgen van de zeespiegel.
+right: Dinteloord is eigenlijk een eiland. Het wordt omringd door de Roosendaalse Vliet en de Steenbergse Vliet, de Dintel, het Mark-Vlietkanaal en het Volkerak. Sinds het Mark-Vlietkanaal is gegraven is Dinteloord helemaal omgeven door water.
+wrong: 
+author: dasja
+answer: B

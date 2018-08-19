@@ -1,0 +1,18 @@
+title: &#039;t Zandbaantje
+published: 1
+body: Waarom heet het Welbergse sportpark aan de Hoogstraat &#039;t Zandbaantje?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 6
+media: jQ0uCi6QDR
+A: Er stond vroeger een boerderij die &#039;t Zand heette
+B: Omdat er altijd stof ligt
+C: Zo noemde men de Hoogstraat vroeger
+D: Naar een bekende oud-Welbergenaar
+hint: Als je vroeger door de Hoogstraat liep moest je daarna altijd je klompen leeggooien. Heel vervelend.
+right: In 2013 verhuisde de Welbergse voetbalvereniging Sc Welberg van gemeenschapshuis De Vaert naar het nieuwe sportcomplex aan de Hoogstraat. Daar moest natuurlijk ook een naam voor komen. Er werd een prijsvraag uitgeschreven en daar kwam &#039;t Zandbaantje uit. Het is de naam die de mensen vroeger gebruikten voor de Hoogstraat. De reden daarvoor is heel simpel
+wrong: 
+author: dasja
+answer: C

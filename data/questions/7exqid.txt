@@ -1,0 +1,18 @@
+title: Landgoed
+published: 1
+body: Hoe heet het landgoed aan de rand van Dinteloord?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 5
+media: ArcVXlTawH
+A: Landgoed Westkreecke
+B: Landgoed Prinsland
+C: Landgoed Dinteloord
+D: Landgoed Mark en Dintel
+hint: Op het landgoed is de voormalige kreek teruggebracht.
+right: Het terrein waar landgoed Westkreecke ligt, was jarenlang in gebruik als akkerbouwgrond. Toen de eigenaren besloten te stoppen is het gebied omgevormd tot een natuurgebied. Er mogen vijf woningen worden gebouwd. Het landgoed is voor de inwoners van Dinteloord een recreatiegebied. Je kunt er wandelen, fietsen en vissen. Het landgoed dankt zijn naam aan de Westcreecke, een kreek die oorspronkelijk in het gebied lag voordat het werd ingepolderd. De huidige waterpartij ligt op dezelfde plaats.
+wrong: 
+author: dasja
+answer: A

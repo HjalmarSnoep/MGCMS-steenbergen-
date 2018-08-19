@@ -1,0 +1,18 @@
+title: Fietsenmakers
+published: 1
+body: Hoeveel fietsenmakers had de Welberg in de vorige eeuw?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 6
+media: KDhmGK7Mt3
+A: Nul
+B: Tien
+C: Vier
+D: Twee
+hint: Als je in die tijd een skelter had waarvan alle banden lek waren, dan had je er bij elke rijwielreparateur &eacute;&eacute;n kunnen laten plakken.
+right: De fiets was de eerste helft van de 20e eeuw een heel veel gebruikt vervoermiddel. Iedereen had er wel &eacute;&eacute;n en voor velen was het het dagelijkse vervoersmiddel. Het was echt niet gebruikelijk dat iedereen een eigen auto had. Zodoende waren er ook veel fietsenmakers. Op de Welberg waren er zelfs vier
+wrong: 
+author: dasja
+answer: C

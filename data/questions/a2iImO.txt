@@ -1,0 +1,18 @@
+title: Specialiteit
+published: 1
+body: Al meer dan honderd jaar is bakkerij Van Broekhoven gevestigd in Welberg. Wat is een specialiteit van deze bakker?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 6
+media: QXbKmSasc1
+A: Zeeuwse bolussen
+B: Worstenbrood
+C: Krentenbrood
+D: Bruidstaarten
+hint: Daar kun je een hartig woordje over wisselen.
+right: De eerste Van Broekhoven in de rij was Marinus. Hij bracht het brood met paard en wagen naar zijn klanten. Zijn zoon Harry en diens zoons Rein en Jan zetten de zaak voort. Het bedrijf groeide en breidde uit met een filiaal in Halsteren. Momenteel staat de vierde generatie, de broers Harry en Bart van Broekhoven aan de oven. Een specialiteit van Van Broekhoven is het worstenbrood dat al decennia lang naar geheim recept wordt bereid.
+wrong: 
+author: dasja
+answer: B

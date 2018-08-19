@@ -1,0 +1,18 @@
+title: Travalje
+published: 1
+body: Op de foto zie je de travalje van de smederij van de Welberg. Waar werd het voor gebruikt?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 6
+media: ehSE1BOPPu
+A: Om de was op te hangen
+B: Om een geslacht varken in op te hangen
+C: Om hout in op te slaan
+D: Om paarden te beslaan
+hint: Het was vooral voor de veiligheid van de ambachtsman.
+right: De travalje op de foto vind je naast de oude smederij aan de Welbergsedijk in Welberg. Een travalje werd gebruikt om de hoeven van een paard te kunnen beslaan. Door het dier in het travalje te zetten werd het voor de hoefsmid een stuk makkelijker en veiliger om nieuwe hoefijzers onder de dieren te slaan.
+wrong: 
+author: dasja
+answer: D

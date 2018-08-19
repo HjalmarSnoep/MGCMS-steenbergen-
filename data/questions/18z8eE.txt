@@ -1,0 +1,18 @@
+title: Rijkdom
+published: 1
+body: Niet alleen handelaren profiteerden van de rijkdom van Steenbergen in de 15e en 16e eeuw. Wie nog meer?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 1
+media: NwjJn7C8hl
+A: De belasting
+B: De gemeente
+C: De arme mensen
+D: De Kerk
+hint: Daar wijdden ze dan ook wel een extra dankgebedje aan.
+right: De 15e eeuw en de eerste helft van de 16e eeuw waren de bloeitijd van Steenbergen als handelsstad. In deze tijd worden verschillende polders drooggelegd en profiteren Steenbergse reders (eigenaren van schepen) van de zouthandel en wolvaart op Antwerpen en van de doorvaart van luxe goederen naar het noorden van Nederland. Ook het kerkelijk leven is rijk in die tijd. Dat werd zichtbaar gemaakt met de bouw van de Sint-Jacobskerk in 1510. Het gebouw stond op de plaats waar nu de Nederlands Hervormde Kerk aan het Kerkplein staat. In 1830 is het gesloopt.
+wrong: 
+author: dasja
+answer: D

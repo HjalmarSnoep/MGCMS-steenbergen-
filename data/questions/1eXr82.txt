@@ -1,0 +1,18 @@
+title: Sportvereniging
+published: 1
+body: Waar is de Nieuw Vossemeerse Sportvereniging (NVS) opgericht?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 3
+media: mBJOBKUiPk
+A: In een caf&eacute;
+B: Bij de eerste voorzitter thuis
+C: In de kantine van de club
+D: In het gemeentehuis
+hint: Daar moest op gedronken worden!
+right: Vlak na het einde van de Tweede Wereldoorlog, op 15 oktober 1945 werd de Nieuw-Vossemeerse voetbalvereniging N.V.S. geboren. Dit gebeurde in caf&eacute; Zwijters aan De Hoogte. Tegenwoordig hebben steeds meer voetbalverenigingen kunstgras, maar toen waren ze al blij dat er geen koeien op het voetbalveld liepen. Kleedkamers en kantines waren er al helemaal niet. De voetballers moesten zich gewoon omkleden in een caf&eacute; of zo. Na 1953 kreeg NVS wel een eigen voetbalveld. Dat lag aan de Burgemeester Janssensstraat. In 1975 was het groot feest bij de voetbal. Want toen kregen zij een eigen voetbalveld op sportpark De Danen aan de Assumburgweg. In al die jaren waren er hoogte- en dieptepunten. De grootste successen behaalde NVS tussen 1961 en 1965 en tussen 1990 en 1994. Toen speelden de blauwwitten (dat zijn de kleuren van de club) in de 4e klasse KNVB.Als &eacute;&eacute;n van de eersten in de regio kreeg de club een damesafdeling. Dat gebeurde al in 1968.
+wrong: 
+author: dasja
+answer: A

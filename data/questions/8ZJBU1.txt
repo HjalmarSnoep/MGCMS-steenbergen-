@@ -1,0 +1,18 @@
+title: Bron van inkomsten
+published: 1
+body: Wat was de belangrijkste bron van inkomsten in de beginjaren van Dinteloord?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 5
+media: 585xDon5ar
+A: Landbouw
+B: Veeteelt
+C: Suikerfabriek
+D: Visvangst
+hint: In 1605 bestond Dinteloord grotendeels uit poldergebied.
+right: Dinteloord werd in 1605 gesticht, maar bestond toen uit slechts een paar straten. Verder was het vooral een poldergebied waarbinnen de landbouw de grootste bron van inkomsten was. Er werd onder andere graan, meekrap, vlas, koolzaad en boekweit verbouwd.
+wrong: 
+author: dasja
+answer: A

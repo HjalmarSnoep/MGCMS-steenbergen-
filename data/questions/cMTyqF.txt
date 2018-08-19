@@ -1,0 +1,18 @@
+title: top 3
+published: 1
+body: In de Kruislandse polder worden verschillende landbouwgewassen verbouwd, zoals graan, bieten, aardappelen en uien. Met de teelt van welke landbouwgewassen hoort de polder van Kruisland tot de top 3 van Nederland?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 4
+media: L0kaLavi5x
+A: Ui - KrUIsland
+B: Sla - KruiSLAnd
+C: Pootaardappelen - Kruisland, Aardappelland
+D: Andijvie -KruislAndijvie
+hint: We noemen ze ook wel errepels.
+right: De bodem van Kruisland bestaat uit klei en is daarom heel erg geschikt voor de teelt van pootaardappelen. Veel agrari&euml;rs verbouwen hier hun pootaardappelen, waardoor Kruisland een van de grootste leveranciers is van pootgoed in Nederland. De pootaardappelen zijn vooral voor de export.
+wrong: We noemen ze ook wel errepels
+author: dasja
+answer: C

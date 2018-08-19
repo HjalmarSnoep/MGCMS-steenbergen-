@@ -1,0 +1,18 @@
+title: Forensendorp
+published: 1
+body: Welberg is een forensendorp. Wat betekent dat?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 6
+media: NwHGpZ05SJ
+A: Dat er vooral hele rijke mensen wonen
+B: Dat de mensen die er wonen er ook werken
+C: Dat er vooral gepensioneerden wonen
+D: Dat de mensen die er wonen er niet werken
+hint: Je noemt het ook wel pendelen.
+right: Het grootste gedeelte van de werkende inwoners van de Welberg, werkt niet op het dorp zelf. Dat is ook nooit zo geweest. Aan het begin van de vorige eeuw vertrokken de arbeiders al iedere morgen naar hun werk buiten het dorp.
+wrong: 
+author: dasja
+answer: D

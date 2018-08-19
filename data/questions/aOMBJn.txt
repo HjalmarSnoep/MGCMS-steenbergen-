@@ -1,0 +1,18 @@
+title: &#039;t Cromwiel
+published: 1
+body: Waar heeft het Steenbergse gemeenschapshuis &#039;t Cromwiel zijn naam aan te danken?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 1
+media: KB2yxiRdgo
+A: Aan een oude fietsenmaker die in de stad woonde
+B: Aan een polder
+C: Het was de naam van een oude toneelvereniging
+D: Aan een caf&eacute; dat &#039;t Cromme Wiel heette
+hint: Je bent een agrarische gemeente of je bent het niet.
+right: &#039;t Cromwiel is de naam van een oude Steenbergse polder. &#039;Maar hoe komt die polder dan weer aan zijn naam?&#039;, vraag je je misschien af. We leggen het even uit
+wrong: 
+author: dasja
+answer: B

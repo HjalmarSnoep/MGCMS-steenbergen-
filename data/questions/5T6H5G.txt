@@ -1,0 +1,18 @@
+title: Sint Corneliuskerk
+published: 0
+body: In Welberg staat de Sint Corneliuskerk. Deze is sinds november 2014 niet meer in gebruik als kerk. Hoe heet de straat waar het kerkgebouw staat?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 6
+media: 23bNJZSjwX
+A: Kapelaan Kockstraat.
+B: Corneliusstraat.
+C: Pastoor Kerckerstraat.
+D: Kerkstraat.
+hint: De straat is vernoemd naar een Welbergenaar die in de Tweede Wereldoorlog door de Duitsers werd vermoord.
+right: De straat is genoemd naar de Welbergse Kapelaan Kock die tijdens de Tweede Wereldoorlog dood ging. De kapelaan (een soort hulppastoor) werd op 1 november 1944 vermoord door de Duitsers. Van 29 oktober tot en met 4 november 1944 vond er rond Welberg en Steenbergen een keiharde strijd plaats tussen de bezetters en de bevrijders. Veel mensen vluchtten of doken onder. Kapelaan Kock dook samen met nog 20 andere mensen onder in de kelder van het hoofd van de school van Welberg. Op 1 november verschenen er ineens een paar Canadezen op het dorp. De mensen dachten dat zij bevrijd waren. Maar de Canadezen waren alleen maar op verkenning en gingen weer weg. Later die dag kwamen de Duitsers terug. Zij dachten dat de kapelaan informatie aan de Canadezen had gegeven. Zij takelden de kapelaan zo erg toe dat hij niet meer overeind kon komen. Uiteindelijk is hij aan de kant van de weg aan zijn verwondingen gestorven.
+wrong: 
+author: dasja
+answer: A

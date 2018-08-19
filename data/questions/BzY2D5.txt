@@ -1,0 +1,18 @@
+title: Slag op het Slaak
+published: 1
+body: Tijdens welke oorlog vond de Slag op het Slaak plaats?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 2
+media: ZCgMAYfAjB
+A: De Tweede Wereldoorlog
+B: De Tachtigjarige Oorlog
+C: De Eerste Wereldoorlog
+D: De Engelse Oorlog
+hint: De Slag op &#039;t Slaak was bijna vergeten. Dat is niet zo vreemd want hij duurde maar 2 dagen en de hele oorlog duurde ruim 29.000 dagen.
+right: Op de wateren van het Volkerak, het Krammer en het Slaak vond op 12 en 13 september 1631 een beslissende slag plaats tussen een Staatse vloot (van de Zeven Verenigde Nederlanden) en een Spaanse vloot. Het plan van de Spanjaarden was om Holland en Zeeland van elkaar te scheiden. Daardoor zouden zij de controle krijgen over de rivier de Schelde en de toegang tot Antwerpen. Het leek even te lukken, maar de bevelvoerder van de Staatse vloot was de Spanjaarden toch te slim af. De doorvaart van de Schelde bleef in Zeeuwse handen.
+wrong: 
+author: dasja
+answer: B

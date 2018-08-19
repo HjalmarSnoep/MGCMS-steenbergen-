@@ -1,0 +1,18 @@
+title: Zouthandel
+published: 1
+body: Waardoor verdween de Steenbergse zouthandel in de 15e eeuw?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 6
+media: tiTbq7LZog
+A: Concurrentie en het werd verboden
+B: Het zout raakte op
+C: Er was geen behoefte meer aan zout
+D: Er was niemand meer die het wilde winnen
+hint: Door het afgraven van het veen waar het zout in zat, raakten de dijken verzwakt.
+right: Steenbergen kende eeuwenlang grote rijkdom dankzij het veen dat gewonnen werd in natuurgebied het Oudland bij Welberg. Uit dit veen kon namelijk zout gewonnen worden en zout was in die tijd zeldzaam en dus kostbaar. Halverwege de 15e eeuw kwam er een einde aan deze voorspoed. Vooral vanwege de aanvoer van veel goedkoper zout uit het buitenland. In Zeeland werd de moernering, het winnen van zout uit veen, verboden. Door het delven van het veen werden de dijken zo slecht dat ze doorbraken en hele gebieden onder water zetten. Reimerswaal op Tholen is in die tijd zelfs helemaal verdwenen.
+wrong: 
+author: dasja
+answer: A

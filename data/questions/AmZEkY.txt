@@ -1,0 +1,18 @@
+title: Groene specht
+published: 1
+body: De groene specht zie je regelmatig vliegen in en om de Welberg. Waar vindt deze vogel zijn voedsel?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 6
+media: htJHKdZ2ps
+A: In bomen
+B: In het water
+C: In de grond
+D: In fruit
+hint: Hij is zo groen als gras.
+right: Als je aan spechten denkt, dan denk je aan vogels die met hun lange snavels op de bomen roffelen. Dat beeld klopt niet, althans niet voor de groene specht. Hij hakt wel zijn nest in de boom, maar zijn voedsel vindt hij in en op de grond. Het is dan ook niet vreemd wanneer je een groene specht door het weiland ziet hippen. Hij heeft een lange tong met een kleverig uiteinde waarmee hij mieren en larven uit hun nest kan likken. De winter met zijn sneeuw en bevroren grond is dus niet het meest favoriete jaargetijde van deze vogel.
+wrong: 
+author: dasja
+answer: C

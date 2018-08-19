@@ -1,0 +1,18 @@
+title: Koos en Piet Helmons
+published: 1
+body: Na de bevrijding van Steenbergen kwamen Koos (16) en Piet (12) Helmons toch nog om het leven als gevolg van de Tweede Wereldoorlog. Hoe gebeurde dat?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 1
+media: CdtRxABwV4
+A: Hun huis stortte in als gevolg van de bombardementen
+B: Ze waren heel erg verzwakt als gevolg van de oorlog
+C: Ze overleden in een concentratiekamp
+D: Ze liepen op een landmijn
+hint: Er viel veel voor jonge jongens veel te ontdekken, die dagen na de oorlog. Maar het gevaar lag overal, zelfs onder je voeten.
+right: Koos (links op de foto) en Piet (rechts op de foto) Helmons waren 16 en 12 jaar jong toen Steenbergen bevrijd werd. Negen dagen later, op 13 november 1944 kwamen zij alsnog om het leven door een landmijn. De scholen waren natuurlijk nog niet begonnen zo kort na de zware gevechten die er in Steenbergen plaatsgevonden hadden. De jongens waren zomaar een beetje rond aan het struinen. Het was natuurlijk hartstikke spannend om tussen de brokstukken en achtergebleven oorlogstroep rond te snuffelen. Het gevaar ervan zagen zij niet in. Tot de broers in de Oudlandsestraat op een niet ontplofte mijn liepen. Ze waren op slag dood. Een gebeurtenis die bij hun broer Ad (in het midden op de foto) een onuitwisbare indruk geeftgemaakt.Waar het gebeurde staat nu een luisterpaal van de Liberation Route. Die staat op de kruising van de Moerstraatseweg met de Hoogstraat want daar liep vroeger de Oudlandestraat nog.
+wrong: 
+author: dasja
+answer: D

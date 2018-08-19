@@ -1,0 +1,18 @@
+title: Jongste burgemeester
+published: 1
+body: Hou oud was Hubert Hennekens toen hij de jongste burgemeester ooit van Nieuw-Vossemeer werd?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 3
+media: YIQ5lOpFPL
+A: 29
+B: 18
+C: 65
+D: 44
+hint: Hennekens werd burgemeester in 1967. Hij werd twee jaar voor het begin van de Tweede Wereldoorlog geboren.
+right: Op 7 oktober 1967 werd Mr. Hubert Hennekens de opvolger van burgemeester Twaalfhoven. Hij werd op 1 augustus 1938 te Kerkrade geboren en was dus nog geen dertig jaar toen hij burgemeester werd. Hij was de jongste burgemeester die Nieuw-Vossemeer ooit gekend heeft. In de periode Hennekens werd het 400-jarig bestaan van het dorp gevierd. De burgemeester heeft zich bijzonder ingezet voor de restauratie van het Hervormde kerkje. Er gebeurde veel in en om Nieuw-Vossemeer toen Hennekens burgemeester was. Zo kreeg de rivier De Eendracht zijn huidige naam, het Schelde-Rijnkanaal, en werd een belangrijke vaarroute tussen Rotterdam en Antwerpen. Ook kwamen er meer en betere toegangswegen rond het dorp. In januari 1972 vertrok hij naar Cuyk waar hij tot burgemeester was benoemd.
+wrong: 
+author: dasja
+answer: A

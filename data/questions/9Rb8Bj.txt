@@ -1,0 +1,18 @@
+title: Fort Henricus
+published: 1
+body: Van welk verdedigingswerk is Fort Henricus een onderdeel?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 2
+media: U8NwwTXLdU
+A: De Atlantikwall
+B: Het IJzeren gordijn
+C: De West Brabantse Waterlinie
+D: De Muur van Brabant
+hint: Kwam de nood aan de man dan kon het gebied rond het Fort onder water gezet worden. Dat was het voordeel van de ligging.
+right: Toen De Heen werd gesticht, was de Tachtigjarige Oorlog in volle gang. En heel vermoeiende periode voor de stad Steenbergen. De ene keer was ze in Spaanse handen en een poosje later heroverden de &#039;eigen&#039; soldaten van het Staatse leger haar weer. In 1626 was Prins Maurits het beu en liet hij Fort Henricus bouwen tussen Steenbergen en De Heen. Tegenwoordig vlakbij het aquaduct Steenbergen aan Zee. Zodoende konden de stad en de Hollandse gewesten veel beter beschermd worden tegen de vijand. En het werkte want nadat het Fort af was, is Steenbergen niet meer in de handen van de vijand gevallen. Binnen de muren van het fort stonden allerlei gebouwen voor de huisvesting van de soldaten bijvoorbeeld. In 1812 verloor het fort haar functie als verdedigingswerk en het werd uiteindelijk helemaal opgeheven. Het raakte in verval en de gebouwen verdwenen. Tot het aan het begin van deze eeuw gekocht werd door Natuurmonumenten en er begonnen werd met de restauratie.
+wrong: 
+author: dasja
+answer: C

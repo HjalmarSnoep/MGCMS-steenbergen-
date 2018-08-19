@@ -1,0 +1,18 @@
+title: Bedrijfssoorten
+published: 1
+body: Om welke twee bedrijfsoorten stond Kruisland vroeger bekend?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 4
+media: hVeJIYyngj
+A: Korenmolens en meekrapverwerking
+B: Cafes en smederijen
+C: Oliemolens en houtzagerijen
+D: Suikerfabrieken en rederijen
+hint: De straatnamen Meestoof en Molenstraat herinneren nog aan die tijd.
+right: In Zeeland en West Brabant werd meekrap geteeld. In de meestoven werden de meekrapwortelen verwerkt tot een rode kleurstof, waarmee textiel en leer werd geverfd. Beide molens waren korenmolens.
+wrong: 
+author: dasja
+answer: A

@@ -1,0 +1,18 @@
+title: Hoog Plate
+published: 1
+body: In welk jaar is Nieuw-Vossemeer (toen nog Hoog Plate genaamd) gesticht?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 3
+media: BbmCaQWthM
+A: 1567
+B: 1948
+C: 300 v.C.
+D: 1647
+hint: Tijdens de tachtigjarige oorlog (1568-1648) vernielden de Spaanse en Nederlandse soldaten Hoog Plate. Toen de oorlog begon was het dorp nog maar een jaar oud.
+right: Nieuw-Vossemeer was eerst alleen maar natuur. Er woonde daar helemaal niemand. De Ambachtsheren die hier de baas waren, zijn met toestemming van de Prins van Oranje en de Markies van Bergen op Zoom begonnen om dijken rond het gebied te leggen. Daardoor kon het drooggelegd worden en was het beschermd tegen het water. Toen dat gebeurd was, gingen ze op zoek naar kopers voor de grond. Er werden 24 stukken grond verkocht en een nieuw dorp gesticht. Dat werd Hoog Plate genoemd. Dit dorp heeft niet lang bestaan. De Tachtigjarige Oorlog (1568-1648) bereikte het nieuwe dorp in 1583. De Spanjaarden staken de dijken door, zetten de gebouwen in brand en mishandelden de dorpsbewoners. En ook de eigen Staatse (Nederlandse) soldaten deden het dorp geen goed. Hoog Plate werd uiteindelijk met de grond gelijk gemaakt.
+wrong: 
+author: dasja
+answer: A

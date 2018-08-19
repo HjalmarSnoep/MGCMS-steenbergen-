@@ -1,0 +1,18 @@
+title: Einde Carnaval
+published: 1
+body: Wat gebeurt er in Kruisland ieder jaar tijdens carnaval op dinsdagavond om 20.00 uur?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 4
+media: C648gZwvFW
+A: Kinderbal
+B: Pompverbranding
+C: De nieuwe Prins wordt gepresenteerd
+D: Carnavalsmis
+hint: In Strienestad doen ze het met de mus en in &#039;t Vosse-ol met de Heks van de Rietkreek.
+right: Ieder jaar wordt er ter gelegenheid van carnaval een Pomp gemaakt voor de Pompedurpse (Kruislandse) carnaval. Steeds door een andere vereniging. De Pomp wordt gevuld met brandbaar materiaal en op dinsdag om 20.00 uur aangestoken door de Prins. Hiermee wordt de carnaval afgesloten. Het is ook het moment waarop het motto voor de volgende carnaval bekend wordt gemaakt.
+wrong: 
+author: dasja
+answer: B

@@ -1,0 +1,18 @@
+title: Zwembad
+published: 1
+body: Hoe heet het zwembad in Dinteloord?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 5
+media: Ifl7MHHqVX
+A: De Meermin
+B: Aquadintel
+C: Dintelbad
+D: Zwemoord
+hint: Een vierkante bak water waar vissen in zwemmen heet een ? Dus de naam voor een vierkante bak waar Dinteloorders in zwemmen, is niet slecht verzonnen.
+right: Het Dinteloordse zwembad Aquadintel ligt aan de Dorus Rijkersstraat 2 en is geopend van eind april tot begin september.
+wrong: 
+author: dasja
+answer: B

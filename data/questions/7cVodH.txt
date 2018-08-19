@@ -1,0 +1,18 @@
+title: Hoogteverschil
+published: 1
+body: Het dorp Kruisland ligt in een lager gelegen (klei)polder; fors lager dan het naastgelegen dorp Wouw. Hoe groot is dit hoogteverschil?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 4
+media: VFBzPAm3EO
+A: 10 meter
+B: 7 meter
+C: 6 meter
+D: 11 meter
+hint: Wanneer je A van D aftrekt en je telt C erbij op, dan heb je het antwoord.
+right: Het maaiveld van Kruisland ligt op circa + 0 NAP, het dorp Wouw is aangelegd op de hoger gelegen zandgronden. Het maaiveld van Wouw is circa + 7 NAP.Het scheelt dus 7 meter.
+wrong: 
+author: dasja
+answer: B

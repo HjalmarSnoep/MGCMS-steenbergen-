@@ -1,0 +1,18 @@
+title: Carnavalslied
+published: 1
+body: De Raldal (de Welberg) heeft een eigen carnavalslied. Van wie is de melodie waarop een nieuwe tekst is gemaakt?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 6
+media: https
+A: Jan Boezeroen
+B: Vader Abraham
+C: Guus Meeuwis
+D: Frans Bauer
+hint: Het dondert en het bliksemt.
+right: Tijdens de carnaval van 2000 presenteerden Ingrid van Wesel en Claudia de Groen het carnavalslied van D&#039;n Raldal. Op de klanken van het nummer &#039;t Dondert en &#039;t Bliksemt van zanger Guus Meeuwis maakten zij een eigen tekst, helemaal toegesneden op D&#039;n Raldal. Het werd ook het lijflief van de Welbergse dweilband D&#039;n Dweilberg. Deze band poetste het nummer in 2014 eens stevig op. Het werd opnieuw ingezongen door zanger Christ Antonissen en er werd een videoclip bij gemaakt die op Youtube staat.
+wrong: 
+author: dasja
+answer: C

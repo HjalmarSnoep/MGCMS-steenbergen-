@@ -1,0 +1,18 @@
+title: Carnaval
+published: 1
+body: Hoe heet Dinteloord in carnavalstijd?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 5
+media: 2hlWgvit5z
+A: Strieneoord
+B: Leuttrappersdurp
+C: Peejloofdurp
+D: Suukerdurp
+hint: De suikerbiet neemt een belangrijke plaats in in de geschiedenis van Dinteloord.
+right: Tijdens de carnaval heet Dinteloord Peejloofdurp. Een verwijzing naar de suikerbieten, oftewel de suukerpeeje. En daarmee naar de Dinteloordse Suikerunie die een belangrijke plaats inneemt in de geschiedenis van het dorp. Overigens neemt de carnaval hier een andere plaats in dan in de andere kernen van de gemeente Steenbergen. Zo heeft Peejloofdurp geen eigen Prins en gevolg. Wel wordt er sinds een paar jaar weer een optocht gehouden. Dit gebeurde op initiatief van de plaatselijke bouwclub De Leuttrappers die ieder jaar&eacute;&eacute;n van de mooiste grote wagens uit de gemeente Steenbergen weet te produceren.
+wrong: 
+author: dasja
+answer: C

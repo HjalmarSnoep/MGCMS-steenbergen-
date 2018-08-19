@@ -1,0 +1,18 @@
+title: concordia
+published: 1
+body: Waardoor kwam er een einde aan het Steenbergse Hotel &#039;Concordia&#039;?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 1
+media: ipNkFjlRzV
+A: Door een grote brand
+B: Door de economische crisis
+C: Het werd plat gebombardeerd in de Tweede Wereldoorlog
+D: Het moest plaatsmaken voor woningbouw
+hint: Het werd de gasten wat te heet onder de voeten.
+right: Op de hoek van de Ruiterstallen en het Kerkplein in Steenbergen stond vroeger een hotel. Het heette &#039;Concordia&#039;. In 1971 brandde het hotel af.Het is niet het enige hotel dat verdween in Steenbergen. Op de plaats waar nu de dierenkliniek aan de Kruispoort te vinden is, was vroeger hotel Kruispoort van Rinus Vissenberg gevestigd. En aan de Burgemeester van Loonstraat, recht tegenover de Kaaistraat stond vroeger Hotel van Tilburg. Nu staat daar seniorenflat De Tilleborgh.
+wrong: 
+author: dasja
+answer: A

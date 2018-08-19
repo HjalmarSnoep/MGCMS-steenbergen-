@@ -1,0 +1,18 @@
+title: Naam Jeugdwerk
+published: 1
+body: Hoe heet het Welbergse meisjesjeugdwerk voluit?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 6
+media: DTGUH1s0fu
+A: MeisjesJeugdWerk &#039;De Club&#039;
+B: MeisjesJeugdWerk &#039;t Kluppie&#039;
+C: MeisjesJeugdWerk &#039;De Klup&#039;
+D: Meisjesjeugdwerk &#039;Jongerenstad&#039;
+hint: Je schrijft het zoals je het zegt.
+right: MeisjesJeugdWerk &#039;De Klup&#039;. Het jeugdwerk voor meisjes op de Welberg ontstond in 1930 toen er een patronaat kwam (een verenigingsgebouw). In 1987 werd gekozen om aan de bestaande naam MeisjesJeugdwerk, &#039;De Klup&#039;, toe te voegen.
+wrong: 
+author: dasja
+answer: C

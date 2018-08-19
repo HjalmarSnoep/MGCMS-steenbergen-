@@ -1,0 +1,18 @@
+title: Boom Corneliusstraat
+published: 1
+body: Wat voor boom werd er op 2 november 2014 in de Corneliusstraat geplant?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 6
+media: 4z7PNWDIPb
+A: Een Noorse kerstboom
+B: Een Franse eikenboom
+C: Een Canadese esdoorn
+D: Een Amerikaanse populier
+hint: Het blad van deze boom vind je terug in de vlag van het land.
+right: Op zondag 2 november 2014 vond in de Corneliusstraat in Welberg een bijzondere gebeurtenis plaats. Er werd een boom geplant. Dat is op zich niet zo bijzonder maar het ging hier om een Canadese esdoorn die aangeplant werd door Sandy O&#039;Grady-Stirling die ook uit Canada kwam. De dochter van een Canadese majoor die bij de bevrijding van Welberg in 1944 gevangen werd genomen door de Duitsers en nooit meer thuis is gekomen. Zij schonk de boom ter nagedachtenis aan haar vader en al die anderen die stierven voor de vrijheid van ons land. Bij de boom staat een bordje waarop je dit allemaal kunt lezen.
+wrong: 
+author: dasja
+answer: C

@@ -1,0 +1,18 @@
+title: Uitstel
+published: 1
+body: In 1916 zou Nieuw-Vossemeer een nieuw gemeentehuis krijgen. Maar de bouw werd uitgesteld. Waarom?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 3
+media: RQ7wXF4Jnr
+A: Er was een grote staking in de bouwwereld
+B: De Eerste Wereldoorlog was in volle gang
+C: Er kwam een economische crisis
+D: Er kwam een gemeentelijke herindeling
+hint: Het was een tijd waarin er meer gebouwen kapot gingen dan dat er gebouwd werden.
+right: Vanaf 1910 wordt er in Nieuw-Vossemeer gedacht aan de bouw van een nieuw gemeentehuis. Het oude voldoet niet meer. Bovendien hadden de ambtenaren veel last van de luidruchtig spelende kinderen op het naastgelegen schoolplein. Besloten werd dat er in 1916 een nieuw gemeentehuis zou komen. Maar de Eerste Wereldoorlog gooide roet in het eten. In 1918 werd alsnog besloten een nieuw gemeentehuis te bouwen aan de Voorstraat. In 1920 was het klaar. Het pand kreeg een torentje voor de gemeentelijke luidklok. In de puntige voorpui kwam bovenin het gemeentewapen te staan. Je kunt het nog steeds bekijken. Het huis staat naast het Hervormde kerkje.
+wrong: 
+author: dasja
+answer: B

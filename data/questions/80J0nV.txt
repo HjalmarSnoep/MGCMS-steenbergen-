@@ -1,0 +1,18 @@
+title: Benedensas
+published: 1
+body: Wanneer werd aan de bouw van de sluis aan het Benedensas begonnen?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 2
+media: MHNVZ4CIaz
+A: 1822
+B: 1914
+C: 1776
+D: 1953
+hint: Koning Willem I (1772-1843) gaf opdracht tot de bouw.
+right: Het Benedensas behoorde samen met het Bovensas tot de werken die de Steenbergse Vliet af konden sluiten. In 1818 benoemde koning Willem I een commissie die de afsluiting van de Vliet moest voorbereiden. In 1822 begon de bouw aan beide sluizen, Benedensas en Bovensas. In februari 1824 vond de offici&euml;le opening van de schutsluis aan het Benedensas plaats. Behalve als schutsluis voor de scheepvaart, diende het waterwerk ook voor de ontwatering van de omliggende polders.
+wrong: 
+author: dasja
+answer: A

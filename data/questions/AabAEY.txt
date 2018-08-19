@@ -1,0 +1,18 @@
+title: Sluiten school
+published: 1
+body: Waarom sloot de openbare school van Nieuw-Vossemeer in 1933
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 3
+media: N3QiwMVCKg
+A: Er waren te weinig leerlingen
+B: Het gebouw brandde af
+C: Het was zomervakantie
+D: Er was een lerarentekort
+hint: In 2014 sloot de Fatimaschool in De Heen om dezelfde reden.
+right: De openbare school van Nieuw-Vossemeer stond achter de onderwijzerswoning aan de Voorstraat. Met de vernieuwingen in het katholieke onderwijs kwam de openbare school in de moeilijkheden genomen. Het aantal leerlingen nam af. In 1921 waren het er nog maar twaalf. Er gingen steeds meer stemmen op om de school te sluiten en de kinderen naar de openbare school in Steenbergen te sturen. Dat is uiteindelijk ook gebeurd. Toen in 1933 het aantal leerlingen tot zeven was gedaald, liet de onderwijsinspecteur weten dat het geen zin meer had om de school nog langer in stand te houden. De gemeenteraad nam in juni 1933 het besluit om per 1 oktober van dat jaar tot opheffing over te gaan.
+wrong: 
+author: dasja
+answer: A

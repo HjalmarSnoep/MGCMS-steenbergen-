@@ -1,0 +1,18 @@
+title: Boomvaart
+published: 1
+body: Waarvoor is de Boomvaart ooit aangelegd?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 2
+city: 6
+media: MrBITfJUiJ
+A: Als turfvaart
+B: Voor de pleziervaart
+C: Voor de afvoer van huisvuil
+D: Als afwatering van hoger gelegen gebieden
+hint: Dankzij de Boomvaart hield men in Wouw droge voeten.
+right: De Boomvaart is waarschijnlijk bedoeld geweest als afvoer van overtollig water dat van de polders rond Wouw liep. Vandaar dat de Boomvaart vroeger de Wouwsche Beek heette. Ook hield de Boomvaart de grachten in de vestingstad Steenbergen op peil. Hoewel velen beweren dat de vaart ook werd gebruikt om turf/veen te vervoeren, is dit volgens geschiedkundigen waarschijnlijk niet het geval geweest. Dit liep namelijk via een apart aangelegde vaart rechtstreeks vanuit het Oudland naar de haven van Steenbergen. Die vaart heeft er gelegen van 1404 tot 1535. Het turf dat gewonnen werd was overigens niet bedoeld als brandstof maar om er zout uit te winnen. Dat duurde tot het eind van de 15e eeuw waarna de zouthandel zo goed als verdween.
+wrong: 
+author: dasja
+answer: D

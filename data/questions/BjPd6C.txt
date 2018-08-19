@@ -1,0 +1,18 @@
+title: De Klok van Welberg
+published: 1
+body: Wat wordt ieder jaar in november herdacht bij De Klok van de Welberg aan de Canadazenweg?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 6
+media: hYtxcCih62
+A: De sluiting van de Corneliuskerk
+B: De bevrijding van de Welberg in WO II
+C: Het begin van de herfst
+D: De diefstal van de originele klok
+hint: Voor ieder slachtoffer een klokslag.
+right: Bij de bevrijding van de Welberg in november 1944 kwamen veel burgers en Canadese bevrijders om het leven. Sinds 2004 is er daarom aan de Canadezenweg in de Welberg een Bevrijdingsmonument waar ieder jaar een herdenking wordt gehouden. De Stichting Bevrijdingsmonument Welberg doet dit ten eerste omdat het heel bijzonder is dat onbekenden hun leven voor onze vrijheid in de waagschaal hebben gesteld. Zij willen dat iedereen zich dit blijft realiseren. Ten tweede willen ze dat de mensen van nu leren van de geschiedenis. Namelijk dat je problemen niet oplost met oorlog maar door met elkaar in gesprek te gaan.
+wrong: 
+author: dasja
+answer: B

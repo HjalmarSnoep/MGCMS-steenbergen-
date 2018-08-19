@@ -1,0 +1,18 @@
+title: Gedenksteen
+published: 1
+body: Waar vind je deze gedenksteen in De Heen?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 2
+media: 6ISpPGo5TK
+A: In een hoek van een boerenschuur
+B: In de stoep voor de kerk
+C: In het dorpsmuseum
+D: In het sluisje in de haven
+hint: Met zicht op de bootjes.
+right: In een hoek van een schuur aan de Kruislandseweg (de weg tussen Steenbergen en Kruisland) stond al jaren een oude granieten steen met het jaartal 1785 er in gehouwen. De eigenaar, de heer Postma, wilde wel eens weten waar die steen vandaan kwam en benaderde de Stichting Stadsarcheologie Steenbergen. De archeologen kwamen er na enig speurwerk achter dat het een gedenksteen was van het sluisje in de haven van De Heen. De steen was ooit onderdeel van een gemetselde sluis, die een houten sluis uit 1610 verving. In 1984 was de hele sluis komen te vervallen. De Stichting Stadsarcheologie Steenbergen heeft er met veel inzet voor gezorgd dat de sluis gerestaureerd werd. De gedenksteen werd in 2009 weer teruggeplaatst. Het sluisje is nu een gemeentelijk monument en een mooi rustpunt bij de Heense haven.
+wrong: 
+author: dasja
+answer: D

@@ -1,0 +1,18 @@
+title: Logo NVTV
+published: 1
+body: Welk dier vind je in het logo van de Nieuw-Vossemeerse Tennisvereniging NVTV?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 3
+city: 3
+media: bH0NhEMuWy
+A: Vos
+B: Kanarie
+C: Konijn
+D: Panter
+hint: 
+right: De NVTV (Nieuw-Vossemeerse Tennis Vereniging) vindt je op Sportpark De Danen aan de Assumburgweg in Nieuw-Vossemeer. Het is een kleine tennisvereniging, maar wel heel gezellig en sportief. De vereniging heeft sinds 2010 twee verlichte buitenbanen waar onder alle weersomstandigheden op gespeeld kan worden. Daarnaast heeft de club een modern clubgebouw met bar en uitzicht op de tennisbanen en een gezellig (overdekt) terras. Voor de jeugd is er een zogenaamde &#039;oefenkooi&#039; waar tegen een muur gespeeld kan worden.
+wrong: 
+author: dasja
+answer: A

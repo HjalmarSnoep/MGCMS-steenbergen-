@@ -1,0 +1,18 @@
+title: Poppy
+published: 1
+body: Wat voor bloem is een &#039;poppy&#039;.
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 6
+media: zVI2NJ4nGs
+A: Papaver
+B: Klaproos
+C: Paardenbloem
+D: Boterbloem
+hint: Afkomstig van het Engelse werkwoord
+right: Een poppy is het Engelse woord voor een klaproos. Sinds 2014 wordt geprobeerd om de klaproos rijkelijk te laten bloeien in en om de Welberg. Dat is een idee van de Stichting Bevrijdingsmonument Welberg. Deze stichting zet zich in om de slachtoffers die vielen tijdens de bevrijding van Welberg te herdenken. De klaproos is niet voor niets gekozen want het is namelijk al sinds de Eerste Wereldoorlog het symbool voor de slachtoffers van het oorlogsgeweld. En voor de prijs voor de vrijheid. Er is een beroemd gedicht, &#039;Flanders Field&#039;, geschreven door een militair in WO I, dat hier de aanleiding toe is. Zeker voor de Canadese veteranen die hier keihard vochten, is de klaproos een symbool voor alle gevallen. De Stichting Bevrijdingsmonument Welberg hoopt dat de klaproos een universeel symbool van de vrijheid wordt. Tijdens de herdenking van 70 jaar bevrijding in 2014 kregen alle aanwezigen zakjes klaprooszaad met het verzoek deze te zaaien waar men maar kon.
+wrong: 
+author: dasja
+answer: B

@@ -1,0 +1,18 @@
+title: Pieter Carel Wijnmalen
+published: 1
+body: E&eacute;n van de meest beruchte bewoners van Landgoed Ekelenberg bij de Welberg is Pieter Carel Wijnmalen. Wat was zijn beroep?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 1
+city: 6
+media: B98LMUYqZy
+A: Hij was jachtopziener
+B: Hij was dokter
+C: Hij was burgemeester
+D: Hij was pastoor
+hint: Pieter Carel Wijnmalen misbruikte zijn hoge positie om mensen onder druk te zetten.
+right: Aan het begin van de 17e eeuw ontstond landgoed Ekelenberg in het Oudland bij de Welberg. Het landgoed lag in het gebied dat tegenwoordig tussen de Hoogstraat en de Moerstraatseweg ligt. Op het landgoed lag een landhuis met daaromheen prachtige tuinen en vijvers en zelfs een wijngaard. E&eacute;n van de meest legendarische eigenaren van Ekelenberg was burgemeester Pieter Carel Wijnmalen. Een vreselijke man die zijn ambt gebruikte om mensen onder druk te zetten en te misbruiken. Op het landgoed, waar hij van 1822 tot 1833 woonde, speelde zich van alles af dat het daglicht niet kon verdragen. Er is zelfs een verhaal waarin beweert wordt dat hij zo gehaat was dat de duivel zijn lijk veranderd in een steen. Maar dat zal wel niet waar zijn. Of misschien toch? De mythe staat beschreven in het boek De Duivel op de Lijkwagen van Martien J.G. de Jong.
+wrong: 
+author: dasja
+answer: C

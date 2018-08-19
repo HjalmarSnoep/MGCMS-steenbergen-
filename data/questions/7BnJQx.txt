@@ -1,0 +1,18 @@
+title: Dijkdoorbraken
+published: 1
+body: In Kruisland zijn De Roode Weel, De Baak en de Wiel aan de Drenkhoos allemaal ontstaan als gevolg van dijkdoorbraken. Hoe noem je deze dijkdoorbraken?
+points: 120
+bricks: 25
+hintcost: 60
+cat: 4
+city: 4
+media: oadQNlz7n6
+A: Vennen
+B: Banden
+C: Poelen
+D: Wielen
+hint: Het antwoord komt terug in twee van de drie namen.
+right: De wateren met de naam Roode Weel, De Baak en de Wiel aan de Drenkhoos zijn ooit ontstaan doordat een dijk doorbraak en er flinke plas water achterbleef, dit noemen ze ook wel wielen of welen.
+wrong: 
+author: dasja
+answer: D
