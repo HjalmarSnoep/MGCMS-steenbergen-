@@ -11,6 +11,9 @@ function showimages()
 		html_string+='<tr>';
 		html_string+="<th><a href=\"javascript:sorfromn('id');\">id</a></th>";
 		html_string+="<th><a href=\"javascript:sorfromn('preview');\">preview</a></th>";
+		html_string+="<th><a href=\"javascript:sorfromn('naam');\">naam</a></th>";
+		html_string+="<th><a href=\"javascript:sorfromn('unlock','asnumber');\">unlock</a></th>";
+		html_string+="<th><a href=\"javascript:sorfromn('prijs','asnumber');\">prijs</a></th>";
 		html_string+="<th><a href=\"javascript:sorfromn('city');\">stad</a></th>";
 		html_string+="<th><a href=\"javascript:sorfromn('date');\">date</a></th>";
 		//html_string+="<th><a href=\"javascript:sorfromn('author');\">author</a></th>";
@@ -24,6 +27,9 @@ function showimages()
 			str+="<tr>";
 			str+="<td>"+images[i].id+"</td>";
 			str+="<td><a href='singleImageDetails.php?id=huizen&img="+images[i].id+".png'><img src='getSingleImage.php?id=huizen&img="+images[i].id+".png' height='60px'> <img alt='samenvoegen' label='samenvoegen' border='0' src='img/merge.png'></a></td>";
+			str+="<td>"+images[i].naam+"</td>";
+			str+="<td>"+images[i].unlock+"</td>";
+			str+="<td>"+images[i].prijs+"</td>";
 			str+="<td>"+city_names[parseInt(images[i].city)]+"</td>";
 			str+="<td>"+images[i].date+"</td>";
 			str+="<td>";
@@ -43,7 +49,7 @@ function showimages()
 	
 }
 // actions on list!
-function sorfromn(id)
+function sorfromn(id,sortkind)
 {
 	console.log("Sorfromn "+id);
 	if(lastLabel==sortLabel)
@@ -63,8 +69,26 @@ function sorfromn(id)
 	console.log("sort order is now:"+sorfromrder+ " sortLabel: "+sortLabel);
 	console.log("start sorting on " +sortLabel+" sorfromrder:"+sorfromrder);
 	images.sort(sorfromnLabel);
+	if(sortkind=="asnumber")
+	{
+		images.sort(sorfromnLabelAsNumber);
+	}
 	//console.log("sorted: "+images);
 	showimages();
+}
+
+function sorfromnLabelAsNumber(a,b)
+{
+	console.log("sort on label" +sortLabel+" sorfromrder:"+sorfromrder+" "+a[sortLabel]+","+b[sortLabel]);
+	if(typeof(a[sortLabel])==="undefined") return 1; // undefined ALWAY on botfromm!
+	if(typeof(b[sortLabel])==="undefined") return -1;
+	if(sorfromrder=="reverse")
+	{
+		return parseInt(a[sortLabel])-parseInt(b[sortLabel]) 
+	}else
+	{
+		return parseInt(b[sortLabel])-parseInt(a[sortLabel]) 
+	}
 }
 function sorfromnLabel(a,b)
 {

@@ -40,6 +40,15 @@ for($i=0;$i<$nr_of_images;$i++)
 				case "city":
 					$out_str.=$label[0].":\"".str_replace('"',"'",trim($label[1]))."\",".$lb;
 				break;
+				case "naam":
+					$out_str.=$label[0].":\"".str_replace('"',"'",trim($label[1]))."\",".$lb;
+				break;
+				case "unlock":
+					$out_str.=$label[0].":\"".str_replace('"',"'",trim($label[1]))."\",".$lb;
+				break;
+				case "prijs":
+					$out_str.=$label[0].":\"".str_replace('"',"'",trim($label[1]))."\",".$lb;
+				break;
 			}
 		}
 	}

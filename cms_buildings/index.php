@@ -67,6 +67,22 @@ header('Content-Type: text/html; charset=utf-8'); // this is needed to get speci
 	</head>
 <body>
 <h3>Huizen</h3>
+<fieldset>
+<legend>Automatisch vrijspelen bepalen aan de hand van de prijs</legend>
+Multiply prizes=<input type="number" value="30" id="unlock_factor"><br>
+increment_step=<input type="number" value="30" id="unlock_increment"><br>
+<button id="auto_unlock">Auto Unlock</button>
+</fieldset>
+<script>
+	var but=document.getElementById("auto_unlock");
+	but.addEventListener("click",autoUnlock);
+	function autoUnlock(ev)
+	{
+		 var unlock_factor=document.getElementById("unlock_factor").value;
+		 var unlock_increment=document.getElementById("unlock_increment").value;
+		 location.href="reset_vrijspelen.php?factor="+unlock_factor+"&unlock_increment="+unlock_increment+"&ck="+(new Date()).getTime();
+	}
+</script>
 <form action="add.php"
       class="dropzone"
       id="snoep-dropzone">

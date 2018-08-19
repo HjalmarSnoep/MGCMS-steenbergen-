@@ -178,6 +178,7 @@ header('Content-Type: text/html; charset=utf-8'); // this is needed to get speci
 			// en lx en ly??
 			$("#naam").val(item_details.naam);
 			$("#prijs").val(item_details.prijs);
+			$("#unlock").val(item_details.unlock);
 			
 		};
 		function updateRef(x,y)
@@ -344,6 +345,13 @@ for(i=0;i<city_names.length;i++)
 <input type="number" name="prijs" min="0" max="5000" id="prijs">
 </td>
 <td><div class="help" id="info_help">De naam die bij het huis moet komen (niet nodig voor vaste huizen, alleen voor huizen die te koop zijn)</div></td>
+</tr>
+<tr>
+<td>Vrijspelen</td><td></td>
+<td>
+<input type="number" name="unlock" min="0" id="unlock">
+</td>
+<td><div class="help" id="info_Vrijspelen">De hoeveelheid punten die een speler moet hebben om dit item vrij te spelen. (-1 betekent: niet te koop! Het zit vast aan een plaats.) Wil je een prijs, zorg dan OOK voor 'te koop' bij plaatsnaam!</div></td>
 </tr>
 
 

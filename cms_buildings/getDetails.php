@@ -21,6 +21,7 @@ if(!file_exists($filename))
 	$out_str.='city:"7",'.$lb;// also put in the timestamp!
 	$out_str.='published:"1",'.$lb;// also put in the timestamp!
 	$out_str.='prijs:"50",'.$lb;// also put in the timestamp!
+	$out_str.='unlock:"50",'.$lb; // also put unlock as a standard of 50..?
 	$out_str.='naam:"50",'.$lb;// also put in the timestamp!
 	$out_str.='lx:"50",'.$lb;// location-x
 	$out_str.='ly:"50",'.$lb;// location-y
@@ -33,7 +34,7 @@ if(!file_exists($filename))
 }
 else
 {
-	$fields=array("published","city","ly","naam","prijs","lx","rx","ry","w","h"); // [] only php 5.4!
+	$fields=array("published","city","ly","naam","prijs","unlock","lx","rx","ry","w","h"); // [] only php 5.4!
 	$out_str="item_details={".$lb;
 	// try and open the file and read the contents..
 	$out_str.='id:"'.$id.'",'.$lb;// also put in the timestamp!
@@ -49,7 +50,7 @@ else
 	}
 	$out_str = substr_replace(trim($out_str) ,"",-1); // remove last comma!
 	$out_str.="};".$lb;
-	
+
 }
 echo($out_str);
 ?>

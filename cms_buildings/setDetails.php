@@ -23,7 +23,7 @@ header('Content-Type: text/html; charset=utf-8'); // this is needed to get speci
 	
 <?php
 // clean these fields!
-$fields=array("id","rx","ry","lx","ly","prijs","naam","w","h","city","published");
+$fields=array("id","rx","ry","lx","ly","prijs","unlock","naam","w","h","city","published");
 $path_to_data="../data";
 $path_to_uploads="../cms_images/";
 $path_to_original_uploads="../cms_images_originals/";
@@ -92,6 +92,7 @@ foreach($fields as $f)
 			case "rx": 
 			case "ry": 
 			case "prijs": 
+			case "unlock": 
 			case "w": 
 			case "h": 
 			case "city": 
@@ -149,6 +150,7 @@ $data_str.="id: ".$cleaned_input["id"].$nl;
 $data_str.="published: ".$cleaned_input["published"].$nl;
 $data_str.="naam: ".$cleaned_input["naam"].$nl;
 $data_str.="prijs: ".$cleaned_input["prijs"].$nl;
+$data_str.="unlock: ".$cleaned_input["unlock"].$nl;
 $data_str.="rx: ".$cleaned_input["rx"].$nl;
 $data_str.="ry: ".$cleaned_input["ry"].$nl;
 $data_str.="lx: ".$cleaned_input["lx"].$nl;
